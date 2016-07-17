@@ -13,7 +13,9 @@ En parlant de main dans la main, nous aidons les développeurs les moins expéri
 
 Chaque nouveaux membres **à le devoir de se présenter lorsqu'il rejoint le discord**. Les membres qui ne se présentent pas seront Kick du groupe.
 
-Lien invitation discord : [ES-Community](https://discordapp.com/invite/0sRTKhyvzo78R44a)
+# Lien Discord : 
+
+Lien d'invitation : [ES-Community](https://discordapp.com/invite/0sRTKhyvzo78R44a)
 
 # Code de conduite
 
