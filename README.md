@@ -42,6 +42,12 @@ Autres comportements inadmissibles :
 
 En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Et bien évidemment faite des efforts sur l'orthographe ! 
 
+# Des salons pour chacun de vos besoins  
+
+![Salons ES Community](https://i.imgur.com/8BUCczi.png)
+
+Et même un salon vocal pour les plus motivés ! 
+
 # Autres langages 
 
 Si vous souhaitez discuter d'une problématique autour de PHP, Ruby, Go ou autres utiliser le salon "Autres". 
