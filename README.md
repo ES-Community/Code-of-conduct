@@ -1,5 +1,4 @@
-# ES-Community
-Communauté Ecmascript francophone.
+# Objectifs 
 
 L'objectif de la communauté est avant tout un lieu d'échange et de vieille technologique autour de l'écosystème ES et Web. C'est aussi un espace de discussion et d'interaction pour bâtir le monde de demain, tous ensemble main dans la main. (Par le biais de projets ou d'évènements). 
 
