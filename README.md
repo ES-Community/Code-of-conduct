@@ -1,8 +1,10 @@
 # Objectifs 
 
-L'objectif de la communauté est avant tout un lieu d'échange et de vieille technologique autour de l'écosystème ES et Web. C'est aussi un espace de discussion et d'interaction pour bâtir le monde de demain, tous ensemble main dans la main. (Par le biais de projets ou d'évènements). 
+L'objectif de la communauté est d'avant tout fournir un lieu d'échange et de vieille technologique autour de l'écosystème Ecmascript (Javascript) et Web. C'est aussi un espace de discussion et d'interaction pour bâtir le monde de demain, tous ensemble main dans la main. (Par le biais de projets ou d'évènements). 
 
 En parlant de main dans la main, nous aidons les développeurs les moins expérimentés qui requièrent notre aident. Nous attendons d'eux qu'ils travaillent fort pour qu'ils soient de plus en plus autonomes dans la résolution de leurs problèmes.
+
+Mais finalement c'est aussi plusieurs salons où l'on peut discuter librement entre nous de nos chefs d'équipe et tracas quotidien. Et pourquoi pas un jour, tous ensemble autour d'une bière ! (La bière uniquement pour les seniors :) ). 
 
 # Critères pour entrer : 
 
