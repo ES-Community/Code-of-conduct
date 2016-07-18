@@ -12,6 +12,8 @@ En parlant de main dans la main, nous aidons les développeurs les moins expéri
 
 Chaque nouveaux membres **à le devoir de se présenter lorsqu'il rejoint le discord**. Les membres qui ne se présentent pas seront Kick du groupe.
 
+> Nous n'acceptons pas les moins de 16 ans pour des questions de maturité et d'expérience de vie. Tous nos essais ont été des échecs...
+
 # Lien Discord : 
 
 Lien d'invitation : [ES-Community](https://discordapp.com/invite/0sRTKhyvzo78R44a)
@@ -27,7 +29,7 @@ Les discussions à caractère **personnelle** sont autorisés dans les salons **
 La communauté est essentiellement constituée de développeurs Ecmascript, alors je vous prie de ne pas venir pour faire la guerre du meilleur langage de développement. Ce n'est point l'objectif de notre communauté. 
 Les critiques sont bien evidemment la bienvenue (uniquement dans les salons **Général** et **Autres**). 
 
-Tout comportement de recrutement abusif seront eux aussi sanctionnés. Ne venez donc pas dans l'unique but de recruter pour votre dernier projet du moment si vous ne participez pas à la communauté.
+Tout comportement de recrutement abusif seront eux aussi sanctionnés. Ne venez donc pas dans l'unique but de recruter pour votre projet du moment si vous ne participez pas à la communauté.
 
 Les comportements de trolling sont prohibés si votre interlocuteur ne vous connaît pas ou peu. Il en va de même pour l'ironie ou toutes autres phrases à la limite de l'insulte gratuite. 
 
