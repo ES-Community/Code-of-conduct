@@ -28,3 +28,16 @@ J'inspire à devenir un expert fullstack dans les années à venir ! (Uniquement
 Yo la comu,  
 
 Je suis un campagnard du 89 mais qui depuis 6 ans vie en région Parisienne pour les études et maintenant le taff.  Je suis actuellement ingénieur développement dans un petit éditeur (15 pers.) de logiciel dans le domaine de la sécurité des SI. Je travaille sur le développement d'un IAM (Identity and Access Management) en .Net. En parallèle je suis en train de monter une startup dans le e-tourisme avec deux autres collaborateurs. Je suis le développeur full stack du projet.
+
+---
+
+## Xstoudi
+
+- Nom : STOUDER Xavier
+- Age : 18 ans
+- Métier : Etudiant en informatique de gestion
+- Compétences clés : TypeScript, EcmaScript5+, NodeJS, HTML & CSS, VanillaJS (DOM API), Java, SQL, MongoDB, C#, C++, ~~WinDev~~
+
+Hey !
+Je vis en Suisse et je dév depuis que j'ai 10-12 ans ! Je suis actuellement en école d'informatique pour obtenir un Certificat Fédéral de Capacité et j'aspire à devenir ingénieur en informatique pour me spécialiser dans le développement d'applications HA.
+Je dév majoritairement pour le plaisir. En ce moment, je me concentre énormément sur NodeJS mais le langage que j'utilise dans un projet dépend des specs de celui-ci, je suis donc plutôt polyvalent.
