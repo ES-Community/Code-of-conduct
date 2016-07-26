@@ -1,6 +1,6 @@
 # Objectifs 
 
-L'objectif de la communauté est d'avant tout fournir un lieu d'échange et de vieille technologique autour de l'écosystème Ecmascript (Javascript) et Web. C'est aussi un espace de discussion et d'interaction pour bâtir le monde de demain, tous ensemble main dans la main. (Par le biais de projets ou d'évènements). 
+L'objectif de la communauté est d'avant tout fournir un lieu d'échange et de veille technologique autour de l'écosystème Ecmascript (Javascript) et Web. C'est aussi un espace de discussion et d'interaction pour bâtir le monde de demain, tous ensemble main dans la main. (Par le biais de projets ou d'évènements). 
 
 En parlant de main dans la main, nous aidons les développeurs les moins expérimentés qui requièrent notre aident. Nous attendons d'eux qu'ils travaillent fort pour qu'ils soient de plus en plus autonomes dans la résolution de leurs problèmes.
 
@@ -26,16 +26,16 @@ En tant que membre de cette communauté vous devez le respect à chaque dévelop
 
 N'oubliez jamais que tout projet est une tâche humaine lourde et difficile à gérer (Surtout à long terme). Ne jugez donc pas trop vite les membres de la communauté. Respectez donc les projets de chacun, si cela ne vous plaît pas alors gardez-vous de tout commentaire négatif.
 
-Les discussions à caractère **personnelle** sont autorisés dans les salons **Général** & **Autres**. Dans les autres salons, les membres de la communauté peuvent vous demander en tout respect d'arrêter votre discussion / ou de la déplacer dans le salon approprié.
+Les discussions à caractère **personnelles** sont autorisés dans les salons **Général** & **Autres**. Dans les autres salons, les membres de la communauté peuvent vous demander en tout respect d'arrêter votre discussion / ou de la déplacer dans le salon approprié.
 
 La communauté est essentiellement constituée de développeurs Ecmascript, alors je vous prie de ne pas venir pour faire la guerre du meilleur langage de développement. Ce n'est point l'objectif de notre communauté. 
 Les critiques sont bien evidemment la bienvenue (uniquement dans les salons **Général** et **Autres**). 
 
-Tout comportement de recrutement abusif seront eux aussi sanctionnés. Ne venez donc pas dans l'unique but de recruter pour votre projet du moment si vous ne participez pas à la communauté.
+Tout recrutement abusif sera sanctionné. Ne venez donc pas dans l'unique but de recruter pour votre projet du moment si vous ne participez pas à la communauté.
 
 Les comportements de trolling sont prohibés si votre interlocuteur ne vous connaît pas ou peu. Il en va de même pour l'ironie ou toutes autres phrases à la limite de l'insulte gratuite. 
 
-Les discussions autour de sujets politiques ou faisant référence aux religions sont à prohibés.
+Les discussions autour de sujets politiques ou faisant référence aux religions sont prohibés.
 
 Autres comportements inadmissibles : 
 
