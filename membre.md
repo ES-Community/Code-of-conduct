@@ -25,4 +25,6 @@ J'inspire à devenir un expert fullstack dans les années à venir ! (Uniquement
 - Métier : Ingénieur développement. 
 - Compétences clés : C/C++/C# , ECMAscript5+, HTML & CSS, NodeJS, SQL, MongoDB   
 
-Yo la comu,  Je suis un campagnard du 89 mais qui depuis 6 ans vie en région Parisienne pour les études et maintenant le taff.  Le suis actuellement ingénieur développement dans un petit éditeur (15 pers.) de logiciel dans le domaine de la sécurité des SI. Je travaille sur le développement d'un IAM (Identity and Access Management) en .Net. En parallèle je suis en train de monter une startup dans le e-tourisme avec deux autres collaborateurs. Je suis le développeur full stack du projet.
+Yo la comu,  
+
+Je suis un campagnard du 89 mais qui depuis 6 ans vie en région Parisienne pour les études et maintenant le taff.  Je suis actuellement ingénieur développement dans un petit éditeur (15 pers.) de logiciel dans le domaine de la sécurité des SI. Je travaille sur le développement d'un IAM (Identity and Access Management) en .Net. En parallèle je suis en train de monter une startup dans le e-tourisme avec deux autres collaborateurs. Je suis le développeur full stack du projet.
