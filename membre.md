@@ -7,7 +7,7 @@ Cette page ne contient évidemment pas forcément la présentation de tous les m
 - **Nom** : GENTILHOMME Thomas 
 - **Age** : 21 ans
 - **Métier** : Développeur web fullstack.
-- **Compétences clés** : ECMAscript5+, HTML & CSS, NodeJS, VanillaJS (DOM API), SQL
+- **Compétences clés** : ECMAscript5+, HTML & CSS, NodeJS, VanillaJS, SQL, Perl, Lua, MongoDB
 
 Salut, 
 
@@ -36,7 +36,7 @@ Je suis un campagnard du 89 mais qui depuis 6 ans vie en région Parisienne pour
 - Nom : STOUDER Xavier
 - Age : 18 ans
 - Métier : Etudiant en informatique de gestion
-- Compétences clés : TypeScript, EcmaScript5+, NodeJS, HTML & CSS, VanillaJS (DOM API), Java, SQL, MongoDB, C#, C++, ~~WinDev~~
+- Compétences clés : TypeScript, ECMAscript5+, NodeJS, HTML & CSS, VanillaJS, Java, SQL, MongoDB, C++/C#
 
 Hey !
 Je vis en Suisse et je dév depuis que j'ai 10-12 ans ! Je suis actuellement en école d'informatique pour obtenir un Certificat Fédéral de Capacité et j'aspire à devenir ingénieur en informatique pour me spécialiser dans le développement d'applications HA.
