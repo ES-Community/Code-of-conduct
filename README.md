@@ -12,7 +12,7 @@ Mais finalement c'est aussi plusieurs salons où l'on peut discuter librement en
 - Etre développeur Ecmascript. 
 - UX et UI Designer peuvent entrer dans le groupe. 
 
-Chaque nouveaux membres **à le devoir de se présenter lorsqu'il rejoint le discord**. Les membres qui ne se présentent pas seront Kick du groupe.
+Chaque nouveaux membres **à le devoir de se présenter lorsqu'il rejoint le discord**. Les membres qui ne se présentent pas seront Kick du groupe. (Présentation à faire dans le salon #general).
 
 > Nous n'acceptons pas les moins de 16 ans pour des questions de maturité et d'expérience de vie. Tous nos essais ont été des échecs...
 
@@ -48,6 +48,8 @@ En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre c
 # Des salons pour chacun de vos besoins  
 
 ![Salons ES Community](https://i.imgur.com/8BUCczi.png)
+
+Le salon #liens vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe bien évidemment. 
 
 Et même un salon vocal pour les plus motivés ! 
 
