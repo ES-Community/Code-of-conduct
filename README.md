@@ -19,7 +19,7 @@ Chaque nouveaux membres **à le devoir de se présenter lorsqu'il rejoint le dis
 
 # Lien Discord : 
 
-Lien d'invitation : [ES-Community](https://discordapp.com/invite/0sRTKhyvzo78R44a) [**Place limitée**]
+Lien d'invitation : [ES-Community](https://discord.gg/zkg9CB2) [**Place limitée**]
 
 # Code de conduite
 
