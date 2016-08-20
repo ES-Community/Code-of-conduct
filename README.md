@@ -40,6 +40,8 @@ Les discussions autour de sujets politiques ou faisant référence aux religions
 
 Les débats doivent être explicitement fondé sur des bases techniques solides. Tout débat "guéguerre" du genre : "**C# VS JAVA**" sont prohibés de la communauté. Nous acceptons ce genre de débat quand il y a des arguments de fond intéressants, comme par exemple (portabilité, gestion HA, etc.). Avoir une vision 360 degrés sur l'ensemble des éléments c'est ce qui fait l'expertise (et pas seulement cracher sur la "**syntaxe**" qui ne nous convient pas).
 
+Une trop longue période d'inactivité peut être la raison d'une expulsion du groupe. (Surtout si l'on ne vous connaît pas du tout).
+
 Autres comportements inadmissibles : 
 
 - Attaque personnelle. 
@@ -50,11 +52,29 @@ En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre c
 
 # Des salons pour chacun de vos besoins  
 
-![Salons ES Community](https://i.imgur.com/8BUCczi.png)
+- annonces (salon des annonces officielles, seuls les modérateurs peuvent écrire).
+- general & autres (salons libre).
+- ecmascript (et tous qui est en liaison avec ECMAscript, par exemple : TypeScript,Babel,CoffeeScript etc..) 
+- nodejs 
+- webgl (Tous qui concerne canvas,webgl ou des moteurs de jeu web comme phaser.io, superpowers, etc..) 
+- html & css
+- framework front (AngularJS,ReactJS,VueJS,RiotJS,JQuery,VanillaJS etc..) 
+- scriptings (Scripting avec NodeJS ou des langages comme perl et lua).
+- design
+- git
+- cpp (C++, nottament pour des packages C++ NodeJS avec le V8 Engine).
+- database (SQL,MySQL,MariaDB,MongoDB,Redis,RethinkDB etc..) 
+- nginx & apache 
+- system (Scripts system, mise en production, etc..)
+- liens
 
-Le salon #liens vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe bien évidemment. 
+Le salon **#liens** vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe bien évidemment. 
 
-Et même un salon vocal pour les plus motivés ! 
+Exemple avec un screenshot : 
+
+![Salon liens](https://i.imgur.com/FusRT6A.png)
+
+Et même des salons vocaux pour les plus motivés ! 
 
 # Autres langages 
 
