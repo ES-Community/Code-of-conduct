@@ -41,3 +41,18 @@ Je suis un campagnard du 89 mais qui depuis 6 ans vie en région Parisienne pour
 Hey !
 Je vis en Suisse et je dév depuis que j'ai 10-12 ans ! Je suis actuellement en école d'informatique pour obtenir un Certificat Fédéral de Capacité et j'aspire à devenir ingénieur en informatique pour me spécialiser dans le développement d'applications HA.
 Je dév majoritairement pour le plaisir. En ce moment, je me concentre énormément sur NodeJS mais le langage que j'utilise dans un projet dépend des specs de celui-ci, je suis donc plutôt polyvalent.
+
+---
+
+## antoine311200
+
+- **Nom** : DEBOUCHAGE Antoine 
+- **Age** : 16 ans
+- **Métier** : Lycéen, 1ère S SI.
+- **Compétences clés** : ECMAscript5+, HTML & CSS, NodeJS, Lua
+
+Hey, 
+
+J'habite en région parisienne et suis actuellement en première S option Science de l'Ingénieur. Je fais du développement informatique depuis maintenant +4 ans. Je voudrais par la suite me spécialiser en développement web (web app, site...) full-stack ou back-end.
+Je développe beaucoup durant mon temps libre dans de nombreux projets notamment sur Superpowers en créant des jeux avec des amis ou encore dans des projets webs (souvent des sites permettant l'apprentissage dans un quelconque domaine : langues, maths...). 
+Voilà voilà !
