@@ -20,10 +20,10 @@ J'inspire à devenir un expert fullstack dans les années à venir ! (Uniquement
 
 ## Tiyo 
 
-- Nom : BONDEAU Yohann 
-- Age : 24 ans 
-- Métier : Ingénieur développement. 
-- Compétences clés : C/C++/C# , ECMAscript5+, HTML & CSS, NodeJS, SQL, MongoDB   
+- **Nom** : BONDEAU Yohann 
+- **Age** : 24 ans 
+- **Métier** : Ingénieur développement. 
+- **Compétences clés** : C/C++/C# , ECMAscript5+, HTML & CSS, NodeJS, SQL, MongoDB   
 
 Yo la comu,  
 
@@ -33,10 +33,10 @@ Je suis un campagnard du 89 mais qui depuis 6 ans vie en région Parisienne pour
 
 ## Xstoudi
 
-- Nom : STOUDER Xavier
-- Age : 18 ans
-- Métier : Etudiant en informatique de gestion
-- Compétences clés : TypeScript, ECMAscript5+, NodeJS, HTML & CSS, VanillaJS, Java, SQL, MongoDB, C++/C#
+- **Nom** : STOUDER Xavier
+- **Age** : 18 ans
+- **Métier** : Etudiant en informatique de gestion
+- **Compétences clés** : TypeScript, ECMAscript5+, NodeJS, HTML & CSS, VanillaJS, Java, SQL, MongoDB, C++/C#
 
 Hey !
 Je vis en Suisse et je dév depuis que j'ai 10-12 ans ! Je suis actuellement en école d'informatique pour obtenir un Certificat Fédéral de Capacité et j'aspire à devenir ingénieur en informatique pour me spécialiser dans le développement d'applications HA.
@@ -56,3 +56,16 @@ Hey,
 J'habite en région parisienne et suis actuellement en première S option Science de l'Ingénieur. Je fais du développement informatique depuis maintenant +4 ans. Je voudrais par la suite me spécialiser en développement web (web app, site...) full-stack ou back-end.
 Je développe beaucoup durant mon temps libre dans de nombreux projets notamment sur Superpowers en créant des jeux avec des amis ou encore dans des projets webs (souvent des sites permettant l'apprentissage dans un quelconque domaine : langues, maths...). 
 Voilà voilà !
+
+---
+
+## Antoine Neff
+
+- **Nom** : NEFF Antoine 
+- **Age** : 24 ans
+- **Métier** : Développeur web fullstack.
+- **Compétences clés** : ECMAscript5+, HTML & CSS, NodeJS, PHP, Vanilla JS, Phonegap/Cordova, Ionic, MySQL, MongoDB
+
+Bonjour, 
+
+Je suis actuellement en formation en alternance à Paris et travaille en tant que développeur fullstack sur du AngularJS principalement. J'ai commencé à apprendre à coder vers l'âge de 13 ans (HTML et CSS), ai un peu touché à tout (C, Photoshop, Blender, iOS) mais je me suis tourné vers le développement web avec principalement le langage JavaScript que j'apprécie particulièrement. Sinon pendant mon temps libre, j'aime coder et apprendre de nouveaux trucs, je regarde pas mal de séries également !
