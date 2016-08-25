@@ -89,3 +89,4 @@ Tous comportements abusifs peuvent être rapportés aux modérateurs de la commu
 - Purexo (@_Purexo) 
 - Xstoudi (@Xstoudi)
 - Tiyo
+- Antoine Neff
