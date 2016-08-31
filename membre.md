@@ -69,3 +69,20 @@ Voilà voilà !
 Bonjour, 
 
 Je suis actuellement en formation en alternance à Paris et travaille en tant que développeur fullstack sur du AngularJS principalement. J'ai commencé à apprendre à coder vers l'âge de 13 ans (HTML et CSS), ai un peu touché à tout (C, Photoshop, Blender, iOS) mais je me suis tourné vers le développement web avec principalement le langage JavaScript que j'apprécie particulièrement. Sinon pendant mon temps libre, j'aime coder et apprendre de nouveaux trucs, je regarde pas mal de séries également !
+
+---
+
+## Blue
+
+- **Nom** : LAVILLE Armand
+- **Age** : 17 ans
+- **Métier** : Etudiant en informatique de gestion
+- **Compétences clés** : TypeScript, ECMAscript5+, NodeJS, HTML, VanillaJS, Java, SQL, MongoDB, C++/C#, Python
+
+Salut à tous,
+
+Je suis actuellement en école d'informatique pour obtenir un Certificat Fédéral de Capacité (dans la classe de Xstoudi) en Suisse.
+
+Je dev de temps à autre en dehors de l'école, mais je compte me lancer peut-être plus dans le dev de jeux vidéos. J'ai eu trituré des bases de données et j'aime assez bien. Malgré le quelque peu qui me sert de connaissance, j'aime bien aider mon prochain.
+
+En dehors de l'informatique, je fais du tir à 300m et j'aime bien l'aviation.
