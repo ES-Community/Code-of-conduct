@@ -103,3 +103,18 @@ Comme mes deux "collègues" Xstoudi et Blue je suis en école d'informatique pou
 J'ai commencé à coder il y a deux ans à l'école en suivant des cours de C++ et en faisant des plugins Minecraft avec Xstoudi comme professeur de Java. Ce qui m'intéresse le plus dans la programmation, c'est l'aspect algorithmique.
 
 Pris d'une passion pour Linux depuis quelques mois, j'apprends le C afin de pouvoir contribuer d'ici quelques années à ce noyau et aux OS basés sur ce dernier.
+
+## Kenshimdev
+
+- **Nom** : HUTTER Valentin 
+- **Age** : 20 ans
+- **Métier** : Etudiant en informatique généraliste
+- **Compétences clés** : HTML, CSS, JS(AngularJS), PHP(Laravel5), Ionic/Cordova/Phonegap, C#, SQL, SHELL
+
+Bonjour,
+
+Je suis actuellement étudiant en informatique (formation généraliste) afin d'obtenir un Certificat Fédéral de Capacité à la fin de cette année, en Suisse.
+
+Ce que je préfère le plus, c'est le développement web et l'administration système. Par conséquent j'aime allier ces compétences ensemble.
+
+Pour finir, j'aime beaucoup faire de la moto en dehors de l'informatique :).
