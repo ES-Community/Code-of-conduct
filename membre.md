@@ -86,3 +86,20 @@ Je suis actuellement en école d'informatique pour obtenir un Certificat Fédér
 Je dev de temps à autre en dehors de l'école, mais je compte me lancer peut-être plus dans le dev de jeux vidéos. J'ai eu trituré des bases de données et j'aime assez bien. Malgré le quelque peu qui me sert de connaissance, j'aime bien aider mon prochain.
 
 En dehors de l'informatique, je fais du tir à 300m et j'aime bien l'aviation.
+
+---
+
+## Kenshimdev
+
+- **Nom** : HUTTER Valentin 
+- **Age** : 20 ans
+- **Métier** : Etudiant en informatique généraliste
+- **Compétences clés** : HTML, CSS, JS(AngularJS), PHP(Laravel5), Ionic/Cordova/Phonegap, C#, SQL, SHELL
+
+Bonjour,
+
+Je suis actuellement étudiant en informatique (formation généraliste) afin d'obtenir un Certificat Fédéral de Capacité à la fin de cette année, en Suisse.
+
+Ce que je préfère le plus, c'est le développement web et l'administration système. Par conséquent j'aime allier ces compétences ensemble.
+
+Pour finir, j'aime beaucoup faire de la moto en dehors de l'informatique :).
