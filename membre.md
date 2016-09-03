@@ -86,3 +86,20 @@ Je suis actuellement en école d'informatique pour obtenir un Certificat Fédér
 Je dev de temps à autre en dehors de l'école, mais je compte me lancer peut-être plus dans le dev de jeux vidéos. J'ai eu trituré des bases de données et j'aime assez bien. Malgré le quelque peu qui me sert de connaissance, j'aime bien aider mon prochain.
 
 En dehors de l'informatique, je fais du tir à 300m et j'aime bien l'aviation.
+
+---
+
+## BNedry
+
+- **Nom** : THEURILLAT Brice 
+- **Age** : 17 ans
+- **Métier** : Etudiant en informatique de gestion
+- **Compétences clés** : ECMAscript5+, Typescript, HTML & CSS, NodeJS, VanillaJS, SQL, C/C++, Java
+
+Bonjour à tous,
+
+Comme mes deux "collègues" Xstoudi et Blue je suis en école d'informatique pour obtenir un Certificat Fédéral de Capacité en Suisse. Après l'obtention de mon CFC, j'espère pouvoir integrer l'Ecole Polytechnique Fédérale de Lausanne pour décrocher un bachelor en informatique dans un premier temps.
+
+J'ai commencé à coder il y a deux ans à l'école en suivant des cours de C++ et en faisant des plugins Minecraft avec Xstoudi comme professeur de Java. Ce qui m'intéresse le plus dans la programmation, c'est l'aspect algorithmique.
+
+Pris d'une passion pour Linux depuis quelques mois, j'apprends le C afin de pouvoir contribuer d'ici quelques années à ce noyau et aux OS basés sur ce dernier.
