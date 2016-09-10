@@ -19,7 +19,7 @@ Chaque nouveau membre **a le devoir de se présenter lorsqu'il rejoint le Discor
 
 # Lien Discord : 
 
-Lien d'invitation : [ES-Community](https://discord.gg/zkg9CB2) [**Places limitées**]
+Lien d'invitation : [ES-Community](https://discord.gg/etk9qx5) [**Places limitées**]
 
 # Code de conduite
 
