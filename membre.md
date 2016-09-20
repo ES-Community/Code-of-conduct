@@ -104,6 +104,8 @@ J'ai commencé à coder il y a deux ans à l'école en suivant des cours de C++ 
 
 Pris d'une passion pour Linux depuis quelques mois, j'apprends le C afin de pouvoir contribuer d'ici quelques années à ce noyau et aux OS basés sur ce dernier.
 
+---
+
 ## Kenshimdev
 
 - **Nom** : HUTTER Valentin 
@@ -118,3 +120,26 @@ Je suis actuellement étudiant en informatique (formation généraliste) afin d'
 Ce que je préfère le plus, c'est le développement web et l'administration système. Par conséquent j'aime allier ces compétences ensemble.
 
 Pour finir, j'aime beaucoup faire de la moto en dehors de l'informatique :).
+
+---
+
+## Nolan
+
+- **Nom** : Rigo Nolan
+- **Age** : 22 ans
+- **Métier** : Etudiant en [ES informatique, spécialisation web](http://www.cpnv.ch/formations/#Technicien-ES-en-informatique)
+- **Compétences clés** : HTML, CSS, VanillaJS, NodeJS, AngularJS, ECMAscript5+, Ruby, SQL, NoSQL (MongoDB, Redis), PHP (Laravel 5), Linux, Docker
+- **En cours d'apprentissage** : ReactJS
+
+Bonjour,
+
+Je me suis intéressé au développement web, il y a 7 ans, par curiosité.
+C'est vite devenu une passion et un objectif professionel.
+
+J'ai donc fait un CFC d'informaticien généraliste (sur 4ans)
+et je suis actuellement en train de faire une ES en informatique, spécialisé dans le développement web (sur 2ans).
+
+Après cette formation, j'ai pour objectif de lancer ma petite entreprise / startup dans le domaine du web (en cours de réflexion).
+
+Je ne suis pas fortiche en présentation,
+je vous invite à discuter avec moi sur Discord pour faire plus connaissance.
