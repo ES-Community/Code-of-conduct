@@ -118,3 +118,16 @@ Je suis actuellement étudiant en informatique (formation généraliste) afin d'
 Ce que je préfère le plus, c'est le développement web et l'administration système. Par conséquent j'aime allier ces compétences ensemble.
 
 Pour finir, j'aime beaucoup faire de la moto en dehors de l'informatique :).
+
+## Purexo
+
+- **Nom** : POISSEAU Théotime
+- **Age** : 23 ans
+- **Métier** : Développeur Web FullStack / Administrateur Système
+- **Compétences clés** : HTML5, CSS3, JS(ES5/ES6/jQuery), PHP(Symfony3/CakePHP), SQL(MySQL/MariaDB/PostgreSQL/SQLServeur), NoSQL(MongoDB/Redis/RethinkDB), NodeJS(ExpressJS), Git, Python
+ 
+Bonjour à tous,
+
+Je suis depuis la fin de mes études Développeur Web le jours, Administrateur Système la nuit ^^. Pour moi l'informatique est une passion depuis le collège, j'ai dabord commencé en bidouillant le PC familliale puis je me suis intéressé eux jeux vidéo et à leurs développement avec GameMaker. Durant mes années en superieur je me suis mis à l'administration système sur des VPS (Staria, Stabound-Fr, le miens, et plus récement Antarka)
+
+Assez récement je me suis mis au python, c'est un langage que j'apprécie particulierement que j'ai découvert grâce à un ami et que j'ai appris à l'aide de [Sam & Max](http://sametmax.com/)
