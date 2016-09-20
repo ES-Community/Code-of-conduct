@@ -155,3 +155,18 @@ Après cette formation, j'ai pour objectif de lancer ma petite entreprise / star
 
 Je ne suis pas fortiche en présentation,
 je vous invite à discuter avec moi sur Discord pour faire plus connaissance.
+
+---
+
+## Jonny |ILB
+
+- **Nom** : HOFMANN Jonny
+- **Age** : 18 ans
+- **Métier** : Etudiant informatique d'entreprise
+- **Compétences clés** : HTML, CSS, JS, PHP, C++, SQL, SHELL, C, Eléctronique, pug
+
+Bonjour à tous,
+Comme mes amis Blue, B.Nedry et XStoudi je suis en école d'informatique pour obtenir un Certificat Fédéral de Capacité en Suisse.  
+
+J'ai commencé à coder il y a deux ans dans un cours de c++. Je code dans mon temps libre ou dans les temps ennuyeux de l'école. Je m'amuse énormément à mélanger l'éléctronique avec l'informatique. Ces derniers temps pris par le NodeJS je passe pas mal de temps dessus pour mieux le comprendre et à faire des petits projets avec.  
+En dehors de l'informatique je suis un grand passionné par les voitures et les motos et je voudrai intégrer dans le futur un système dans une voiture.
