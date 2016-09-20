@@ -1,28 +1,28 @@
-# Présentation des membres de la communauté 
+# Présentation des membres de la communauté
 
 Cette page ne contient évidemment pas forcément la présentation de tous les membres de la communauté. Si vous souhaitez ajouter ou modifier votre description n'hésitez pas à faire une pull-request.
 
 ## Fraxken
 
-- **Nom** : GENTILHOMME Thomas 
+- **Nom** : GENTILHOMME Thomas
 - **Age** : 21 ans
 - **Métier** : Développeur web fullstack.
 - **Compétences clés** : ECMAscript5+, HTML & CSS, NodeJS, VanillaJS, SQL, Perl, Lua, MongoDB
 
-Salut, 
+Salut,
 
-donc j'habite et travaille en région Parisienne et je suis actuellement en mission à BNP Paribas dans la mise en place/production de solution de monitoring système (Développement de script perl et lua dans mon cas). 
-Sur mon temps libre je travaille avec ma startup de création de jeux vidéo web avec canvas et la techno WEBGL. J'investis énormément de mon temps libre dans des projets communautaires et open source autour d'ECMAscript, TypeScript ou encore NodeJS. 
+donc j'habite et travaille en région Parisienne et je suis actuellement en mission à BNP Paribas dans la mise en place/production de solution de monitoring système (Développement de script perl et lua dans mon cas).
+Sur mon temps libre je travaille avec ma startup de création de jeux vidéo web avec canvas et la techno WEBGL. J'investis énormément de mon temps libre dans des projets communautaires et open source autour d'ECMAscript, TypeScript ou encore NodeJS.
 
 J'inspire à devenir un expert fullstack dans les années à venir ! (Uniquement NodeJS pour le back-end dans mon cas ^^).
 
 ---
 
-## Tiyo 
+## Tiyo
 
-- **Nom** : BONDEAU Yohann 
-- **Age** : 24 ans 
-- **Métier** : Ingénieur développement. 
+- **Nom** : BONDEAU Yohann
+- **Age** : 24 ans
+- **Métier** : Ingénieur développement.
 - **Compétences clés** : C/C++/C# , ECMAscript5+, HTML & CSS, NodeJS, SQL, MongoDB   
 
 Yo la comu,  
@@ -46,27 +46,27 @@ Je dév majoritairement pour le plaisir. En ce moment, je me concentre énormém
 
 ## Nattack
 
-- **Nom** : DEBOUCHAGE Antoine 
+- **Nom** : DEBOUCHAGE Antoine
 - **Age** : 16 ans
 - **Métier** : Lycéen, 1ère S SI.
 - **Compétences clés** : ECMAscript5+, HTML & CSS, NodeJS, Lua
 
-Hey, 
+Hey,
 
 J'habite en région parisienne et suis actuellement en première S option Science de l'Ingénieur. Je fais du développement informatique depuis maintenant +4 ans. Je voudrais par la suite me spécialiser en développement web (web app, site...) full-stack ou back-end.
-Je développe beaucoup durant mon temps libre dans de nombreux projets notamment sur Superpowers en créant des jeux avec des amis ou encore dans des projets webs (souvent des sites permettant l'apprentissage dans un quelconque domaine : langues, maths...). 
+Je développe beaucoup durant mon temps libre dans de nombreux projets notamment sur Superpowers en créant des jeux avec des amis ou encore dans des projets webs (souvent des sites permettant l'apprentissage dans un quelconque domaine : langues, maths...).
 Voilà voilà !
 
 ---
 
 ## Antoine Neff
 
-- **Nom** : NEFF Antoine 
+- **Nom** : NEFF Antoine
 - **Age** : 24 ans
 - **Métier** : Développeur web fullstack.
 - **Compétences clés** : ECMAscript5+, HTML & CSS, NodeJS, PHP, Vanilla JS, Phonegap/Cordova, Ionic, MySQL, MongoDB
 
-Bonjour, 
+Bonjour,
 
 Je suis actuellement en formation en alternance à Paris et travaille en tant que développeur fullstack sur du AngularJS principalement. J'ai commencé à apprendre à coder vers l'âge de 13 ans (HTML et CSS), ai un peu touché à tout (C, Photoshop, Blender, iOS) mais je me suis tourné vers le développement web avec principalement le langage JavaScript que j'apprécie particulièrement. Sinon pendant mon temps libre, j'aime coder et apprendre de nouveaux trucs, je regarde pas mal de séries également !
 
@@ -91,7 +91,7 @@ En dehors de l'informatique, je fais du tir à 300m et j'aime bien l'aviation.
 
 ## BNedry
 
-- **Nom** : THEURILLAT Brice 
+- **Nom** : THEURILLAT Brice
 - **Age** : 17 ans
 - **Métier** : Etudiant en informatique de gestion
 - **Compétences clés** : ECMAscript5+, Typescript, HTML & CSS, NodeJS, VanillaJS, SQL, C/C++, Java
@@ -106,7 +106,7 @@ Pris d'une passion pour Linux depuis quelques mois, j'apprends le C afin de pouv
 
 ## Kenshimdev
 
-- **Nom** : HUTTER Valentin 
+- **Nom** : HUTTER Valentin
 - **Age** : 20 ans
 - **Métier** : Etudiant en informatique généraliste
 - **Compétences clés** : HTML, CSS, JS(AngularJS), PHP(Laravel5), Ionic/Cordova/Phonegap, C#, SQL, SHELL
@@ -118,3 +118,18 @@ Je suis actuellement étudiant en informatique (formation généraliste) afin d'
 Ce que je préfère le plus, c'est le développement web et l'administration système. Par conséquent j'aime allier ces compétences ensemble.
 
 Pour finir, j'aime beaucoup faire de la moto en dehors de l'informatique :).
+
+---
+
+## I_Like__Bananas
+
+- **Nom** : HOFMANN Jonny
+- **Age** : 18 ans
+- **Métier** : Etudiant informatique d'entreprise
+- **Compétences clés** : HTML, CSS, JS, PHP, C++, SQL, SHELL, C, Eléctronique, pug
+
+Bonjour à tous,
+Comme mes amis Blue, B.Nedry et XStoudi je suis en école d'informatique pour obtenir un Certificat Fédéral de Capacité en Suisse.  
+
+J'ai commencé à coder il y a deux ans dans un cours de c++. Je code dans mon temps libre ou dans les temps ennuyeux de l'école. Je m'amuse énormément à mélanger l'éléctronique avec l'informatique. Ces derniers temps pris par le NodeJS je passe pas mal de temps dessus pour mieux le comprendre et à faire des petits projets avec.  
+En dehors de l'informatique je suis un grand passionné par les voitures et les motos et je voudrai intégrer dans le futur un système dans une voiture.
