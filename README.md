@@ -86,7 +86,7 @@ Si vous souhaitez discuter d'une problématique autour de PHP, Ruby, Go ou autre
 Tous comportements abusifs peuvent être rapportés aux modérateurs de la communauté ! 
 
 - Fraxken (@fraxken), Skype : fraxkens 
-- Purexo (@_Purexo) 
+- Purexo (@Purexo_) 
 - Xstoudi (@Xstoudi)
 - Tiyo
 - Antoine Neff
