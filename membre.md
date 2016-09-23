@@ -83,7 +83,7 @@ Salut à tous,
 
 Je suis actuellement en école d'informatique pour obtenir un Certificat Fédéral de Capacité (dans la classe de Xstoudi) en Suisse.
 
-Je dev de temps à autre en dehors de l'école, mais je compte me lancer peut-être plus dans le dev de jeux vidéos. J'ai eu trituré des bases de données et j'aime assez bien. Malgré le quelque peu qui me sert de connaissance, j'aime bien aider mon prochain.
+Je dev de temps à autre en dehors de l'école, mais je compte me lancer peut-être plus dans le dev de jeux vidéo. J'ai eu trituré des bases de données et j'aime assez bien. Malgré le quelque peu qui me sert de connaissance, j'aime bien aider mon prochain.
 
 En dehors de l'informatique, je fais du tir à 300m et j'aime bien l'aviation.
 
@@ -98,7 +98,7 @@ En dehors de l'informatique, je fais du tir à 300m et j'aime bien l'aviation.
 
 Bonjour à tous,
 
-Comme mes deux "collègues" Xstoudi et Blue je suis en école d'informatique pour obtenir un Certificat Fédéral de Capacité en Suisse. Après l'obtention de mon CFC, j'espère pouvoir integrer l'Ecole Polytechnique Fédérale de Lausanne pour décrocher un bachelor en informatique dans un premier temps.
+Comme mes deux "collègues" Xstoudi et Blue je suis en école d'informatique pour obtenir un Certificat Fédéral de Capacité en Suisse. Après l'obtention de mon CFC, j'espère pouvoir intégrer l'Ecole Polytechnique Fédérale de Lausanne pour décrocher un bachelor en informatique dans un premier temps.
 
 J'ai commencé à coder il y a deux ans à l'école en suivant des cours de C++ et en faisant des plugins Minecraft avec Xstoudi comme professeur de Java. Ce qui m'intéresse le plus dans la programmation, c'est l'aspect algorithmique.
 
@@ -130,9 +130,9 @@ Pour finir, j'aime beaucoup faire de la moto en dehors de l'informatique :).
 
 Bonjour à tous,
 
-Je suis depuis la fin de mes études Développeur Web le jours, Administrateur Système la nuit ^^. Pour moi l'informatique est une passion depuis le collège, j'ai dabord commencé en bidouillant le PC familliale puis je me suis intéressé eux jeux vidéo et à leurs développement avec GameMaker. Durant mes années en superieur je me suis mis à l'administration système sur des VPS (Staria, Stabound-Fr, le miens, et plus récement Antarka)
+Je suis depuis la fin de mes études Développeur Web le jours, Administrateur Système la nuit ^^. Pour moi l'informatique est une passion depuis le collège, j'ai d'abord commencé en bidouillant le PC familial puis je me suis intéressé aux jeux vidéo et à leur développement avec GameMaker. Durant mes années en supérieur je me suis mis à l'administration système sur des VPS (Staria, Stabound-Fr, le miens, et plus récemment Antarka)
 
-Assez récement je me suis mis au python, c'est un langage que j'apprécie particulierement que j'ai découvert grâce à un ami et que j'ai appris à l'aide de [Sam & Max](http://sametmax.com/)
+Assez récememnt je me suis mis au Python, c'est un langage que j'apprécie particulièrement que j'ai découvert grâce à un ami et que j'ai appris à l'aide de [Sam & Max](http://sametmax.com/)
 
 ---
 
@@ -148,17 +148,15 @@ Bonjour,
 Je me suis intéressé au développement web, il y a 7 ans, par curiosité.
 C'est vite devenu une passion et un objectif professionel.
 
-J'ai donc fait un CFC d'informaticien généraliste (sur 4ans)
-et je suis actuellement en train de faire une ES en informatique, spécialisé dans le développement web (sur 2ans).
+J'ai donc fait un CFC d'informaticien généraliste (sur 4 ans) et je suis actuellement en train de faire une ES en informatique, spécialisé dans le développement web (sur 2ans).
 
 Après cette formation, j'ai pour objectif de lancer ma petite entreprise / startup dans le domaine du web (en cours de réflexion).
 
-Je ne suis pas fortiche en présentation,
-je vous invite à discuter avec moi sur Discord pour faire plus connaissance.
+Je ne suis pas fortiche en présentation, je vous invite à discuter avec moi sur Discord pour faire plus connaissance.
 
 ---
 
-## Jonny |ILB
+## Jonny | ILB
 
 - **Nom** : HOFMANN Jonny
 - **Age** : 18 ans
@@ -168,5 +166,5 @@ je vous invite à discuter avec moi sur Discord pour faire plus connaissance.
 Bonjour à tous,
 Comme mes amis Blue, B.Nedry et XStoudi je suis en école d'informatique pour obtenir un Certificat Fédéral de Capacité en Suisse.  
 
-J'ai commencé à coder il y a deux ans dans un cours de c++. Je code dans mon temps libre ou dans les temps ennuyeux de l'école. Je m'amuse énormément à mélanger l'éléctronique avec l'informatique. Ces derniers temps pris par le NodeJS je passe pas mal de temps dessus pour mieux le comprendre et à faire des petits projets avec.  
-En dehors de l'informatique je suis un grand passionné par les voitures et les motos et je voudrai intégrer dans le futur un système dans une voiture.
+J'ai commencé à coder il y a deux ans dans un cours de C++. Je code dans mon temps libre ou dans les temps ennuyeux de l'école. Je m'amuse énormément à mélanger l'éléctronique avec l'informatique. Ces derniers temps pris par le NodeJS je passe pas mal de temps dessus pour mieux le comprendre et à faire des petits projets avec.  
+En dehors de l'informatique je suis un grand passionné par les voitures et les motos et je voudrais intégrer dans le futur un système dans une voiture.
