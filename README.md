@@ -11,7 +11,7 @@ Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement e
 - Avoir **plus de 16 ans obligatoirement**.
 - Etre développeur ECMAscript. 
 - UX et UI Designer peuvent entrer dans le groupe. 
-- Les DBA SQL & MongoDB sont aussi les bienvenus.
+- Les administrateurs de base sont aussi les bienvenus.
 
 Chaque nouveau membre **a le devoir de se présenter lorsqu'il rejoint le Discord**. Les membres qui ne se présentent pas seront retirés du groupe. (Présentation à faire dans le salon #general).
 
@@ -64,10 +64,8 @@ En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre c
 - git
 - cpp (C++, notamment pour des packages C++ NodeJS avec le V8 Engine).
 - database (SQL, MySQL, MariaDB, MongoDB, Redis, RethinkDB, etc.) 
-- nginx & apache 
 - system (Scripts systèmes, mise en production, etc..)
 - liens
-- community-games
 
 Le salon **#liens** vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe, bien évidemment. 
 
