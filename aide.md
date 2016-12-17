@@ -31,6 +31,7 @@ N'hésitez pas à demander à un modérateur d'ajouter des rôles à votre profi
 | Canvas |
 | HTMLCSS |
 | WebGL |
+| Shell scripting |
 | VanillaJS |
 | Unit testing |
 | RethinkDB |
