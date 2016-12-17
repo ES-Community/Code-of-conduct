@@ -18,3 +18,34 @@ Certains membres ont des étiquettes qui permettent de savoir dans quels domaine
 ![Rôle de chacun](http://i.imgur.com/C6rXETN.png)
 
 N'hésitez pas à demander à un modérateur d'ajouter des rôles à votre profil. Ou à faire la requête d'un rôle qui n'existe pas encore.
+
+## Rôles 
+
+| Nom |
+| --- | 
+| Linux | 
+| Lua |
+| SQL |
+| Perl |
+| CPP |
+| PHP |
+| CSharp |
+| ECMAScript |
+| Java |
+| Python | 
+| NodeJS |
+| Ruby |
+| GO |
+| TypeScript | 
+| MongoDB |
+| AngularJS |
+| ReactJS |
+| VueJS |
+| Canvas |
+| HTMLCSS |
+| WebGL |
+| VanillaJS |
+| Unit testing |
+| RethinkDB |
+| Redis |
+| MSSQL |
