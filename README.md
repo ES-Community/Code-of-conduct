@@ -57,15 +57,16 @@ En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre c
 - ecmascript (et tous qui est en liaison avec ECMAscript, par exemple : TypeScript, Babel, CoffeeScript etc..) 
 - nodejs 
 - webgl (Tous qui concerne canvas,webgl ou des moteurs de jeu web comme phaser.io, superpowers, etc.) 
-- html & css
-- framework-front (AngularJS, ReactJS, VueJS, RiotJS, JQuery, VanillaJS, etc.) 
-- scriptings (Scripting avec NodeJS ou des langages comme Perl et Lua).
-- design
-- git
-- cpp (C++, notamment pour des packages C++ NodeJS avec le V8 Engine).
+- html-css
+- front (AngularJS, ReactJS, VueJS, RiotJS, JQuery, VanillaJS, etc.) 
+- unix (Scripts bash, mise en production, etc..).
+- ui-design
+- cpp-rust (C++, notamment pour des packages C++ NodeJS avec le V8 Engine et Rust lang pour des bindings avec neon).
 - database (SQL, MySQL, MariaDB, MongoDB, Redis, RethinkDB, etc.) 
-- system (Scripts systèmes, mise en production, etc..)
-- liens
+- gif (Salon d'échange de gif fun autour du développement ou autres).
+- games (Discussion autour de vos jeux préférés).
+- exercices (Salon temporaire pour les exercices NodeJS).
+- links
 
 Le salon **#liens** vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe, bien évidemment. 
 
