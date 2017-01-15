@@ -5,16 +5,17 @@ Cette page ne contient évidemment pas forcément la présentation de tous les m
 ## Fraxken
 
 - **Nom** : GENTILHOMME Thomas
-- **Age** : 21 ans
-- **Métier** : Développeur web fullstack.
-- **Compétences clés** : ECMAscript5+, HTML & CSS, NodeJS, VanillaJS, SQL, Perl, Lua, MongoDB
+- **Age** : 22 ans
+- **Métier** : Développeur fullstack.
+- **Compétences clés** : ECMAscript5+, HTML & CSS, NodeJS, VanillaJS, SQL, Perl, Lua, MongoDB, Webcomponent
+- **Site web** : https://antarka.com/
+- **Twitter** : https://twitter.com/fraxken
 
 Salut,
 
-donc j'habite et travaille en région Parisienne et je suis actuellement en mission à BNP Paribas dans la mise en place/production de solution de monitoring système (Développement de script perl et lua dans mon cas).
-Sur mon temps libre je travaille avec ma startup de création de jeux vidéo web avec canvas et la techno WEBGL. J'investis énormément de mon temps libre dans des projets communautaires et open source autour d'ECMAscript, TypeScript ou encore NodeJS.
+J'habite en région parisienne et je suis CEO d'Asynchronous (ma propre SASU). Je travaille dans le domaine de l'IT et plus spécialement le développement. J'ai travaillé avec BNP Paribas, COVEA et THALES (et divers petits clients). Je souhaite devenir Expert sur NodeJS, je suis d'ailleurs un evangelist NodeJS et ECMAScript. J'ai une très bonne maîtrise de Lua et PERL (avec notamment plusieurs projets en contexte client). Auparavant je faisais du PHP et j'ai une centaine de site vitrine / dynamique d'expérience.
 
-J'inspire à devenir un expert fullstack dans les années à venir ! (Uniquement NodeJS pour le back-end dans mon cas ^^).
+Je travaille sur divers startup, dont une qui s'oriente sur de la création de jeu-vidéo en WEBGL. J'ai donc aussi une très grande expérience en développement front-end (HTML / CSS, VanillaJS, JQuery, Angular, RiotJS, Webcomponent natif).
 
 ---
 
@@ -25,7 +26,7 @@ J'inspire à devenir un expert fullstack dans les années à venir ! (Uniquement
 - **Métier** : Ingénieur développement.
 - **Compétences clés** : C/C++/C# , ECMAscript5+, HTML & CSS, NodeJS, SQL, MongoDB   
 
-Yo la comu,  
+Yo la commu,  
 
 Je suis un campagnard du 89 mais qui depuis 6 ans vie en région Parisienne pour les études et maintenant le taff.  Je suis actuellement ingénieur développement dans un petit éditeur (15 pers.) de logiciel dans le domaine de la sécurité des SI. Je travaille sur le développement d'un IAM (Identity and Access Management) en .Net. En parallèle je suis en train de monter une startup dans le e-tourisme avec deux autres collaborateurs. Je suis le développeur full stack du projet.
 
