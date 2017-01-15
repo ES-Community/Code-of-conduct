@@ -72,7 +72,7 @@ Le salon **#liens** vous permet d'envoyer des liens vers des projets/drafts int�
 
 Exemple avec un screenshot : 
 
-![Salon liens](https://i.imgur.com/FusRT6A.png)
+![Salon liens](https://i.imgur.com/Vs09TyU.png)
 
 Et même des salons vocaux pour les plus motivés ! 
 
