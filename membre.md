@@ -184,6 +184,6 @@ Hello!
 
 Je suis belge, je suis encore étudiant mais j'ai déjà un job dans une société en tant que développeur Intranet Front-End et Back-End.
 
-Je développe depuis mes 14 ans et c'est devenu ma passion, au point d'en faire mes études :D J'ai été pendant 5 ans animateur scout et je fais de la guitare :)
+Je développe depuis mes 14 ans et cela est devenu ma passion, au point d'en faire mes études. J'ai été pendant 5 ans animateur scout et je fais aussi de la guitare :)
 
-Voilà voilà :D A+ sur discord :D
+Voilà voilà :D
