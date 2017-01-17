@@ -187,3 +187,24 @@ Je suis belge, je suis encore étudiant mais j'ai déjà un job dans une sociét
 Je développe depuis mes 14 ans et cela est devenu ma passion, au point d'en faire mes études. J'ai été pendant 5 ans animateur scout et je fais aussi de la guitare :)
 
 Voilà voilà :D
+
+---
+
+## Mathieu
+
+- **Nom** : Rousseau Mathieu
+- **Age** : 19 ans
+- **Métier** : Etudiant en technologie de l'informatique.
+- **Compétences clés** : HTML/CSS, JS (ES6), NodeJS, SQL (Sybase/MYSQL), AngularJS/VueJS, Java, C système, Ruby/RoR
+
+Hello ! 
+
+J'ai 19 ans (20 dans quelques jours :wink: ) et j'ai commencé le dev depuis 1 ans et demi à l'occasion de mon cursus scolaire à l'EPHEC.
+A l'époque, on faisait du Javascript, ce langage m'a plus par sa syntaxe et ses possibilités et j'ai donc continué de mon côté à en apprendre plus et à faire de petits et moyen projet en JS.
+J'ai ainsi appris l'ES6 (Bye callbacks, hello Async/Await), des frameworks comme AngularJS/VueJS, des outils de buildings comme WebPack ou encore du back-end avec NodeJS.
+A noter que pas mal de devs de Google (la série "Supercharged" par exemple) m'ont aidés à m'améliorer et à me mettre à jour sur toutes ces technologies du web (ex: Service-Workers).
+Côté back-end, j'ai fait un peu de Ruby (RoR).
+
+J'ai ensuite fait un peu de C système ainsi que du Java. Ce dernier m'a plutôt plus à la fois par sa clarté et sa "propreté' mais m'a aussi déçu par son manque de méthode (pas de .join() natif avant java 8) et le fait que en Java "plus c'est long plus c'est bon".
+
+Maintenant, je compte apprendre un nouveau langage léger, qui ne demande pas d'ouvrir un gros IDE notamment. Rust me semble bien sympathique donc je compte m'y diriger :)
