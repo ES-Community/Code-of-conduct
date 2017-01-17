@@ -169,3 +169,21 @@ Comme mes amis Blue, B.Nedry et XStoudi je suis en école d'informatique pour ob
 
 J'ai commencé à coder il y a deux ans dans un cours de C++. Je code dans mon temps libre ou dans les temps ennuyeux de l'école. Je m'amuse énormément à mélanger l'éléctronique avec l'informatique. Ces derniers temps pris par le NodeJS je passe pas mal de temps dessus pour mieux le comprendre et à faire des petits projets avec.  
 En dehors de l'informatique je suis un grand passionné par les voitures et les motos et je voudrais intégrer dans le futur un système dans une voiture.
+
+---
+
+## izanagi_1995
+
+- **Nom** : SURLERAUX Nicolas
+- **Age** : 22 ans
+- **Métier** : Etudiant en technologie de l'informatique.
+- **Compétences clés** : C, Java, JS/EcmaScript, HTML & CSS, NodeJS, SQL, MongoDB, Angular, PHP
+- **Site web** : https://nsurleraux.be/ (Certif dead pour le moment haha)
+
+Hello!
+
+Je suis belge, je suis encore étudiant mais j'ai déjà un job dans une société en tant que développeur Intranet Front-End et Back-End.
+
+Je développe depuis mes 14 ans et c'est devenu ma passion, au point d'en faire mes études :D J'ai été pendant 5 ans animateur scout et je fais de la guitare :)
+
+Voilà voilà :D A+ sur discord :D
