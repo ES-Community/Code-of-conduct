@@ -21,6 +21,10 @@ Chaque nouveau membre **a le devoir de se présenter lorsqu'il rejoint le Discor
 
 Lien d'invitation : [ES-Community](https://discord.gg/MNeuFBy) [**Places limitées**]
 
+**Warning** : Il est impératif de faire votre présentation dans le salon #général. Pensez **à attendre qu'un modérateur vous ajoute membre** (dans le cas contraire vous serez expulsé automatiquement lors de la déconnexion).
+
+> Si il n'y a plus de place, merci de contacter Fraxkens sur skype (tout en bas du readme).
+
 # Code de conduite
 
 En tant que membre de cette communauté, vous devez le respect à chaque développeur présent. Les insultes et les comportements désobligeants ne sont pas autorisés dans le groupe. Les moins expérimentés doivent redoubler d'efforts avant de requêter les autres sur des problématiques (le spam est interdit). 
