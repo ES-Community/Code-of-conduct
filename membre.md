@@ -73,23 +73,6 @@ Je suis actuellement en formation en alternance à Paris et travaille en tant qu
 
 ---
 
-## Blue
-
-- **Nom** : LAVILLE Armand
-- **Age** : 17 ans
-- **Métier** : Etudiant en informatique de gestion
-- **Compétences clés** : TypeScript, ECMAscript5+, NodeJS, HTML, VanillaJS, Java, SQL, MongoDB, C++/C#, Python
-
-Salut à tous,
-
-Je suis actuellement en école d'informatique pour obtenir un Certificat Fédéral de Capacité (dans la classe de Xstoudi) en Suisse.
-
-Je dev de temps à autre en dehors de l'école, mais je compte me lancer peut-être plus dans le dev de jeux vidéo. J'ai eu trituré des bases de données et j'aime assez bien. Malgré le quelque peu qui me sert de connaissance, j'aime bien aider mon prochain.
-
-En dehors de l'informatique, je fais du tir à 300m et j'aime bien l'aviation.
-
----
-
 ## BNedry
 
 - **Nom** : THEURILLAT Brice
