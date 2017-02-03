@@ -11,7 +11,7 @@ Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement e
 - Avoir **plus de 16 ans obligatoirement**.
 - Etre développeur ECMAscript. 
 - UX et UI Designer peuvent entrer dans le groupe. 
-- Les DBA SQL & MongoDB sont aussi les bienvenus.
+- Les administrateurs de base sont aussi les bienvenus.
 
 Chaque nouveau membre **a le devoir de se présenter lorsqu'il rejoint le Discord**. Les membres qui ne se présentent pas seront retirés du groupe. (Présentation à faire dans le salon #general).
 
@@ -19,7 +19,11 @@ Chaque nouveau membre **a le devoir de se présenter lorsqu'il rejoint le Discor
 
 # Lien Discord : 
 
-Lien d'invitation : [ES-Community](https://discord.gg/zkg9CB2) [**Places limitées**]
+Lien d'invitation : [ES-Community](https://discord.gg/MNeuFBy) [**Places limitées**]
+
+**Warning** : Il est impératif de faire votre présentation dans le salon #général. Pensez **à attendre qu'un modérateur vous ajoute membre** (dans le cas contraire vous serez expulsé automatiquement lors de la déconnexion).
+
+> Si il n'y a plus de place, merci de contacter Fraxkens sur skype (tout en bas du readme).
 
 # Code de conduite
 
@@ -57,23 +61,22 @@ En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre c
 - ecmascript (et tous qui est en liaison avec ECMAscript, par exemple : TypeScript, Babel, CoffeeScript etc..) 
 - nodejs 
 - webgl (Tous qui concerne canvas,webgl ou des moteurs de jeu web comme phaser.io, superpowers, etc.) 
-- html & css
-- framework-front (AngularJS, ReactJS, VueJS, RiotJS, JQuery, VanillaJS, etc.) 
-- scriptings (Scripting avec NodeJS ou des langages comme Perl et Lua).
-- design
-- git
-- cpp (C++, notamment pour des packages C++ NodeJS avec le V8 Engine).
+- html-css
+- front (AngularJS, ReactJS, VueJS, RiotJS, JQuery, VanillaJS, etc.) 
+- unix (Scripts bash, mise en production, etc..).
+- ui-design
+- cpp-rust (C++, notamment pour des packages C++ NodeJS avec le V8 Engine et Rust lang pour des bindings avec neon).
 - database (SQL, MySQL, MariaDB, MongoDB, Redis, RethinkDB, etc.) 
-- nginx & apache 
-- system (Scripts systèmes, mise en production, etc..)
-- liens
-- community-games
+- gif (Salon d'échange de gif fun autour du développement ou autres).
+- games (Discussion autour de vos jeux préférés).
+- exercices (Salon temporaire pour les exercices NodeJS).
+- links
 
 Le salon **#liens** vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe, bien évidemment. 
 
 Exemple avec un screenshot : 
 
-![Salon liens](https://i.imgur.com/FusRT6A.png)
+![Salon liens](https://i.imgur.com/Vs09TyU.png)
 
 Et même des salons vocaux pour les plus motivés ! 
 
@@ -86,7 +89,7 @@ Si vous souhaitez discuter d'une problématique autour de PHP, Ruby, Go ou autre
 Tous comportements abusifs peuvent être rapportés aux modérateurs de la communauté ! 
 
 - Fraxken (@fraxken), Skype : fraxkens 
-- Purexo (@_Purexo) 
+- Purexo (@Purexo_) 
 - Xstoudi (@Xstoudi)
 - Tiyo
 - Antoine Neff
