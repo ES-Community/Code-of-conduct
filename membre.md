@@ -210,6 +210,6 @@ Après, bah j'ai fait du "java" avec des pseudo-mods minecraft et des pseudos-pl
 J'ai ensuite commencé à utiliser NodeJS et donc à apprendre le Javascript quand j'ai découvert Electron (Ah, ce truc est génial quand même).
 Actuellement, je suis toujours en train de tester plein de langages différents (Rust par exemple).
 Je vise une école d'Ingénieur en informatiques ainsi qu'une spécialité Sécurité et Réseau.
-À part ça, j'aime beaucoup les jeux, surtout CSGO, Warframe, Rainbow Six et NodeJS. Oh wait, NodeJS ce n'est pas un jeu ? Board, ce n'est pas grave.
+À part ça, j'aime beaucoup les jeux, surtout CSGO, Warframe, Rainbow Six et NodeJS. Oh wait, NodeJS ce n'est pas un jeu ? Bah, ce n'est pas grave.
 
 Sinon, je suis un peu dans la team #teamIntellij et #teamVSCode parce qu'ils sont cools. Il faut encore que je m'habitue à VIM (un jour peut être ?)
