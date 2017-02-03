@@ -78,13 +78,13 @@ Je suis actuellement en formation en alternance à Paris et travaille en tant qu
 - **Nom** : THEURILLAT Brice
 - **Age** : 17 ans
 - **Métier** : Etudiant en informatique de gestion
-- **Compétences clés** : ECMAscript5+, Typescript, HTML & CSS, NodeJS, VanillaJS, SQL, C/C++, Java
+- **Compétences clés** : ECMAscript5+, Typescript, HTML & CSS, NodeJS, VanillaJS, SQL, C/C++, Java, Bash
 
 Bonjour à tous,
 
 Comme mes deux "collègues" Xstoudi et Blue je suis en école d'informatique pour obtenir un Certificat Fédéral de Capacité en Suisse. Après l'obtention de mon CFC, j'espère pouvoir intégrer l'Ecole Polytechnique Fédérale de Lausanne pour décrocher un bachelor en informatique dans un premier temps.
 
-J'ai commencé à coder il y a deux ans à l'école en suivant des cours de C++ et en faisant des plugins Minecraft avec Xstoudi comme professeur de Java. Ce qui m'intéresse le plus dans la programmation, c'est l'aspect algorithmique.
+J'ai commencé à coder à l'âge de 15 ans à l'école en suivant des cours de C++ et en faisant des plugins Minecraft avec Xstoudi comme professeur de Java. Ce qui m'intéresse le plus dans la programmation, c'est l'aspect algorithmique.
 
 Pris d'une passion pour Linux depuis quelques mois, j'apprends le C afin de pouvoir contribuer d'ici quelques années à ce noyau et aux OS basés sur ce dernier.
 
