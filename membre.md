@@ -213,3 +213,25 @@ Je vise une école d'Ingénieur en informatiques ainsi qu'une spécialité Sécu
 À part ça, j'aime beaucoup les jeux, surtout CSGO, Warframe, Rainbow Six et NodeJS. Oh wait, NodeJS ce n'est pas un jeu ? Bah, ce n'est pas grave.
 
 Sinon, je suis un peu dans la team #teamIntellij et #teamVSCode parce qu'ils sont cools. Il faut encore que je m'habitue à VIM (un jour peut être ?)
+
+
+---
+
+## Westixy
+
+- **Nom** : Sotillo Esteban
+- **Age** : 20 ans
+- **Métier** : Etudiant en [ES informatique, spécialisation web](http://www.cpnv.ch/formations/#Technicien-ES-en-informatique)
+- **Compétences clés** : HTML/CSS, VanillaJS, NodeJS, ECMAscript5+, Ruby, Java, SQL, PHP (Laravel 5), Linux
+
+Yup!
+
+Encore un Suisse 8)
+Depuis un petit moment déjà, j'ai découvert la programmation. Le HTML/CSS a été ma première approche avant de connaitre le JS peu de temps après et j'ai adoré! Mes premiers codes étaient bien chaotiques et peu intéressant, mais je penses ne pas être saul dans ce cas ;P
+
+Ensuite, j'ai commencé un CFC en Informatique de 4 ans où j'ai touché a pas mal de demaines. Pour n'en citer qu'une partie, du dév (JS, PHP, Java, C#, C), du serveur (win2012 et debian), du réseau etc...
+Plus je découvrait les possibilités et la puissance de la programmation, plus j'avais envie d'en savoir plus et d'en maîtriser plus (et c'est toujours le cas). Mais ce n'est qu'en fin de formation que j'ai découvert que le JS me plaisait vraiment en développant des projets concrets.
+
+Suite à cette formation, je me suis dirigé vers une école supérieure en développement pour ensuite, possiblement, continuer vers une école d'ingénierie logiciel.
+
+Pour moi, le développement est une passion et une façon de vivre. C'est aussi un art que de transformer une idée en une belle pêlée de code ;)
