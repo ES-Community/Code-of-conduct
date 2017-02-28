@@ -235,3 +235,24 @@ Plus je découvrait les possibilités et la puissance de la programmation, plus 
 Suite à cette formation, je me suis dirigé vers une école supérieure en développement pour ensuite, possiblement, continuer vers une école d'ingénierie logiciel.
 
 Pour moi, le développement est une passion et une façon de vivre. C'est aussi un art que de transformer une idée en une belle pêlée de code ;)
+
+ ---
+ 
+ ## Killians
+
+- **Nom** : Killians Streibel-Oscoso
+- **Age** : 23 ans
+- **Métier** : Opérateur Numérique en Imprimerie Spécialisé dans le Grand Format
+- **Compétences clés** : HTML/CSS, JS, NodeJS, SSH, UNIX, SQL, PHP, Linux
+
+Salut la compagnie !
+
+Je suis un petit peu un touch'a'tout... j'ai beaucoup de bonnes base en HTML / CSS /JS forcément, mais par le passé je m'intéressait beaucoup au php que j'ai un peu abandonné je dois avouer au vues des nouvelles technologies. MySQL aussi, un peu de C pour lié ma passion de l'éléctronique également !
+
+Je suis passioné de musique (principalement éléctronique mais en réalité j'aime toute la musique), donc trés axé Techno / Minimal.
+Je m'interesse de très pret à la communication MIDI.
+Je vis à Nice.
+
+J'ai suivi la formation d'un bac STI Génie éléctrionique, mais soyons honnete, à cet age là, je n'étais pas vraiment serieux à l'école, et je m'en mord les doigts aujoutd'hui.
+
+J'aime le Dev', mais vraiment, quelle névrose parfois !
