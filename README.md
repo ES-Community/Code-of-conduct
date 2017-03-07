@@ -9,19 +9,16 @@ Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement e
 # Critères pour entrer : 
 
 - Avoir **plus de 16 ans obligatoirement**.
-- Etre développeur ECMAscript. 
-- UX et UI Designer peuvent entrer dans le groupe. 
-- Les administrateurs de base sont aussi les bienvenus.
-
-Chaque nouveau membre **a le devoir de se présenter lorsqu'il rejoint le Discord**. Les membres qui ne se présentent pas seront retirés du groupe. (Présentation à faire dans le salon #general).
+- Etre développeur ECMAscript (Javascript).
+- Les administrateurs de base sont la bienvenus
 
 > Nous n'acceptons pas les moins de 16 ans pour des questions de maturité et d'expérience de vie. Tous nos essais ont été des échecs...
 
 # Lien Discord : 
 
-Lien d'invitation : [ES-Community](https://discord.gg/MNeuFBy) [**Places limitées**]
+Lien d'invitation : [ES-Community](https://discord.gg/DTRKewP)
 
-**Warning** : Il est impératif de faire votre présentation dans le salon #général. Pensez **à attendre qu'un modérateur vous ajoute membre** (dans le cas contraire vous serez expulsé automatiquement lors de la déconnexion).
+**!!!A LIRE!!!** : Il est impératif de faire une présentation par le biais d'un pull-request sur le fichier "membre.md". Présentez-vous sur le salon #général, les modérateurs valideront votre pull-request et vous serez ajouter à la communauté.
 
 > Si il n'y a plus de place, merci de contacter Fraxkens sur skype (tout en bas du readme).
 
