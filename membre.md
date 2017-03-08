@@ -48,7 +48,7 @@ Je dév majoritairement pour le plaisir. En ce moment, je me concentre énormém
 ## Nattack
 
 - **Nom** : DEBOUCHAGE Antoine
-- **Age** : 16 ans
+- **Age** : 17 ans
 - **Métier** : Lycéen, 1ère S SI.
 - **Compétences clés** : ECMAscript5+, HTML & CSS, NodeJS, Lua
 
@@ -236,9 +236,9 @@ Suite à cette formation, je me suis dirigé vers une école supérieure en dév
 
 Pour moi, le développement est une passion et une façon de vivre. C'est aussi un art que de transformer une idée en une belle pêlée de code ;)
 
- ---
+---
  
- ## Killians
+## Killians
 
 - **Nom** : Killians Streibel-Oscoso
 - **Age** : 23 ans
