@@ -9,8 +9,7 @@ Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement e
 # Critères pour entrer : 
 
 - Avoir **plus de 16 ans obligatoirement**.
-- Etre développeur ECMAscript (Javascript).
-- Les administrateurs de base sont la bienvenus
+- Etre développeur ECMAscript (Javascript) par passion ou par métier.
 
 > Nous n'acceptons pas les moins de 16 ans pour des questions de maturité et d'expérience de vie. Tous nos essais ont été des échecs...
 
