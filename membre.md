@@ -259,6 +259,22 @@ J'aime le Dev', mais vraiment, quelle névrose parfois !
 
 ---
 
+## Ravaniss
+
+- **Nom** : SENECHAL Maxime
+- **Age** : 22 ans
+- **Métier** : Étudiant en Informatique à SUPINFO
+- **Compétences clés** : HTML/CSS, JS, NodeJS, C#, Java, PHP, MySQL, TypeScript
+
+Hello !
+
+Je me prénome SENECHAL Maxime, j'ai donc 22 ans et je suis étudiant en école d'ingénieur en informatique à SUPINFO Nice. 
+J'ai connus Fraxken graçe au site d'egg one school pour avoir prit un cours sur les positions en CSS, puis après cela on a garder contact et depuis ça continue ! :D
+Après cela, j'ai fais mon chemin sur du PHP, puis j'ai switché sur du NodeJS y a pas longtemps.
+
+Voili voilou ! :D
+A bientôt 
+
 ## Drulac
 
 - **Nom** : Ugur Morin
