@@ -268,11 +268,20 @@ J'aime le Dev', mais vraiment, quelle névrose parfois !
 
 Hello !
 
-Je me prénome SENECHAL Maxime, j'ai donc 22 ans et je suis étudiant en école d'ingénieur en informatique à SUPINFO Nice. Je déconseille cet école.
-
+Je me prénome SENECHAL Maxime, j'ai donc 22 ans et je suis étudiant en école d'ingénieur en informatique à SUPINFO Nice. 
 J'ai connus Fraxken graçe au site d'egg one school pour avoir prit un cours sur les positions en CSS, puis après cela on a garder contact et depuis ça continue ! :D
-
 Après cela, j'ai fais mon chemin sur du PHP, puis j'ai switché sur du NodeJS y a pas longtemps.
 
 Voili voilou ! :D
-A bientôt !
+A bientôt 
+
+## Drulac
+
+- **Nom** : Ugur Morin
+- **Age** : 16 ans
+- **Métier** : Lycéen, Seconde générale
+- **Compétences clés** : NodeJS, HTML & CSS, VanillaJS, PHP, MySQL, MongoDB, un peu de C et de C++, C#
+
+Hey !
+J'habite en france et je code depuis presque 2 ans :thinking: ! Je suis actuellement en seconde général au lycée et j'aspire à me spécialiser dans le développement.
+Je dév majoritairement pour le plaisir. En ce moment, j'utilise surtout NodeJS mais le langage que j'utilise dans un projet dépend des specs de celui-ci, j'essaye d'être polyvalent et d'apprendre de nouvelles choses perpétuellement. Je pense essayer le Vala d'ici quelques temps.
