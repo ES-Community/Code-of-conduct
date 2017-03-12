@@ -256,3 +256,23 @@ Je vis à Nice.
 J'ai suivi la formation d'un bac STI Génie éléctrionique, mais soyons honnete, à cet age là, je n'étais pas vraiment serieux à l'école, et je m'en mord les doigts aujoutd'hui.
 
 J'aime le Dev', mais vraiment, quelle névrose parfois !
+
+---
+
+## Ravaniss
+
+- **Nom** : SENECHAL Maxime
+- **Age** : 22 ans
+- **Métier** : Étudiant en Informatique à SUPINFO
+- **Compétences clés** : HTML/CSS, JS, NodeJS, C#, Java, PHP, MySQL, TypeScript
+
+Hello !
+
+Je me prénome SENECHAL Maxime, j'ai donc 22 ans et je suis étudiant en école d'ingénieur en informatique à SUPINFO Nice. Je déconseille cet école.
+
+J'ai connus Fraxken graçe au site d'egg one school pour avoir prit un cours sur les positions en CSS, puis après cela on a garder contact et depuis ça continue ! :D
+
+Après cela, j'ai fais mon chemin sur du PHP, puis j'ai switché sur du NodeJS y a pas longtemps.
+
+Voili voilou ! :D
+A bientôt !
