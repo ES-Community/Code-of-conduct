@@ -66,7 +66,7 @@ En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre c
 
 **Lien d'invitation** : [ES-Community](https://discord.gg/DTRKewP)
 
-> **Attention :** Merci de vous présenter et de respecter le code de conduite ainsi que les règles pour nous rejoindre présente ci-dessus.
+> **Attention :** Merci de vous présenter et de respecter les règles et restrictions (présente ci-dessus) pour nous rejoindre.
 
 # Des salons pour chacun de vos besoins  
 
