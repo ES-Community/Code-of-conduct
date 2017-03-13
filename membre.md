@@ -13,7 +13,7 @@ Cette page ne contient évidemment pas forcément la présentation de tous les m
 
 Hey ! 
 
-J'habite en région parisienne et je suis **CEO d'ASYNCHRONOUS** (ma propre SASU). Je travaille dans le domaine de l'IT (**outsourcing en programmation**) et je développe depuis l'âge de **10 ans**. J'ai travaillé avec divers gros comptes comme **BNP Paribas**, COVEA, **THALES**, NeuroneIT (et divers autres petits clients). J'ai ambition de **devenir Expert sur NodeJS**, je suis d'ailleurs un evangelist NodeJS et ECMAScript. En dehors de cela j'ai une **très bonne maîtrise de LUA et PERL** (avec notamment plusieurs projets en contexte bancaire). Plus jeune je faisais beaucoup de **PHP** où j'ai eu l'occasion de réaliser des dizaines de sites vitrines à titre personelle ou professionnelle. 
+J'habite en région parisienne et je suis **CEO d'ASYNCHRONOUS** (ma propre SASU). Je travaille dans le domaine de l'IT (**outsourcing en programmation**) et je développe depuis l'âge de **10 ans**. J'ai travaillé avec divers gros comptes comme **BNP Paribas**, COVEA, **THALES**, NeuroneIT (et divers autres petits clients). J'ai ambition de **devenir Expert sur NodeJS**, je suis d'ailleurs un evangelist NodeJS et ECMAScript. En dehors de cela j'ai une **très bonne maîtrise de LUA et PERL** (avec notamment plusieurs projets en contexte bancaire). Plus jeune je faisais beaucoup de **PHP** où j'ai eu l'occasion de réaliser des dizaines de sites vitrines à titre personel ou professionnel. 
 
 Je travaille sur divers startups, dont une qui s'oriente sur de la création du jeu vidéo en WEBGL (Avec la lib ThreeJS). Je m'investis aussi depuis peu sur de **la programmation bas niveau** (C./C++ et Rust) dans l'objectif de **compléter et améliorer mes codes NodeJS**.
 
@@ -60,7 +60,7 @@ Voilà voilà !
 
 ---
 
-## Antoine Neff
+## Antoine N.
 
 - **Nom** : NEFF Antoine
 - **Age** : 24 ans
@@ -105,6 +105,8 @@ Ce que je préfère le plus, c'est le développement web et l'administration sys
 
 Pour finir, j'aime beaucoup faire de la moto en dehors de l'informatique :).
 
+---
+
 ## Purexo
 
 - **Nom** : POISSEAU Théotime
@@ -122,7 +124,7 @@ Assez récememnt je me suis mis au Python, c'est un langage que j'apprécie part
 
 ## Nolan
 
-- **Nom** : Rigo Nolan
+- **Nom** : RIGO Nolan
 - **Age** : 22 ans
 - **Métier** : Etudiant en [ES informatique, spécialisation web](http://www.cpnv.ch/formations/#Technicien-ES-en-informatique)
 - **Compétences clés** : HTML/CSS, VanillaJS, NodeJS, AngularJS, ECMAscript5+, Ruby, SQL, NoSQL (MongoDB, Redis), PHP (Laravel 5), Linux, Docker
@@ -175,7 +177,7 @@ Voilà voilà :D
 
 ## Mathieu
 
-- **Nom** : Rousseau Mathieu
+- **Nom** : ROUSSEAU Mathieu
 - **Age** : 19 ans
 - **Métier** : Etudiant en technologie de l'informatique.
 - **Compétences clés** : HTML/CSS, JS (ES6), NodeJS, SQL (Sybase/MYSQL), AngularJS/VueJS, Java, C système, Ruby/RoR
@@ -219,7 +221,7 @@ Sinon, je suis un peu dans la team #teamIntellij et #teamVSCode parce qu'ils son
 
 ## Westixy
 
-- **Nom** : Sotillo Esteban
+- **Nom** : SOTILLO Esteban
 - **Age** : 20 ans
 - **Métier** : Etudiant en [ES informatique, spécialisation web](http://www.cpnv.ch/formations/#Technicien-ES-en-informatique)
 - **Compétences clés** : HTML/CSS, VanillaJS, NodeJS, ECMAscript5+, Ruby, Java, SQL, PHP (Laravel 5), Linux
@@ -240,7 +242,7 @@ Pour moi, le développement est une passion et une façon de vivre. C'est aussi 
  
 ## Killians
 
-- **Nom** : Killians Streibel-Oscoso
+- **Nom** : STREIBEL-OSCOSO Killians
 - **Age** : 23 ans
 - **Métier** : Opérateur Numérique en Imprimerie Spécialisé dans le Grand Format
 - **Compétences clés** : HTML/CSS, JS, NodeJS, SSH, UNIX, SQL, PHP, Linux
@@ -274,6 +276,8 @@ Après cela, j'ai fais mon chemin sur du PHP, puis j'ai switché sur du NodeJS y
 
 Voili voilou ! :D
 A bientôt 
+
+---
 
 ## Drulac
 
