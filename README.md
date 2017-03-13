@@ -7,9 +7,9 @@ console.log("Bienvenue sur le code de conduite ES-Community");
 
 L'objectif de la communauté est avant tout de fournir un lieu d'échange, d'entraide et de veille technologique autour de l'écosystème ECMAScript (Javascript).
 
-C'est aussi l'occasion de rencontrer et parler avec des développeurs qui possèdent des intêrets en commun. Nous nous entraidons dans les problématiques les plus fréquentes et dans la gestion de notre stack (Administration système, Docker, Database, Modules etc..). 
+C'est aussi l'occasion de rencontrer et parler avec des développeurs qui possèdent des intêrets en commun avec vous. Nous nous entraidons dans les problématiques les plus fréquentes et dans la gestion de notre stack (Administration système, Docker, Database, Modules,Frameworks etc..). 
 
-Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement entre nous de nos tracas quotidien. Et pourquoi pas un jour, se rassembler tous ensemble autour d'une bière ! 
+Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement entre nous de nos tracas quotidien. Et pourquoi pas un jour, se rassembler tous ensemble autour d'une bonne bière ! 
 
 # Critères pour entrer : 
 
@@ -26,7 +26,7 @@ if(user instanceof ECMAScript_developer && user.age >= 16) {
 - Etre développeur ECMAscript (Javascript) par passion ou par métier.
 - Faire une pull-request sur membre.md avec votre présentation en respectant le format déjà présent dans le fichier (Vous pouvez venir et faire la pull-request après). 
 
-> Nous n'acceptons pas les moins de 16 ans pour des questions de maturité et d'expérience de vie. Tous nos essais ont été des échecs...
+> Nous n'acceptons pas les moins de 16 ans pour des questions de maturité et d'expérience de vie. C'est un choix définitif et non discutable.
 
 # Code de conduite
 
@@ -64,7 +64,7 @@ En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre c
 
 # Lien Discord : 
 
-Lien d'invitation : [ES-Community](https://discord.gg/DTRKewP)
+**Lien d'invitation** : [ES-Community](https://discord.gg/DTRKewP)
 
 > **Attention :** Merci de vous présenter et de respecter le code de conduite ainsi que les règles pour nous rejoindre présente ci-dessus.
 
@@ -102,14 +102,10 @@ const darkside = ['php','go','ruby','java','python','scala',...];
 ESCommunity.getSalon('others').allow(darkside);
 ```
 
-Si vous souhaitez discuter d'une problématique autour de PHP, Ruby, Go ou autres, utilisez le salon "**Autres**". Attention ce n'est pas non plus un salon qui est fait pour parler de vos problèmes quotidiens en PHP.
+Si vous souhaitez discuter d'une problématique autour de PHP, Ruby, Go ou autres, utilisez le salon "**Autres**". Attention ce n'est pas non plus un salon qui est fait pour parler de vos problèmes quotidiens en PHP. Si vous avez besoin d'aide sur un autre langage je vous conseille donc de chercher une communauté plus à même de vous épauler.
 
 # Modérateurs  
 
-Tous comportements abusifs peuvent être rapportés aux modérateurs de la communauté ! 
+Tous comportements abusifs peuvent être rapportés aux modérateurs de la communauté ! En cas de besoin (hors discord) merci de contacter fraxken sur Skype.
 
-- Fraxken (@fraxken), Skype : fraxkens 
-- Purexo (@Purexo_) 
-- Xstoudi (@Xstoudi)
-- Tiyo
-- Antoine Neff
+**Skype** : fraxkens 
