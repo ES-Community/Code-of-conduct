@@ -1,27 +1,39 @@
+```javascript
+ESCommunity.init();
+console.log("Bienvenue sur le code de conduite ES-Community");
+```
+
 # Objectifs 
 
-L'objectif de la communauté est avant tout de fournir un lieu d'échange et de veille technologique autour de l'écosystème Ecmascript (Javascript) et Web. C'est aussi un espace de discussion et d'interaction pour bâtir le monde de demain, tous ensemble main dans la main. (Par le biais de projets ou d'évènements). 
+L'objectif de la communauté est avant tout de fournir un lieu d'échange, d'entraide et de veille technologique autour de l'écosystème ECMAScript (Javascript).
 
-En parlant de main dans la main, nous aidons les développeurs les moins expérimentés qui requièrent notre aide. Nous attendons d'eux qu'ils travaillent fort pour qu'ils soient de plus en plus autonomes dans la résolution de leurs problèmes.
+C'est aussi l'occasion de rencontrer et parler avec des développeurs qui possèdent des intêrets en commun. Nous nous entraidons dans les problématiques les plus fréquentes et dans la gestion de notre stack (Administration système, Docker, Database, Modules etc..). 
 
-Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement entre nous de nos chefs d'équipe et tracas quotidien. Et pourquoi pas un jour, tous ensemble autour d'une bière ! (La bière uniquement pour les seniors :) ). 
+Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement entre nous de nos tracas quotidien. Et pourquoi pas un jour, se rassembler tous ensemble autour d'une bière ! 
 
 # Critères pour entrer : 
 
+```javascript
+const user = ESCommunity.connectedUser(); 
+
+if(user instanceof ECMAScript_developer && user.age >= 16) {
+    user.join(ESCommunity);
+    user.send('présentation');
+}
+```
+
 - Avoir **plus de 16 ans obligatoirement**.
 - Etre développeur ECMAscript (Javascript) par passion ou par métier.
+- Faire une pull-request sur membre.md avec votre présentation en respectant le format déjà présent dans le fichier (Vous pouvez venir et faire la pull-request après). 
 
 > Nous n'acceptons pas les moins de 16 ans pour des questions de maturité et d'expérience de vie. Tous nos essais ont été des échecs...
 
-# Lien Discord : 
-
-Lien d'invitation : [ES-Community](https://discord.gg/DTRKewP)
-
-**!!!A LIRE!!!** : Il est impératif de faire une présentation par le biais d'un pull-request sur le fichier "membre.md". Présentez-vous sur le salon #général, les modérateurs valideront votre pull-request et vous serez ajouter à la communauté.
-
-> Si il n'y a plus de place, merci de contacter Fraxkens sur skype (tout en bas du readme).
-
 # Code de conduite
+
+```javascript
+const code_of_conduct = await ESCommunity.code_of_conduct();
+console.log(code_of_conduct);
+```
 
 En tant que membre de cette communauté, vous devez le respect à chaque développeur présent. Les insultes et les comportements désobligeants ne sont pas autorisés dans le groupe. Les moins expérimentés doivent redoubler d'efforts avant de requêter les autres sur des problématiques (le spam est interdit). 
 
@@ -42,20 +54,31 @@ Les débats doivent être explicitement fondés sur des bases techniques solides
 
 Une trop longue période d'inactivité peut être la raison d'une expulsion du groupe. (Surtout si l'on ne vous connaît pas du tout).
 
-Autres comportements inadmissibles : 
+**Autres comportements inadmissibles** : 
 
 - Attaque personnelle. 
 - Publication de contenu pornographique. 
 - Harcèlement moral.
 
-En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Et bien évidemment, faites des efforts sur l'orthographe ! 
+En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. 
+
+# Lien Discord : 
+
+Lien d'invitation : [ES-Community](https://discord.gg/DTRKewP)
+
+> **Attention :** Merci de vous présenter et de respecter le code de conduite ainsi que les règles pour nous rejoindre présente ci-dessus.
 
 # Des salons pour chacun de vos besoins  
 
-- annonces (salon des annonces officielles, seuls les modérateurs peuvent écrire).
+```javascript
+const salons = ESCommunity.getSalons(); 
+salons.forEach( salon => console.log(`- ${salon.name} (${salon.description})`) );
+```
+
+- **annonces** (salon des annonces officielles, seuls les modérateurs peuvent écrire).
 - general & autres (salons libre).
 - ecmascript (et tous qui est en liaison avec ECMAscript, par exemple : TypeScript, Babel, CoffeeScript etc..) 
-- nodejs 
+- **nodejs**
 - webgl (Tous qui concerne canvas,webgl ou des moteurs de jeu web comme phaser.io, superpowers, etc.) 
 - html-css
 - front (AngularJS, ReactJS, VueJS, RiotJS, JQuery, VanillaJS, etc.) 
@@ -68,15 +91,16 @@ En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre c
 - exercices (Salon temporaire pour les exercices NodeJS).
 - links
 
-Le salon **#liens** vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe, bien évidemment. 
-
-Exemple avec un screenshot : 
+> Le salon **#liens** vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe, bien évidemment. 
 
 ![Salon liens](https://i.imgur.com/Vs09TyU.png)
 
-Et même des salons vocaux pour les plus motivés ! 
-
 # Autres langages 
+
+```javascript
+const darkside = ['php','go','ruby','java','python','scala',...];
+ESCommunity.getSalon('others').allow(darkside);
+```
 
 Si vous souhaitez discuter d'une problématique autour de PHP, Ruby, Go ou autres, utilisez le salon "**Autres**". Attention ce n'est pas non plus un salon qui est fait pour parler de vos problèmes quotidiens en PHP.
 
