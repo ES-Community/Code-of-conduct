@@ -7,15 +7,15 @@ Cette page ne contient évidemment pas forcément la présentation de tous les m
 - **Nom** : GENTILHOMME Thomas
 - **Age** : 22 ans
 - **Métier** : Développeur fullstack.
-- **Compétences clés** : ECMAscript5+, HTML & CSS, NodeJS, VanillaJS, SQL, Perl, Lua, MongoDB, Webcomponent
+- **Compétences clés** : ECMAscript5+, HTML & CSS, NodeJS, VanillaJS, SQL, Perl, Lua, MongoDB, Webcomponent, Angular, RiotJS
 - **Site web** : https://antarka.com/
 - **Twitter** : https://twitter.com/fraxken
 
-Salut,
+Hey ! 
 
-J'habite en région parisienne et je suis CEO d'Asynchronous (ma propre SASU). Je travaille dans le domaine de l'IT et plus spécialement le développement. J'ai travaillé avec BNP Paribas, COVEA et THALES (et divers petits clients). Je souhaite devenir Expert sur NodeJS, je suis d'ailleurs un evangelist NodeJS et ECMAScript. J'ai une très bonne maîtrise de Lua et PERL (avec notamment plusieurs projets en contexte client). Auparavant je faisais du PHP et j'ai une centaine de site vitrine / dynamique d'expérience.
+J'habite en région parisienne et je suis **CEO d'ASYNCHRONOUS** (ma propre SASU). Je travaille dans le domaine de l'IT (**outsourcing en programmation**) et je développe depuis l'âge de **10 ans**. J'ai travaillé avec divers gros comptes comme **BNP Paribas**, COVEA, **THALES**, NeuroneIT (et divers autres petits clients). J'ai ambition de **devenir Expert sur NodeJS**, je suis d'ailleurs un evangelist NodeJS et ECMAScript. En dehors de cela j'ai une **très bonne maîtrise de LUA et PERL** (avec notamment plusieurs projets en contexte bancaire). Plus jeune je faisais beaucoup de **PHP** où j'ai eu l'occasion de réaliser des dizaines de sites vitrines à titre personelle ou professionnelle. 
 
-Je travaille sur divers startup, dont une qui s'oriente sur de la création de jeu-vidéo en WEBGL. J'ai donc aussi une très grande expérience en développement front-end (HTML / CSS, VanillaJS, JQuery, Angular, RiotJS, Webcomponent natif).
+Je travaille sur divers startups, dont une qui s'oriente sur de la création du jeu vidéo en WEBGL (Avec la lib ThreeJS). Je m'investis aussi depuis peu sur de **la programmation bas niveau** (C./C++ et Rust) dans l'objectif de **compléter et améliorer mes codes NodeJS**.
 
 ---
 
