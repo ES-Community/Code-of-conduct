@@ -289,3 +289,16 @@ A bientôt
 Hey !
 J'habite en france et je code depuis presque 2 ans :thinking: ! Je suis actuellement en seconde général au lycée et j'aspire à me spécialiser dans le développement.
 Je dév majoritairement pour le plaisir. En ce moment, j'utilise surtout NodeJS mais le langage que j'utilise dans un projet dépend des specs de celui-ci, j'essaye d'être polyvalent et d'apprendre de nouvelles choses perpétuellement. Je pense essayer le Vala d'ici quelques temps.
+
+---
+
+## DeltaEvo
+
+- **Nom** : DUARTE David
+- **Age** : 16 ans
+- **Métier** : Lycéen, 1ère S
+- **Compétences clés** : NodeJS, VueJS, Rust :heart:, C++, Java :scream:, Linux , Magie Noire :smiling_imp:
+
+Yellow !
+
+Je m'appelle David j'ai 16 ans (pile poil la limite, yay). Je développe depuis 5-6 ans il me semble, j'ai commencé par apprendre le c++ en jouant avec OpenGL (un massacre) puis je me suis ensuite tourné vers le Java (erreur de parcours, une de mes pires idées) quand j'ai découvert Minecraft (Ne jamais essayer de faire du reverse engineering sur son code, c'est un massacre aussi) et il y a 2 ans je me suis intéressé au web (vive l'ecmascript), je continue autant à m'amuser avec (les ServiceWorker, les Webcomponents tmtc). La voie du natif m'as rappelé il y a 1 an quand j'ai découvert le Rust, un language génial (fonctionnel avec des perfs de fou) avec une communauté géniale :heart:.
