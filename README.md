@@ -7,32 +7,33 @@ console.log("Bienvenue sur le code de conduite ES-Community");
 
 L'objectif de la communauté est avant tout de fournir un lieu d'échange, d'entraide et de veille technologique autour de l'écosystème ECMAScript (Javascript).
 
-C'est aussi l'occasion de rencontrer et parler avec des développeurs qui possèdent des intêrets en commun avec vous. Nous nous entraidons dans les problématiques les plus fréquentes et dans la gestion de notre stack (Administration système, Docker, Database, Modules,Frameworks etc..). 
+C'est aussi l'occasion de rencontrer et parler avec des développeurs qui possèdent des intêrets en commun avec vous. Nous nous entraidons dans les problématiques les plus fréquentes et dans la gestion de notre stack (Administration système, Docker, base de donnée, modules, frameworks, etc.). 
 
-Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement entre nous de nos tracas quotidien. Et pourquoi pas un jour, se rassembler tous ensemble autour d'une bonne bière ! 
+Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement entre nous de nos tracas quotidien. Et pourquoi pas un jour, se rassembler tous ensemble autour d'une bonne bière !
+EDIT : C'est chose faite pour certains !
 
 # Critères pour entrer : 
 
 ```javascript
 const user = ESCommunity.connectedUser(); 
 
-if(user instanceof ECMAScript_developer && user.age >= 16) {
+if(user instanceof ECMAScriptDeveloper && user.age >= 16) {
     user.join(ESCommunity);
-    user.send('présentation');
+    user.send(user.presentation);
 }
 ```
 
 - Avoir **plus de 16 ans obligatoirement**.
 - Etre développeur ECMAscript (Javascript) par passion ou par métier.
-- Faire une pull-request sur membre.md avec votre présentation en respectant le format déjà présent dans le fichier (Vous pouvez venir et faire la pull-request après). 
+- Faire une pull-request sur membre.md avec votre présentation en respectant le format déjà présent dans le fichier (Vous pouvez venir et faire la pull-request par la suite). 
 
 > Nous n'acceptons pas les moins de 16 ans pour des questions de maturité et d'expérience de vie. C'est un choix définitif et non discutable.
 
 # Code de conduite
 
 ```javascript
-const code_of_conduct = await ESCommunity.code_of_conduct();
-console.log(code_of_conduct);
+const codeOfConduct = await ESCommunity.codeOfConduct();
+console.log(codeOfConduct);
 ```
 
 En tant que membre de cette communauté, vous devez le respect à chaque développeur présent. Les insultes et les comportements désobligeants ne sont pas autorisés dans le groupe. Les moins expérimentés doivent redoubler d'efforts avant de requêter les autres sur des problématiques (le spam est interdit). 
@@ -71,8 +72,8 @@ En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre c
 # Des salons pour chacun de vos besoins  
 
 ```javascript
-const salons = ESCommunity.getSalons(); 
-salons.forEach( salon => console.log(`- ${salon.name} (${salon.description})`) );
+const channels = ESCommunity.getChannels(); 
+channels.forEach( channel => console.log(`- ${channel.name} (${channel.description})`) );
 ```
 
 - **annonces** (salon des annonces officielles, seuls les modérateurs peuvent écrire).
@@ -98,8 +99,8 @@ salons.forEach( salon => console.log(`- ${salon.name} (${salon.description})`) )
 # Autres langages 
 
 ```javascript
-const darkside = ['php','go','ruby','java','python','scala',...];
-ESCommunity.getSalon('others').allow(darkside);
+const darkside = ['php','go','ruby','java','python','scala',...otherDarksideLanguages];
+ESCommunity.getChannel('others').allow(darkside);
 ```
 
 Si vous souhaitez discuter d'une problématique autour de PHP, Ruby, Go ou autres, utilisez le salon "**Autres**". Attention ce n'est pas non plus un salon qui est fait pour parler de vos problèmes quotidiens en PHP. Si vous avez besoin d'aide sur un autre langage je vous conseille donc de chercher une communauté plus à même de vous épauler.
