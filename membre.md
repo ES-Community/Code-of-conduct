@@ -302,3 +302,15 @@ Je dév majoritairement pour le plaisir. En ce moment, j'utilise surtout NodeJS 
 Yellow !
 
 Je m'appelle David j'ai 16 ans (pile poil la limite, yay). Je développe depuis 5-6 ans il me semble, j'ai commencé par apprendre le c++ en jouant avec OpenGL (un massacre) puis je me suis ensuite tourné vers le Java (erreur de parcours, une de mes pires idées) quand j'ai découvert Minecraft (Ne jamais essayer de faire du reverse engineering sur son code, c'est un massacre aussi) et il y a 2 ans je me suis intéressé au web (vive l'ecmascript), je continue autant à m'amuser avec (les ServiceWorker, les Webcomponents tmtc). La voie du natif m'as rappelé il y a 1 an quand j'ai découvert le Rust, un language génial (fonctionnel avec des perfs de fou) avec une communauté géniale :heart:.
+
+---
+## Gtibo
+
+- **Nom** : Thibaud Goiffon
+- **Age** : 20 ans 
+- **Compétences clés** : HTML & CSS, VanillaJS, animation 2D/3D, dessin / création graphique
+- **Site web** : https://gtibo.tumblr.com/
+- **Codepen** :  http://codepen.io/Gthibaud/
+
+Bonjour,
+J'habite à paris, j'ai fait des études dans la communication visuelle, je m'interesse à l'animation 2D/3D et j'aime bien faire des petits projets en javascript dans mon temps libre. j'aimerais apprendre d'autres langages, mais pour l'instant je cherche à me former à node.js et socket.io car je n'ai jamais vraiment fait de backend.
