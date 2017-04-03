@@ -4,7 +4,7 @@ Cette page ne contient évidemment pas forcément la présentation de tous les m
 
 ## Fraxken
 
-- **Nom** : GENTILHOMME Thomas
+- **Nom** : Klaja Raphaël
 - **Age** : 22 ans
 - **Métier** : Développeur fullstack.
 - **Compétences clés** : ECMAscript5+, HTML & CSS, NodeJS, VanillaJS, SQL, Perl, Lua, MongoDB, Webcomponent, Angular, RiotJS
