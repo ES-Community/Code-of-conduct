@@ -4,7 +4,7 @@ Cette page ne contient évidemment pas forcément la présentation de tous les m
 
 ## Fraxken
 
-- **Nom** : Klaja Raphaël
+- **Nom** : GENTILHOMME Thomas
 - **Age** : 22 ans
 - **Métier** : Développeur fullstack.
 - **Compétences clés** : ECMAscript5+, HTML & CSS, NodeJS, VanillaJS, SQL, Perl, Lua, MongoDB, Webcomponent, Angular, RiotJS
@@ -317,7 +317,7 @@ J'habite à paris, j'ai fait des études dans la communication visuelle, je m'in
 
 ## MrMArgouillat
 
-- **Nom** : DUARTE David
+- **Nom** : Klaja Rahpaël
 - **Age** : 16 ans
 - **Métier** : Lycéen, 1ère S
 - **Compétences clés** : NodeJS, PHP, Javascript, HTML & CSS , et bien d'autres...
