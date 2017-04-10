@@ -314,3 +314,16 @@ Je m'appelle David j'ai 16 ans (pile poil la limite, yay). Je développe depuis 
 
 Bonjour,
 J'habite à paris, j'ai fait des études dans la communication visuelle, je m'interesse à l'animation 2D/3D et j'aime bien faire des petits projets en javascript dans mon temps libre. j'aimerais apprendre d'autres langages, mais pour l'instant je cherche à me former à node.js et socket.io car je n'ai jamais vraiment fait de backend.
+
+## MrMArgouillat
+
+- **Nom** : Klaja Rahpaël
+- **Age** : 16 ans
+- **Métier** : Lycéen, 1ère S
+- **Compétences clés** : NodeJS, PHP, Javascript, HTML & CSS , et bien d'autres...
+
+Salutation à vous,
+
+Je m'appelle Raphaël, j'ai 16 ans. Depuis des années je m'interresse à la programation... J'ai commencé avec le classique C puis je me suis rapidement tourné vers le web et surtout vers le PHP, n'étant pas particulièrement fort en front... Et puis ma vie a changée l'année dernière quand je me suis tourné vers le nouveau dieu du web... NodeJS... J'ai adoré... je ne saisse d'apprendre notamment grace à sa super communauté. Je veux continuer sur cette lancée et faire de la programmation dans mes études prochaines.
+Long live Js!
+(Merci d'être descendu si bas pour me lire ;-p )
