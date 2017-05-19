@@ -80,19 +80,17 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 - general & autres (salons libre).
 - ecmascript (et tous qui est en liaison avec ECMAscript, par exemple : TypeScript, Babel, CoffeeScript etc..) 
 - **nodejs**
-- webgl (Tous qui concerne canvas,webgl ou des moteurs de jeu web comme phaser.io, superpowers, etc.) 
-- html-css
-- front (AngularJS, ReactJS, VueJS, RiotJS, JQuery, VanillaJS, etc.) 
-- unix (Scripts bash, mise en production, etc..).
-- ui-design
+- front (HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery etc.) 
+- system (Scripts bash, mise en production, etc..).
 - cpp-rust (C++, notamment pour des packages C++ NodeJS avec le V8 Engine et Rust lang pour des bindings avec neon).
 - database (SQL, MySQL, MariaDB, MongoDB, Redis, RethinkDB, etc.) 
+- others (Un peu tout et rien).
 - gif (Salon d'échange de gif fun autour du développement ou autres).
 - games (Discussion autour de vos jeux préférés).
-- exercices (Salon temporaire pour les exercices NodeJS).
+- vocal (Salon pour échanger lors d'un vocal)
 - links
 
-> Le salon **#liens** vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe, bien évidemment. 
+> Le salon **#links** vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe, bien évidemment. 
 
 ![Salon liens](https://i.imgur.com/Vs09TyU.png)
 
