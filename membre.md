@@ -327,3 +327,12 @@ Salutation à vous,
 Je m'appelle Raphaël, j'ai 16 ans. Depuis des années je m'interresse à la programation... J'ai commencé avec le classique C puis je me suis rapidement tourné vers le web et surtout vers le PHP, n'étant pas particulièrement fort en front... Et puis ma vie a changée l'année dernière quand je me suis tourné vers le nouveau dieu du web... NodeJS... J'ai adoré... je ne saisse d'apprendre notamment grace à sa super communauté. Je veux continuer sur cette lancée et faire de la programmation dans mes études prochaines.
 Long live Js!
 (Merci d'être descendu si bas pour me lire ;-p )
+
+## Matteokocken
+- **Nom** : matteo kocken
+- **Age** : 16 ans
+- **Métier** : Lycéen, 2nd 
+- **Compétences clés** : PHP, Javascript, HTML & CSS
+- **Site Web** : http://www.azertywb.hebergratuit.net/accueil.html en php
+Hey salut à tous,
+J'ai 16ans, j'ai commencé à programmer il y a environ 1 an par le html/css, j'ai ensuite appris le PHP,  d'ailleurs j'ai réalisé mon site comme ca. Ensuite j'ai appris le JavaScript, d'ailleurs j'apprends toujours ^^. J'essaye aussi de m'améliorer en Design. Je suis passé un peu par tout C++, C#, C, Unity, sans rien de concret, j'ai maintenant trouvé mon objectif, LE WEB.
