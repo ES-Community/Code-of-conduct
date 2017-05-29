@@ -3,63 +3,60 @@ ESCommunity.init();
 console.log("Bienvenue sur le code de conduite ES-Community");
 ```
 
+ES-Community est une communauté ECMAscript francophone créée fin 2015. Notre désir est de rassembler les développeurs ECMAscript passionnés et ou professionnelle en un seul point.
+
 # Objectifs 
 
 L'objectif de la communauté est avant tout de fournir un lieu d'échange, d'entraide et de veille technologique autour de l'écosystème ECMAScript (Javascript).
 
-C'est aussi l'occasion de rencontrer et parler avec des développeurs qui possèdent des intêrets en commun avec vous. Nous nous entraidons dans les problématiques les plus fréquentes et dans la gestion de notre stack (Administration système, Docker, base de donnée, modules, frameworks, etc.). 
+C'est aussi l'occasion de rencontrer et parler avec des développeurs qui possèdent des intêrets en commun avec vous. Nous nous entraidons dans les problématiques les plus fréquentes et dans la gestion de notre stack (Administration système, Docker, Base de donnée, Modules NPM, Frameworks, etc.). 
 
 Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement entre nous de nos tracas quotidien. Et pourquoi pas un jour, se rassembler tous ensemble autour d'une bonne bière !
-EDIT : C'est chose faite pour certains !
+**EDIT** : C'est chose faite pour certains !
 
-# Critères pour entrer : 
+# Critères pour entrer sur le discord : 
 
 ```javascript
 const user = ESCommunity.connectedUser(); 
 
 if(user instanceof ECMAScriptDeveloper && user.age >= 16) {
     user.join(ESCommunity);
-    user.send(user.presentation);
+    user.commit("Ma présentation !");
 }
 ```
 
 - Avoir **plus de 16 ans obligatoirement**.
-- Etre développeur ECMAscript (Javascript) par passion ou par métier.
-- Faire une pull-request sur membre.md avec votre présentation en respectant le format déjà présent dans le fichier (Vous pouvez venir et faire la pull-request par la suite). 
+- Etre développeur ECMAscript (Javascript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
 
 > Nous n'acceptons pas les moins de 16 ans pour des questions de maturité et d'expérience de vie. C'est un choix définitif et non discutable.
 
-# Code de conduite
+# Devenir un membre officiel : 
+
+Pour devenir un membre officiel de la communauté vous devez vous connecter avec un compte valide sur le discord puis effectuez un pull-request de votre présentation sur le fichier "membre.md" en respectant le format mis en place par les précédentes personnes.
+
+# Code de conduite (A lire en entier)
 
 ```javascript
-const codeOfConduct = await ESCommunity.codeOfConduct();
-console.log(codeOfConduct);
+fs.createReadStream( path.join( __dirname , 'code_of_conduct.txt').pipe(process.stdout);
 ```
 
-En tant que membre de cette communauté, vous devez le respect à chaque développeur présent. Les insultes et les comportements désobligeants ne sont pas autorisés dans le groupe. Les moins expérimentés doivent redoubler d'efforts avant de requêter les autres sur des problématiques (le spam est interdit). 
+En tant que membre de cette communauté, vous devez le respect à chaque développeur présent (Humainement comme techniquement). Les insultes et les comportements désobligeants ne sont pas autorisés au sein de la communauté. Les moins expérimentés doivent redoubler d'efforts avant de requêter les autres sur des problématiques qui peuvent être résolues en faisant une simple recherche google. 
 
-N'oubliez jamais que tout projet est une tâche humaine lourde et difficile à gérer (surtout à long terme). Ne jugez donc pas trop vite les membres de la communauté. Respectez les projets de chacun et si cela ne vous plaît pas, gardez-vous de tout commentaire négatif ou ironique.
+Nous sommes essentiellement constituées de développeurs ECMAscript, vous êtes donc priés de ne pas venir nous faire la guerre sur nos orientations technologiques. Les critiques construites sont bien évidemment les bienvenues (dans la mesure où vous respectez les conditions pour entrer).
 
-Les discussions à caractère **personnel** sont autorisées dans les salons **Général** & **Autres**. Dans les autres salons, les membres de la communauté peuvent vous demander en tout respect d'arrêter votre discussion ou de la déplacer dans le salon approprié.
+Vous vous devez de respecter les choix technologiques de chacun. Nous divergeons tous dans la vision que nous avons de l'écosystème ECMAscript (aussi bien front-end que back-end). Il est donc normal que chacun est des préférences particulières pour un framework plutôt qu'un autre. Nous encourageons la diversité et l'expression de ses choix à travers la communauté dans l'objectif de faire partager votre expérience à tous les utilisateurs. Cela donnera peut-être lieu à des débats constructifs qui serviront les intérêts de chacun (dans le plus grand des calmes et respect).
 
-La communauté est essentiellement constituée de développeurs ECMAscript, vous êtes donc priés de ne pas venir pour faire la guerre du meilleur langage de développement. Ce n'est point l'objectif de notre communauté. 
-Les critiques sont bien évidemment les bienvenues (uniquement dans les salons **Général** et **Autres**). 
+Si vous souhaitez discuter d'une problématique autour de PHP, Ruby, Go ou autres, utilisez le salon "**Others**". Attention ce n'est pas non plus un salon qui est fait pour parler de vos problèmes quotidiens en PHP. Si vous avez besoin d'aide sur un autre langage nous vous conseillons de chercher de l'aide sur une autre communauté.
 
-Tout recrutement abusif sera sanctionné. Ne venez donc pas dans l'unique but de recruter pour votre projet.
+Les discussions à caractère **personnel** sont autorisées dans les salons **General**, **Others** et **Games**. 
 
-Les comportements de trolling sont prohibés si votre interlocuteur ne vous connaît pas ou peu. Il en va de même pour l'ironie ou toutes autres phrases à la limite de l'insulte gratuite. 
-
-Les discussions autour de sujets politiques ou faisant référence aux religions sont prohibées.
-
-Les débats doivent être explicitement fondés sur des bases techniques solides. Tout débat "guéguerre" du genre : "**C# VS JAVA**" sont prohibés de la communauté. Nous n'acceptons ce genre de débat que quand il y a des arguments de fond intéressants (comme par exemple : portabilité, gestion HA, etc.). Avoir une vision 360 degrés sur l'ensemble des éléments, c'est ce qui fait l'expertise (et pas seulement cracher sur la "**syntaxe**" qui ne nous convient pas).
-
-Une trop longue période d'inactivité peut être la raison d'une expulsion du groupe. (Surtout si l'on ne vous connaît pas du tout).
-
-**Autres comportements inadmissibles** : 
+**Comportements et sujets de discussion prohibées** : 
 
 - Attaque personnelle. 
-- Publication de contenu pornographique. 
+- Contenu pornographique. 
 - Harcèlement moral.
+- La politique
+- Les religions
 
 En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. 
 
@@ -67,7 +64,7 @@ En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre c
 
 **Lien d'invitation** : [ES-Community](https://discord.gg/DTRKewP)
 
-> **Attention :** Merci de vous présenter et de respecter les règles et restrictions (présente ci-dessus) pour nous rejoindre.
+> **Attention :** Les membres "non officiel" ont accès à un nombre de salon restreint (plusieurs en lecture seulement). Pour devenir un membre officiel merci de consulter les règles ci-dessus.
 
 # Des salons pour chacun de vos besoins  
 
@@ -94,17 +91,10 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 
 ![Salon liens](https://i.imgur.com/Vs09TyU.png)
 
-# Autres langages 
+# Modération  
 
-```javascript
-const darkside = ['php','go','ruby','java','python','scala',...otherDarksideLanguages];
-ESCommunity.getChannel('others').allow(darkside);
-```
+Tous comportements abusifs peuvent être rapportés aux modérateurs de la communauté Vous pouvez les mentionners sur Discord avec `@Moderateur`.
 
-Si vous souhaitez discuter d'une problématique autour de PHP, Ruby, Go ou autres, utilisez le salon "**Autres**". Attention ce n'est pas non plus un salon qui est fait pour parler de vos problèmes quotidiens en PHP. Si vous avez besoin d'aide sur un autre langage je vous conseille donc de chercher une communauté plus à même de vous épauler.
-
-# Modérateurs  
-
-Tous comportements abusifs peuvent être rapportés aux modérateurs de la communauté ! En cas de besoin (hors discord) merci de contacter fraxken sur Skype.
-
+En cas de besoin (hors discord) merci de contacter fraxken sur Skype.
 **Skype** : fraxkens 
+
