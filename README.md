@@ -42,9 +42,9 @@ En tant que membre de cette communauté, vous devez le respect à chaque dévelo
 
 Nous sommes essentiellement constituées de développeurs ECMAscript, vous êtes donc priés de ne pas venir nous faire la guerre sur nos orientations technologiques. Les critiques construites sont bien évidemment les bienvenues (dans la mesure où vous respectez les conditions pour entrer).
 
-Vous vous devez de respecter les choix technologiques de chacun. Nous divergeons tous dans la vision que nous avons de l'écosystème ECMAscript (aussi bien front-end que back-end). Il est donc normal que chacun est des préférences particulières pour un framework plutôt qu'un autre. Nous encourageons la diversité et l'expression de ses choix à travers la communauté dans l'objectif de faire partager votre expérience à tous les utilisateurs. Cela donnera peut-être lieu à des débats constructifs qui serviront les intérêts de chacun (dans le plus grand des calmes et respect).
+Vous vous devez de respecter les choix technologiques de chacun. Nous divergeons tous dans la vision que nous avons de l'écosystème ECMAscript (aussi bien front-end que back-end). Il est donc normal que chacun est des préférences particulières pour un framework plutôt qu'un autre. Nous encourageons la diversité et l'expression de ses choix dans l'objectif de faire partager votre expérience à la communauté.
 
-Si vous souhaitez discuter d'une problématique autour de PHP, Ruby, Go ou autres, utilisez le salon "**Others**". Attention ce n'est pas non plus un salon qui est fait pour parler de vos problèmes quotidiens en PHP. Si vous avez besoin d'aide sur un autre langage nous vous conseillons de chercher de l'aide sur une autre communauté.
+Si vous souhaitez discuter d'une problématique qui ne concerne pas ECMAscript, utilisez le salon "**Others**". Attention néanmoins de ne pas en abuser en demandant fréquemment de l'aide. Dans le cas contraire nous vous conseillons de chercher une communauté plus à même de répondre à vos attentes.
 
 Les discussions à caractère **personnel** sont autorisées dans les salons **General**, **Others** et **Games**. 
 
@@ -62,7 +62,7 @@ for await(const line of readLines( ESCommunity.prohibedBehaviors() ) ) {
 - La politique
 - Les religions
 
-En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. 
+En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Nous serons intransigeant sur le respect et l'application du code de conduite quand il s'agit de jeune développeur. 
 
 # Invitation Discord : 
 
