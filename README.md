@@ -5,7 +5,7 @@ setImmediate( async function() {
 });
 ```
 
-ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre désir est de rassembler les développeurs ECMAScript passionnés et ou professionnelle en un seul point.
+ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre désir est de rassembler les développeurs ECMAScript passionnés et ou professionnels en un seul point.
 
 # Objectifs 
 
@@ -25,7 +25,7 @@ if(user instanceof ECMAScriptDeveloper) {
     user.join(ESCommunity);
     user.setChannel('Presentation');
     user.write(user.presentation);
-}a
+}
 ```
 
 - Etre développeur ECMAScript (Javascript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
@@ -38,7 +38,7 @@ if(user instanceof ECMAScriptDeveloper) {
 fs.createReadStream( path.join( __dirname , 'code_of_conduct.txt').pipe(process.stdout);
 ```
 
-En tant que membre de cette communauté, vous devez le respect à chaque développeur présent (Humainement comme techniquement). Les insultes et les comportements désobligeants ne sont pas autorisés au sein de la communauté. Les moins expérimentés doivent redoubler d'efforts avant de requêter les autres sur des problématiques qui peuvent être résolues en faisant une simple recherche Google. 
+En tant que membre de cette communauté, vous devez le respect à chaque développeur présent (humainement comme techniquement). Les insultes et les comportements désobligeants ne sont pas autorisés au sein de la communauté. Les moins expérimentés doivent redoubler d'efforts avant de requêter les autres sur des problématiques qui peuvent être résolues en faisant une simple recherche Google. 
 
 Nous sommes essentiellement constitués de développeurs ECMAScript, vous êtes donc priés de ne pas venir nous faire la guerre sur nos orientations technologiques. Les critiques construites sont bien évidemment les bienvenues (dans la mesure où vous respectez les conditions pour entrer).
 
@@ -75,7 +75,7 @@ document.getElementById('discordInvitation').addEventListener('click',function(e
 
 [![ES-Community](https://discordapp.com/api/guilds/157205145669599233/embed.png?style=banner2)](https://discord.gg/DTRKewP)
 
-> **Attention :** Les membres n'ayant pas effectué une présentation dans le salon `Presentation` auront un accès restreint à plusieurs salons (ecmascript, nodejs, front, system, cpp-rust, database, gif, links et games).
+> **Attention :** Les membres n'ayant pas effectué une présentation dans le salon `#presentation` auront un accès restreint à plusieurs salons (ecmascript, nodejs, front, system, cpp-rust, database, gif, links et games).
 
 # Des salons pour chacun de vos besoins  
 
@@ -84,29 +84,27 @@ const channels = ESCommunity.getChannels();
 channels.forEach( channel => console.log(`- ${channel.name} (${channel.description})`) );
 ```
 
-- Annonces (Salon des annonces officielles, seuls les modérateurs peuvent écrire).
-- General & Others (Salons libre).
-- Presentations (Présentations des membres de la communauté).
-- Emascript (Tous ce qui est en liaison avec l'écosystème ECMAscript, par exemple : TypeScript, Babel, etc..).
-- NodeJS (Pour parler de tous qui concerne NodeJS).
-- Front (HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery etc.) 
-- System (Scripts bash, mise en production, etc..).
-- CPP-Rust (C++, notamment pour des packages C++ NodeJS avec le V8 Engine et Rust-lang pour des bindings avec neon).
-- Database (SQL, MySQL, MariaDB, MongoDB, Redis, RethinkDB, etc.) 
-- Gif (Salon d'échange de gif fun autour du développement ou autres).
-- Games (Discussion autour de vos jeux préférés).
-- Vocal (Salon pour échanger lors d'un vocal)
-- Links
-
-Le salon **#links** vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe, bien évidemment. 
+- `#annonces` - Salon des annonces officielles, seuls les modérateurs peuvent écrire
+- `#general` & `#others` - Salons libres
+- `#presentation` - Présentations des membres de la communauté
+- `#ecmascript` - Tout ce qui est en liaison avec l'écosystème ECMAscript, par exemple : TypeScript, Babel, etc.
+- `#nodejs` - Pour parler de tout ce qui concerne NodeJS
+- `#front` - HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery, etc.
+- `#system` - Scripts bash, mise en production, etc.
+- `#cpp-rust` - C++, notamment pour des packages C++ NodeJS avec le V8 Engine et Rust-lang pour des bindings avec neon
+- `#Database` - SQL, MySQL, MariaDB, MongoDB, Redis, RethinkDB, etc.
+- `#gif` - Salon d'échange de gifs funs autour du développement ou autres
+- `#games` - Discussions autour de vos jeux préférés
+- `#vocal` - Salon pour échanger lors d'un vocal
+- `#links` - Ce salon vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe, bien évidemment
 
 ![Salon liens](https://i.imgur.com/Vs09TyU.png)
 
-Merci de respecter le format suivant : `[**TITRE ET/OU EMOJI**] Description - Lien`. Les liens doivent obligatoire être en relation avec le développement. 
+Merci de respecter le format suivant : `[**TITRE ET/OU EMOJI**] Description - Lien`. Les liens doivent obligatoirement être en relation avec le développement. 
 
 # Modération  
 
-Tous comportements abusifs peuvent être rapportés aux modérateurs de la communauté. Vous pouvez les mentionner sur Discord avec `@Moderateur`.
+Tout comportement abusif peut être rapporté aux modérateurs de la communauté. Vous pouvez les mentionner sur Discord avec `@Moderateur`.
 
 Les modérateurs : 
 
