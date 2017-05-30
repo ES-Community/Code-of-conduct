@@ -1,6 +1,8 @@
 ```javascript
-ESCommunity.init();
-console.log("Bienvenue sur le code de conduite ES-Community");
+setImmediate( async function() {
+    await ESCommunity.init();
+    console.log("Bienvenue sur le code de conduite ES-Community");
+});
 ```
 
 ES-Community est une communauté ECMAscript francophone créée fin 2015. Notre désir est de rassembler les développeurs ECMAscript passionnés et ou professionnelle en un seul point.
@@ -17,7 +19,7 @@ Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement e
 # Critères pour entrer sur le discord : 
 
 ```javascript
-const user = ESCommunity.connectedUser(); 
+const user = process.connectedUser(); 
 
 if(user instanceof ECMAScriptDeveloper) {
     user.join(ESCommunity);
@@ -46,6 +48,12 @@ Si vous souhaitez discuter d'une problématique autour de PHP, Ruby, Go ou autre
 
 Les discussions à caractère **personnel** sont autorisées dans les salons **General**, **Others** et **Games**. 
 
+```js
+for await(const line of readLines( ESCommunity.prohibedBehaviors() ) ) {
+    console.log(`- ${line}`);
+}
+```
+
 **Comportements et sujets de discussion prohibées** : 
 
 - Attaque personnelle. 
@@ -58,6 +66,13 @@ En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre c
 
 # Invitation Discord : 
 
+```js
+document.getElementById('discordInvitation').addEventListener('click',function(e) {
+    e.preventDefault(); 
+    ESCommunity.invite(user);
+});
+```
+
 [![ES-Community](https://discordapp.com/api/guilds/157205145669599233/embed.png?style=banner2)](https://discord.gg/DTRKewP)
 
 > **Attention :** Les membres n'ayant pas effectué une présentation dans le salon `Presentation` auront un accès restreint à plusieurs salons (ecmascript, nodejs, front, system, cpp-rust, database, gif, links et games).
@@ -69,19 +84,19 @@ const channels = ESCommunity.getChannels();
 channels.forEach( channel => console.log(`- ${channel.name} (${channel.description})`) );
 ```
 
-- **annonces** (salon des annonces officielles, seuls les modérateurs peuvent écrire).
-- general & autres (salons libre).
-- ecmascript (et tous qui est en liaison avec ECMAscript, par exemple : TypeScript, Babel, CoffeeScript etc..) 
-- **nodejs**
-- front (HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery etc.) 
-- system (Scripts bash, mise en production, etc..).
-- cpp-rust (C++, notamment pour des packages C++ NodeJS avec le V8 Engine et Rust lang pour des bindings avec neon).
-- database (SQL, MySQL, MariaDB, MongoDB, Redis, RethinkDB, etc.) 
-- others (Un peu tout et rien).
-- gif (Salon d'échange de gif fun autour du développement ou autres).
-- games (Discussion autour de vos jeux préférés).
-- vocal (Salon pour échanger lors d'un vocal)
-- links
+- Annonces (Salon des annonces officielles, seuls les modérateurs peuvent écrire).
+- General & Others (Salons libre).
+- Presentations (Présentations des membres de la communauté).
+- Emascript (Tous ce qui est en liaison avec l'écosystème ECMAscript, par exemple : TypeScript, Babel, etc..).
+- NodeJS (Pour parler de tous qui concerne NodeJS).
+- Front (HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery etc.) 
+- System (Scripts bash, mise en production, etc..).
+- CPP-Rust (C++, notamment pour des packages C++ NodeJS avec le V8 Engine et Rust-lang pour des bindings avec neon).
+- Database (SQL, MySQL, MariaDB, MongoDB, Redis, RethinkDB, etc.) 
+- Gif (Salon d'échange de gif fun autour du développement ou autres).
+- Games (Discussion autour de vos jeux préférés).
+- Vocal (Salon pour échanger lors d'un vocal)
+- Links
 
 > Le salon **#links** vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe, bien évidemment. 
 
