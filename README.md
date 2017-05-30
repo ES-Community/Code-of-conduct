@@ -5,13 +5,13 @@ setImmediate( async function() {
 });
 ```
 
-ES-Community est une communauté ECMAscript francophone créée fin 2015. Notre désir est de rassembler les développeurs ECMAscript passionnés et ou professionnelle en un seul point.
+ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre désire est de rassembler les développeurs ECMAScript passionnés et ou professionnelle en un seul point.
 
 # Objectifs 
 
 L'objectif de la communauté est avant tout de fournir un lieu d'échange, d'entraide et de veille technologique autour de l'écosystème ECMAScript (Javascript).
 
-C'est aussi l'occasion de rencontrer et parler avec des développeurs qui possèdent des intêrets en commun avec vous. Nous nous entraidons dans les problématiques les plus fréquentes et dans la gestion de notre stack (Administration système, Docker, Base de donnée, Modules NPM, Frameworks, etc.). 
+C'est aussi l'occasion de rencontrer et parler avec des développeurs qui possèdent des intêrets en commun avec vous. Nous nous entraidons dans les problématiques les plus fréquentes et dans la gestion de notre stack (Administration système, Docker, Base de données, Modules NPM, Frameworks, etc.). 
 
 Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement entre nous de nos tracas quotidien. Et pourquoi pas un jour, se rassembler tous ensemble autour d'une bonne bière !
 **EDIT** : C'est chose faite pour certains !
@@ -28,9 +28,9 @@ if(user instanceof ECMAScriptDeveloper) {
 }
 ```
 
-- Etre développeur ECMAscript (Javascript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
+- Etre développeur ECMAScript (Javascript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
 
-> **Attention:** Nous serons plus strict sur le respect du code de conduite pour les plus jeunes.
+> **Attention:** Nous serons plus stricts sur le respect du code de conduite pour les plus jeunes.
 
 # Code de conduite (A lire en entier)
 
@@ -38,13 +38,13 @@ if(user instanceof ECMAScriptDeveloper) {
 fs.createReadStream( path.join( __dirname , 'code_of_conduct.txt').pipe(process.stdout);
 ```
 
-En tant que membre de cette communauté, vous devez le respect à chaque développeur présent (Humainement comme techniquement). Les insultes et les comportements désobligeants ne sont pas autorisés au sein de la communauté. Les moins expérimentés doivent redoubler d'efforts avant de requêter les autres sur des problématiques qui peuvent être résolues en faisant une simple recherche google. 
+En tant que membre de cette communauté, vous devez le respect à chaque développeur présent (Humainement comme techniquement). Les insultes et les comportements désobligeants ne sont pas autorisés au sein de la communauté. Les moins expérimentés doivent redoubler d'efforts avant de requêter les autres sur des problématiques qui peuvent être résolues en faisant une simple recherche Google. 
 
-Nous sommes essentiellement constituées de développeurs ECMAscript, vous êtes donc priés de ne pas venir nous faire la guerre sur nos orientations technologiques. Les critiques construites sont bien évidemment les bienvenues (dans la mesure où vous respectez les conditions pour entrer).
+Nous sommes essentiellement constitués de développeurs ECMAScript, vous êtes donc priés de ne pas venir nous faire la guerre sur nos orientations technologiques. Les critiques construites sont bien évidemment les bienvenues (dans la mesure où vous respectez les conditions pour entrer).
 
-Vous vous devez de respecter les choix technologiques de chacun. Nous divergeons tous dans la vision que nous avons de l'écosystème ECMAscript (aussi bien front-end que back-end). Il est donc normal que chacun est des préférences particulières pour un framework plutôt qu'un autre. Nous encourageons la diversité et l'expression de ses choix dans l'objectif de faire partager votre expérience à la communauté.
+Vous vous devez de respecter les choix technologiques de chacun. Nous divergeons tous dans la vision que nous avons de l'écosystème ECMAScript (aussi bien front-end que back-end). Il est donc normal que chacun ait des préférences particulières pour un framework plutôt qu'un autre. Nous encourageons la diversité et l'expression de ses choix dans l'objectif de faire partager votre expérience à la communauté.
 
-Si vous souhaitez discuter d'une problématique qui ne concerne pas ECMAscript, utilisez le salon "**Others**". Attention néanmoins de ne pas en abuser en demandant fréquemment de l'aide. Dans le cas contraire nous vous conseillons de chercher une communauté plus à même de répondre à vos attentes.
+Si vous souhaitez discuter d'une problématique qui ne concerne pas ECMAScript, utilisez le salon "**Others**". Attention néanmoins à ne pas en abuser en demandant fréquemment de l'aide. Dans le cas contraire nous vous conseillons de chercher une communauté plus à même de répondre à vos attentes.
 
 Les discussions à caractère **personnel** sont autorisées dans les salons **General**, **Others** et **Games**. 
 
@@ -56,13 +56,13 @@ for await(const line of readLines( ESCommunity.prohibedBehaviors() ) ) {
 
 **Comportements et sujets de discussion prohibées** : 
 
-- Attaque personnelle. 
-- Contenu pornographique. 
-- Harcèlement moral.
+- Attaque personnelle
+- Contenu pornographique
+- Harcèlement moral
 - La politique
 - Les religions
 
-En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Nous serons intransigeant sur le respect et l'application du code de conduite quand il s'agit de jeune développeur. 
+En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Nous serons intransigeants sur le respect et l'application du code de conduite quand il s'agit de jeunes développeurs. 
 
 # Invitation Discord : 
 
