@@ -98,9 +98,11 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 - Vocal (Salon pour échanger lors d'un vocal)
 - Links
 
-> Le salon **#links** vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe, bien évidemment. 
+Le salon **#links** vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe, bien évidemment. 
 
 ![Salon liens](https://i.imgur.com/Vs09TyU.png)
+
+Merci de respecter le format suivant : `[**TITRE ET/OU EMOJI**] Description - Lien`. Les liens doivent obligatoire être en relation avec le développement. 
 
 # Modération  
 
