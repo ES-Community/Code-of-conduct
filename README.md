@@ -5,13 +5,13 @@ setImmediate( async function() {
 });
 ```
 
-ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre désire est de rassembler les développeurs ECMAScript passionnés et ou professionnelle en un seul point.
+ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre désir est de rassembler les développeurs ECMAScript passionnés et ou professionnelle en un seul point.
 
 # Objectifs 
 
 L'objectif de la communauté est avant tout de fournir un lieu d'échange, d'entraide et de veille technologique autour de l'écosystème ECMAScript (Javascript).
 
-C'est aussi l'occasion de rencontrer et parler avec des développeurs qui possèdent des intêrets en commun avec vous. Nous nous entraidons dans les problématiques les plus fréquentes et dans la gestion de notre stack (Administration système, Docker, Base de données, Modules NPM, Frameworks, etc.). 
+C'est aussi l'occasion de rencontrer et parler avec des développeurs qui possèdent des intérêts en commun avec vous. Nous nous entraidons dans les problématiques les plus fréquentes et dans la gestion de notre stack (Administration système, Docker, Base de données, Modules NPM, Frameworks, etc.). 
 
 Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement entre nous de nos tracas quotidien. Et pourquoi pas un jour, se rassembler tous ensemble autour d'une bonne bière !
 **EDIT** : C'est chose faite pour certains !
@@ -25,7 +25,7 @@ if(user instanceof ECMAScriptDeveloper) {
     user.join(ESCommunity);
     user.setChannel('Presentation');
     user.write(user.presentation);
-}
+}a
 ```
 
 - Etre développeur ECMAScript (Javascript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
@@ -106,7 +106,7 @@ Merci de respecter le format suivant : `[**TITRE ET/OU EMOJI**] Description - Li
 
 # Modération  
 
-Tous comportements abusifs peuvent être rapportés aux modérateurs de la communauté Vous pouvez les mentionners sur Discord avec `@Moderateur`.
+Tous comportements abusifs peuvent être rapportés aux modérateurs de la communauté. Vous pouvez les mentionner sur Discord avec `@Moderateur`.
 
 Les modérateurs : 
 
