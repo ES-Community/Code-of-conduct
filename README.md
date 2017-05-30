@@ -21,6 +21,7 @@ const user = ESCommunity.connectedUser();
 
 if(user instanceof ECMAScriptDeveloper) {
     user.join(ESCommunity);
+    user.setChannel('Presentation');
     user.commit(user.presentation);
 }
 ```
@@ -59,7 +60,7 @@ En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre c
 
 [![ES-Community](https://discordapp.com/api/guilds/157205145669599233/embed.png?style=banner2)](https://discord.gg/DTRKewP)
 
-> **Attention :** Les membres n'ayant pas effectué une présentation auront un accès restreint à plusieurs salons (ecmascript, nodejs, front, system, cpp-rust, database, gif, links et games) et n'auront pas accès au rôle `@Community`
+> **Attention :** Les membres n'ayant pas effectué une présentation dans le salon `Presentation` auront un accès restreint à plusieurs salons (ecmascript, nodejs, front, system, cpp-rust, database, gif, links et games).
 
 # Des salons pour chacun de vos besoins  
 
