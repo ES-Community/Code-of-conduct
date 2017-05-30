@@ -19,20 +19,15 @@ Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement e
 ```javascript
 const user = ESCommunity.connectedUser(); 
 
-if(user instanceof ECMAScriptDeveloper && user.age >= 16) {
+if(user instanceof ECMAScriptDeveloper) {
     user.join(ESCommunity);
-    user.commit("Ma présentation !");
+    user.commit(user.presentation);
 }
 ```
 
-- Avoir **plus de 16 ans obligatoirement**.
 - Etre développeur ECMAscript (Javascript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
 
-> Nous n'acceptons pas les moins de 16 ans pour des questions de maturité et d'expérience de vie. C'est un choix définitif et non discutable.
-
-# Devenir un membre officiel : 
-
-Pour devenir un membre officiel de la communauté vous devez vous connecter avec un compte valide sur le discord puis effectuez un pull-request de votre présentation sur le fichier "membre.md" en respectant le format mis en place par les précédentes personnes.
+> **Attention:** Nous serons plus strict sur le respect du code de conduite pour les plus jeunes.
 
 # Code de conduite (A lire en entier)
 
@@ -60,11 +55,11 @@ Les discussions à caractère **personnel** sont autorisées dans les salons **G
 
 En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. 
 
-# Lien Discord : 
+# Invitation Discord : 
 
-**Lien d'invitation** : [ES-Community](https://discord.gg/DTRKewP)
+[![ES-Community](https://discordapp.com/api/guilds/157205145669599233/embed.png?style=banner2)](https://discord.gg/DTRKewP)
 
-> **Attention :** Les membres "non officiel" ont accès à un nombre de salon restreint (plusieurs en lecture seulement). Pour devenir un membre officiel merci de consulter les règles ci-dessus.
+> **Attention :** Les membres n'ayant pas effectué une présentation auront un accès restreint à plusieurs salons (ecmascript, nodejs, front, system, cpp-rust, database, gif, links et games) et n'auront pas accès au rôle `@Community`
 
 # Des salons pour chacun de vos besoins  
 
