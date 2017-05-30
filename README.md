@@ -90,6 +90,11 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 
 Tous comportements abusifs peuvent être rapportés aux modérateurs de la communauté Vous pouvez les mentionners sur Discord avec `@Moderateur`.
 
-En cas de besoin (hors discord) merci de contacter fraxken sur Skype.
-**Skype** : fraxkens 
+Les modérateurs : 
+
+- Fraxken
+- Xavier
+- Purexo
+- Tiyo
+- Antoine N.
 
