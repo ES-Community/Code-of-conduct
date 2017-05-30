@@ -24,7 +24,7 @@ const user = process.connectedUser();
 if(user instanceof ECMAScriptDeveloper) {
     user.join(ESCommunity);
     user.setChannel('Presentation');
-    user.commit(user.presentation);
+    user.write(user.presentation);
 }
 ```
 
