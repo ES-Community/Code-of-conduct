@@ -354,6 +354,6 @@ J'ai 16ans, j'ai commencé à programmer il y a environ 1 an par le html/css, j'
 
 Yo, 
 
-Loïc, Sakuto de mon pseudo. Je suis consultant spécialisé en développement d'applications Web pour Genesis-Consult en Belgique. Je justifie de pas moins de **6 mois** d'expériences en temps que profesionnel, et à côté de ça je développe de manière sérieuses des sites depuis 6 ans.
+Loïc, Sakuto de mon pseudo. Je suis consultant spécialisé en développement d’applications Web pour Genesis-Consult en Belgique. Je justifie de pas moins de **6 mois** d’expériences en temps que professionnel, et à côté de ça je développe de manière sérieuse des sites depuis 6 ans.
 
-J'ai principalement fait du PHP étant jeune (CakePHP, puis Symfony, puis Laravel) avant de commencer mes nouveaux projets persos en ASP.NET aussi (et d'enfin découvrir la lumière). Sinon, je suis connu de quelques personnes pour être le tyran modérateur de Openclassrooms, mais sinon, je suis gentil !
+J’ai principalement fait du PHP étant jeune (CakePHP, puis Symfony, puis Laravel) avant de commencer mes nouveaux projets perso en ASP.NET aussi (et d’enfin découvrir la lumière). Sinon, je suis connu de quelques personnes pour être le tyran modérateur de Openclassrooms, mais sinon, je suis gentil !
