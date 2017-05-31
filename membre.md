@@ -315,6 +315,8 @@ Je m'appelle David j'ai 16 ans (pile poil la limite, yay). Je développe depuis 
 Bonjour,
 J'habite à paris, j'ai fait des études dans la communication visuelle, je m'interesse à l'animation 2D/3D et j'aime bien faire des petits projets en javascript dans mon temps libre. j'aimerais apprendre d'autres langages, mais pour l'instant je cherche à me former à node.js et socket.io car je n'ai jamais vraiment fait de backend.
 
+---
+
 ## MrMArgouillat
 
 - **Nom** : Klaja Rahpaël
@@ -328,6 +330,8 @@ Je m'appelle Raphaël, j'ai 16 ans. Depuis des années je m'interresse à la pro
 Long live Js!
 (Merci d'être descendu si bas pour me lire ;-p )
 
+--
+
 ## Matteokocken
 - **Nom** : matteo kocken
 - **Age** : 16 ans
@@ -336,3 +340,20 @@ Long live Js!
 - **Site Web** : http://www.azertywb.hebergratuit.net/accueil.html en php
 Hey salut à tous,
 J'ai 16ans, j'ai commencé à programmer il y a environ 1 an par le html/css, j'ai ensuite appris le PHP,  d'ailleurs j'ai réalisé mon site comme ca. Ensuite j'ai appris le JavaScript, d'ailleurs j'apprends toujours ^^. J'essaye aussi de m'améliorer en Design. Je suis passé un peu par tout C++, C#, C, Unity, sans rien de concret, j'ai maintenant trouvé mon objectif, LE WEB.
+
+--
+
+## Sakuto
+
+- **Nom** : RAMELOT Loïc
+- **Age** : 22 ans
+- **Métier** : Consultant Développeur Applications Web (.NET / Angular).
+- **Compétences clés** : C#, ASP.NET, Angular, TypeScript, JavaScript, Vanilla WebComponents
+- **Site web** : https://ramelot-loic.be
+- **Twitter** : https://twitter.com/Sakuto95
+
+Yo, 
+
+Loïc, Sakuto de mon pseudo. Je suis consultant spécialisé en développement d'applications Web pour Genesis-Consult en Belgique. Je justifie de pas moins de **6 mois** d'expériences en temps que profesionnel, et à côté de ça je développe de manière sérieuses des sites depuis 6 ans.
+
+J'ai principalement fait du PHP étant jeune (CakePHP, puis Symfony, puis Laravel) avant de commencer mes nouveaux projets persos en ASP.NET aussi (et d'enfin découvrir la lumière). Sinon, je suis connu de quelques personnes pour être le tyran modérateur de Openclassrooms, mais sinon, je suis gentil !
