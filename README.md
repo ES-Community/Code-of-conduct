@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/6PwmrOg.png" width="250"></p>
+
 ```javascript
 setImmediate( async function() {
     await ESCommunity.init();
