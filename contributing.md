@@ -1,14 +1,10 @@
-# Code de contribution
+# Guide de contribution
 
-Le code de contribution à pour objectif d'éclaicir et apporter une réponse clair à : **Comment contribuer à l'évolution de la communauté** 
-(Ainsi que faire des demandes de changements). Chaque changement apporté à la communauté devra donc suivre obligatoirement la procédure décrite ci-dessous. 
+Le guide de contribution a pour objectif d'éclaircir et apporter une réponse claire à : **comment contribuer à l'évolution de la communauté** tout en permettant une participation et un vote collectif.
 
-Les règles à absolument respecter : 
+Chaque changement sur le github ou sur le groupe discord devra donc être préalablement soumis par le biais d'une issue (qui donnera préalablement suite à un pull-request) et devra absolument respecter les règles suivantes :
 
-- Etre en accord avec l'esprit et le thème de la communauté.
-- Respecter les lignes directrice du code de conduite (surtout les règles concernant le respect). 
+- Être en accord avec l'esprit et le thème de la communauté.
+- Respecter les lignes directrices du code de conduite (Respect, etc.)).
 
-La procédure : 
-
-- La création d'une issue ou d'une pull-request est obligatoire. 
-- Le délai minimum de traitement est d'une semaine. (Evite tout abus et permet à tout le monde d'être à minima au courant).
+Les changements ne pourront pas être accordé dans un délai inférieur à une semaine.
