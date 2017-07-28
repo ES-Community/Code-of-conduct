@@ -157,24 +157,6 @@ En dehors de l'informatique je suis un grand passionné par les voitures et les 
 
 ---
 
-## izanagi_1995
-
-- **Nom** : SURLERAUX Nicolas
-- **Age** : 22 ans
-- **Métier** : Etudiant en technologie de l'informatique.
-- **Compétences clés** : C, Java, JS/EcmaScript, HTML & CSS, NodeJS, SQL, MongoDB, Angular, PHP
-- **Site web** : https://nsurleraux.be/ (Certif dead pour le moment haha)
-
-Hello!
-
-Je suis belge, je suis encore étudiant mais j'ai déjà un job dans une société en tant que développeur Intranet Front-End et Back-End.
-
-Je développe depuis mes 14 ans et cela est devenu ma passion, au point d'en faire mes études. J'ai été pendant 5 ans animateur scout et je fais aussi de la guitare :)
-
-Voilà voilà :D
-
----
-
 ## Mathieu
 
 - **Nom** : ROUSSEAU Mathieu
@@ -340,20 +322,3 @@ Long live Js!
 - **Site Web** : http://www.azertywb.hebergratuit.net/accueil.html en php
 Hey salut à tous,
 J'ai 16ans, j'ai commencé à programmer il y a environ 1 an par le html/css, j'ai ensuite appris le PHP,  d'ailleurs j'ai réalisé mon site comme ca. Ensuite j'ai appris le JavaScript, d'ailleurs j'apprends toujours ^^. J'essaye aussi de m'améliorer en Design. Je suis passé un peu par tout C++, C#, C, Unity, sans rien de concret, j'ai maintenant trouvé mon objectif, LE WEB.
-
---
-
-## Sakuto
-
-- **Nom** : RAMELOT Loïc
-- **Age** : 22 ans
-- **Métier** : Consultant Développeur Applications Web (.NET / Angular).
-- **Compétences clés** : C#, ASP.NET, Angular, TypeScript, JavaScript, Vanilla WebComponents
-- **Site web** : https://ramelot-loic.be
-- **Twitter** : https://twitter.com/Sakuto95
-
-Yo, 
-
-Loïc, Sakuto de mon pseudo. Je suis consultant spécialisé en développement d’applications Web pour Genesis-Consult en Belgique. Je justifie de pas moins de **6 mois** d’expériences en temps que professionnel, et à côté de ça je développe de manière sérieuse des sites depuis 6 ans.
-
-J’ai principalement fait du PHP étant jeune (CakePHP, puis Symfony, puis Laravel) avant de commencer mes nouveaux projets perso en ASP.NET aussi (et d’enfin découvrir la lumière). Sinon, je suis connu de quelques personnes pour être le tyran modérateur de Openclassrooms, mais sinon, je suis gentil !
