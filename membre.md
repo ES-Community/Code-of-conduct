@@ -187,7 +187,7 @@ Maintenant, je compte apprendre un nouveau langage léger, qui ne demande pas d'
 
 Hello \o/
 
-Je m'appelle Valentin, j'ai 19 ans et j'ai commencé le développement il y a maintrnant au moins 6-7 ans. Certes, au début je faisais pas vraiment des choses bien hein (recopier des tutos m'voyez) mais c'était une très bonne introduction au développement et c'en est devenu ma passion. 
+Je m'appelle Valentin, j'ai 19 ans et j'ai commencé le développement il y a maintenant au moins 6-7 ans. Certes, au début je faisais pas vraiment des choses bien hein (recopier des tutos m'voyez) mais c'était une très bonne introduction au développement et c'en est devenu ma passion. 
 J'ai commencé par le PHP (et donc par le web) sans jamais rien apprendre en CSS parce que ça me gonflait énormément mais c'est une obligation niveau web, c'est ainsi que je l'ai appris.
 Au début, je ne faisais "pas de Javascript", j'utilisais jQuery mais de façon très... sale ? Ah non pardon, de façon dégueulasse. Ce n'est bien sur pas la partie de ma vie dont je suis le plus fier, loin de là ... 
 Ensuite, j'ai fait du "java" en réalisant des pseudo-mods minecraft et des pseudos-plugins. Ouais, j'avais, encore une fois, pas appris le langage.
