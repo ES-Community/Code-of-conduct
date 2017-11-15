@@ -178,25 +178,22 @@ Maintenant, je compte apprendre un nouveau langage léger, qui ne demande pas d'
 
 ---
 
-## Vavaballz
+## Vahelnir
 
 - **Nom** : HAMAYON VOISIN Valentin
-- **Age** : 18 ans
-- **Métier** : Lycéen
+- **Age** : 19 ans
+- **Métier** : Étudiant
 - **Compétences clés** : JS/ECMAScript, HTML & CSS, NodeJS, PHP, VueJS
 
 Hello \o/
 
-J'ai 18 ans actuellement, bientôt 19 (Ouais, ça ne change rien et alors ?). J'ai commencé le développement il y a au moins 6-7 ans maintenant. Bon au début je faisais pas vraiment des choses bien hein (recopier des tutos tmtc) mais c'était une très bonne introduction au développement et c'est devenu ma passion. 
-J'ai commencé par le PHP (et donc par le web) sans jamais rien apprendre en CSS parce que ça me gonflait énormément mais je suis obligé maintenant de l'utiliser donc bah je l'ai appris aussi.
-Au début, je faisais "pas de Javascript", j'utilisais jQuery (et en plus je l'utilisais comme un blaireau), ce n'est pas la partie de ma vie dont je suis le plus fier, loin de là ... 
-Après, bah j'ai fait du "java" avec des pseudo-mods minecraft et des pseudos-plugins. Ouais, j'avais, encore une fois, pas apprit le langage.
-J'ai ensuite commencé à utiliser NodeJS et donc à apprendre le Javascript quand j'ai découvert Electron (Ah, ce truc est génial quand même).
+Je m'appelle Valentin, j'ai 19 ans et j'ai commencé le développement il y a maintenant au moins 6-7 ans. Certes, au début je faisais pas vraiment des choses bien hein (recopier des tutos m'voyez) mais c'était une très bonne introduction au développement et c'en est devenu ma passion. 
+J'ai commencé par le PHP (et donc par le web) sans jamais rien apprendre en CSS parce que ça me gonflait énormément mais c'est une obligation niveau web, c'est ainsi que je l'ai appris.
+Au début, je ne faisais "pas de Javascript", j'utilisais jQuery mais de façon très... sale ? Ah non pardon, de façon dégueulasse. Ce n'est bien sur pas la partie de ma vie dont je suis le plus fier, loin de là ... 
+Ensuite, j'ai fait du "java" en réalisant des pseudo-mods minecraft et des pseudos-plugins. Ouais, j'avais, encore une fois, pas appris le langage.
+J'ai par la suite commencé à me mettre sérieusement au developpement, et j'ai découvert NodeJS et naturellement j'ai commencé a l'utiliser (j'ai bien sur adoré, sinon je ne serais pas là).
 Actuellement, je suis toujours en train de tester plein de langages différents (Rust par exemple).
-Je vise une école d'Ingénieur en informatiques ainsi qu'une spécialité Sécurité et Réseau.
-À part ça, j'aime beaucoup les jeux, surtout CSGO, Warframe, Rainbow Six et NodeJS. Oh wait, NodeJS ce n'est pas un jeu ? Bah, ce n'est pas grave.
-
-Sinon, je suis un peu dans la team #teamIntellij et #teamVSCode parce qu'ils sont cools. Il faut encore que je m'habitue à VIM (un jour peut être ?)
+Je suis en prépa dans une école d'Ingénieurs en informatiques et je vise la pécialité Sécurité et Réseau.
 
 
 ---
