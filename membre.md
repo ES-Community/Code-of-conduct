@@ -328,6 +328,7 @@ J'ai 16ans, j'ai commencé à programmer il y a environ 1 an par le html/css, j'
 - **Niveau scolaire** : Lycéen, 2nd
 - **Compétences clés** : Javascript (+Utilisation de NodeJS), Rust, Linux (NixOS :3)
 - **Site web** : https://lightdiscord.fr
+
 Je me prénomme Arnaud, je suis un p'tit jeune de 15 ans. Je m'intéresse à la programmation mais plus particulièrement au Javascript, ce qui m'amène donc sur votre communauté afin d'élargir mes connaissances c:. Malgrès mes quelques utilisations de Vue le front est pour moi la partie la plus désastreuse (C'est rare que j'ne fasse tout casser). De ce fait j'ai une plus grande expèrience dans le Backend. Je me tourne aujourd'hui vers votre communauté afin de pouvoir apprendre grâce à vos connaissances, ou encore parler de la pluie ou du beau temps :p
 
 ---
