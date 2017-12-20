@@ -319,3 +319,15 @@ Long live Js!
 - **Site Web** : http://www.azertywb.hebergratuit.net/accueil.html en php
 Hey salut à tous,
 J'ai 16ans, j'ai commencé à programmer il y a environ 1 an par le html/css, j'ai ensuite appris le PHP,  d'ailleurs j'ai réalisé mon site comme ca. Ensuite j'ai appris le JavaScript, d'ailleurs j'apprends toujours ^^. J'essaye aussi de m'améliorer en Design. Je suis passé un peu par tout C++, C#, C, Unity, sans rien de concret, j'ai maintenant trouvé mon objectif, LE WEB.
+
+---
+
+## LightDiscord
+- **Nom** : Arnaud Pascal
+- **Age** : 15 ans
+- **Niveau scolaire** : Lycéen, 2nd
+- **Compétences clés** : Javascript (+Utilisation de NodeJS), Rust, Linux (NixOS :3)
+- **Site web** : https://lightdiscord.fr
+Je me prénomme Arnaud, je suis un p'tit jeune de 15 ans. Je m'intéresse à la programmation mais plus particulièrement au Javascript, ce qui m'amène donc sur votre communauté afin d'élargir mes connaissances c:. Malgrès mes quelques utilisations de Vue le front est pour moi la partie la plus désastreuse (C'est rare que j'ne fasse tout casser). De ce fait j'ai une plus grande expèrience dans le Backend. Je me tourne aujourd'hui vers votre communauté afin de pouvoir apprendre grâce à vos connaissances, ou encore parler de la pluie ou du beau temps :p
+
+---
