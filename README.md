@@ -86,19 +86,39 @@ const channels = ESCommunity.getChannels();
 channels.forEach( channel => console.log(`- ${channel.name} (${channel.description})`) );
 ```
 
+#### GENERAL
 - `#annonces` - Salon des annonces officielles, seuls les modérateurs peuvent écrire
-- `#general` & `#others` - Salons libres
 - `#presentation` - Présentations des membres de la communauté
+- `#blabla` - Salon libre
+- `#liens` - Ce salon vous permet d'envoyer des liens vers des projets/drafts intéressants (Obligatoirement en lien avec le groupe).
+- `#tweets` - Salon privé où le Bot publie fréquemment les tweets les plus intéressants sur Node.JS et ECMAScript.
+
+#### DEVELOPPEMENT
 - `#ecmascript` - Tout ce qui est en liaison avec l'écosystème ECMAscript, par exemple : TypeScript, Babel, etc.
 - `#nodejs` - Pour parler de tout ce qui concerne NodeJS
 - `#front` - HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery, etc.
-- `#system` - Scripts bash, mise en production, etc.
-- `#cpp-rust` - C++, notamment pour des packages C++ NodeJS avec le V8 Engine et Rust-lang pour des bindings avec neon
-- `#Database` - SQL, MySQL, MariaDB, MongoDB, Redis, RethinkDB, etc.
+- `#node-native` - Tout ce qui concerne l'implémentation de packages natif sur Node.JS (N-API, NaN et Neon).
+- `#autres` - Tout autres sujets qui concernent le développement.
+
+#### BASE DE DONNEES
+- `#systemes-sql` - Tout ce qui concerne les bases de type SQL (MySQL, MariaDB, SQL Server etc..).
+- `#mongodb` - Salon dédié à la base MongoDB.
+- `#rethinkdb` - Salon dédié à la base RethinkDB.
+- `#redis` - Salon dédié à la base/broker Redis.
+- `#autres` - Discussions et aides sur tout autres bases NoSQL.
+
+#### ADMINISTRATION SYSTEME
+- `#linux` - Tout les systèmes Linux (UNIX).
+- `#docker` - Tout ce qui concerne Docker. (Déploiement, configuration etc..).
+- `#windows` - Un problème avec Windows ?
+- `#autres` - Tout autres problèmes en liaison avec le système.
+
+#### AUTRES
+- `#jeux` - Discussions autour de vos jeux préférés
 - `#gif` - Salon d'échange de gifs funs autour du développement ou autres
-- `#games` - Discussions autour de vos jeux préférés
+- `#bot` - Salon de tests pour le Bot. Possède aussi un hook des modifications sur le github ES-Community.
 - `#vocal` - Salon pour échanger lors d'un vocal
-- `#links` - Ce salon vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe, bien évidemment
+- `autres` - Salon pour parler de tout et n'importe quoi !
 
 ![Salon liens](https://i.imgur.com/Vs09TyU.png)
 
