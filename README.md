@@ -136,4 +136,5 @@ Les mentors :
 - Tiyo
 - Antoine N.
 - Nolan 🇨🇭
+- Romain Lanz
 
