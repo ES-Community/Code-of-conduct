@@ -124,15 +124,17 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 
 Merci de respecter le format suivant : `[**TITRE ET/OU EMOJI**] Description - Lien`. Les liens doivent obligatoirement être en relation avec le développement. 
 
-# Modération  
+# Mentors (Modération)  
 
-Tout comportement abusif peut être rapporté aux modérateurs de la communauté. Vous pouvez les mentionner sur Discord avec `@Moderateur`.
+Tout comportement abusif peut être rapporté aux Mentors de la communauté. Vous pouvez les mentionner sur Discord avec `@Mentor`.
 
-Les modérateurs : 
+Les mentors : 
 
 - Fraxken
 - Xavier
 - Purexo
 - Tiyo
 - Antoine N.
+- Nolan 🇨🇭
+- Romain Lanz
 
