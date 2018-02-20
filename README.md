@@ -37,7 +37,7 @@ if(user instanceof ECMAScriptDeveloper) {
 # Code de conduite (A lire en entier)
 
 ```javascript
-fs.createReadStream( path.join( __dirname , 'code_of_conduct.txt').pipe(process.stdout);
+fs.createReadStream(path.join( __dirname , 'code_of_conduct.txt')).pipe(process.stdout);
 ```
 
 En tant que membre de cette communauté, vous devez le respect à chaque développeur présent (humainement comme techniquement). Les insultes et les comportements désobligeants ne sont pas autorisés au sein de la communauté. Les moins expérimentés doivent redoubler d'efforts avant de requêter les autres sur des problématiques qui peuvent être résolues en faisant une simple recherche Google. 
