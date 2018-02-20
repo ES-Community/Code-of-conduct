@@ -11,6 +11,17 @@ Chaque demande devra impérativement respecter les règles suivante:
 - L'intégralité des mentors de la communauté doit **avoir fournies un vote** positif, neutre ou négatif. (À noter que les votes des mentors **n'ont pas plus de valeurs que les autres**).
 - Les changements ne pourront pas être accordé et mis en place **dans un délai inférieur à une semaine**. 
 
-Une demande peut être émise par tout membres de la communauté (**les demandes ne sont pas restreintes aux mentors ou fondateurs**).
+> Une demande peut être émise par tout membres de la communauté (**les demandes ne sont pas restreintes aux mentors ou fondateurs**). 
 
-> **Exception :** Les fondateurs et mentors de la communauté ont le droit de création et modification des salons publiques dans les catégories `Autres` et `Évènements`. Il en va de même pour des salons à caractère privé.
+# Validation et mise en place du changement
+
+Une fois le délai réglementaire dépassé, un mentor pourra valider la demande uniquement si :
+
+- Les règles du `Guide de contribution` sont respectées.
+- Que l'ensemble des votes positifs soi supérieur à un ratio de `50%`.
+
+Il existe néanmoins **des exceptions** : 
+
+- Les fondateurs et mentors de la communauté ont le droit de création et modification des salons publiques dans les catégories `Autres` et `Évènements`.
+- La création de salons privés pour les mentors ou le bot.
+- Les changements apportant des corrections orthographique (Typo).
