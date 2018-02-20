@@ -2,7 +2,7 @@
 
 Le guide de contribution a pour objectif d'éclaircir et apporter une réponse claire à **comment contribuer à l'évolution de la communauté** tout en permettant une participation et un vote **collectif des membres**.
 
-Chaque changement ou ajout sur les **GitHub ES-Community** ou sur le **groupe Discord** devront donc être préalablement soumis par le biais d'une ou plusieurs issues (ou pull-request) sur le répertoire Code-of-conduct.
+Chaque changement ou ajout sur les **dépôts du GitHub ES-Community** ou sur le **groupe Discord** devront donc être préalablement soumis par le biais d'une ou plusieurs issues (ou pull-request) sur le répertoire Code-of-conduct.
 
 Chaque demande devra impérativement respecter les règles suivantes: 
 
