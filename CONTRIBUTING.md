@@ -18,10 +18,10 @@ Chaque demande devra impérativement respecter les règles suivante:
 Une fois le délai réglementaire dépassé, un mentor pourra valider la demande uniquement si :
 
 - Les règles du `Guide de contribution` sont respectées.
-- Que l'ensemble des votes positifs soi supérieur à un ratio de `50%`.
+- Que l'ensemble des votes positifs soit supérieur à un ratio de `50%`.
 
 Il existe néanmoins **des exceptions** : 
 
 - Les fondateurs et mentors de la communauté ont le droit de création et modification des salons publiques dans les catégories `Autres` et `Évènements`.
-- La création de salons privés pour les mentors ou le bot.
+- La création de salons privés pour les mentors ou le Bot.
 - Les changements apportant des corrections orthographique (Typo).
