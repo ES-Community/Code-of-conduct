@@ -4,7 +4,7 @@ Le guide de contribution a pour objectif d'éclaircir et apporter une réponse c
 
 Chaque changement ou ajout sur les **dépôts du GitHub ES-Community** ou sur le **groupe Discord** devront donc être préalablement soumis par le biais d'une ou plusieurs issues (ou pull-request) sur le répertoire Code-of-conduct.
 
-Chaque demande devra impérativement respecter les règles suivantes: 
+Chaque demande devra impérativement respecter les règles suivantes : 
 
 - Être en accord avec l'esprit et le thème de la communauté.
 - Respecter les lignes directrices du code de conduite (Respect, etc.).
@@ -24,4 +24,4 @@ Il existe néanmoins **des exceptions** :
 
 - Les fondateurs et mentors de la communauté ont le droit de création et modification des salons publiques dans les catégories `Autres` et `Évènements`.
 - La création de salons privés pour les mentors ou le Bot.
-- Les changements apportant des corrections orthographiques (Typo).
+- Les changements apportant des corrections orthographiques.
