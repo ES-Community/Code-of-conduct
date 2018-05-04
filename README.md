@@ -56,7 +56,7 @@ for await(const line of readLines( ESCommunity.prohibedBehaviors() ) ) {
 }
 ```
 
-Vôtre pseudonyme au sein de la communauté se doit d'être en relation avec l'esprit du code de conduite (respectueux, non offensant). Les changements de pseudonyme sont autorisés du moment ou les mentors (à minima) et la communauté sont mise au courant.
+Votre pseudonyme au sein de la communauté se doit d'être en relation avec l'esprit du code de conduite (respectueux, non offensant). Les changements de pseudonyme sont autorisés dès lors que les mentors (à minima) et la communauté sont mis au courant.
 
 **Comportements et sujets de discussion prohibées** : 
 
