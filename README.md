@@ -79,7 +79,15 @@ document.getElementById('discordInvitation').addEventListener('click',function(e
 
 [![ES-Community](https://discordapp.com/api/guilds/157205145669599233/embed.png?style=banner2)](https://discord.gg/DTRKewP)
 
-> **Attention :** Les membres n'ayant pas effectué une présentation dans le salon `#presentation` auront un accès restreint à plusieurs salons (ecmascript, nodejs, front, system, cpp-rust, database, gif, links et games).
+Les membres n'ayant pas effectué une présentation dans le salon `#presentation` auront un accès restreint à plusieurs salons (ecmascript, nodejs, front, system, cpp-rust, database, gif, links et games).
+
+Chaque présentation doit **être un minimum travaillé** et les mentors sont **en droit de vous demander de l'étoffer** si nécessaire. Voici des exemples d'informations **susceptibles d'intéresser les membres de la communauté** pour mieux vous connaître :
+
+- Vôtre métier si liée à l'informatique.
+- Vos expériences et préférences (langages, technologies etc....).
+- Profile Github/Gitlab/Bitbucket ou autres.
+- Depuis combien de temps faites vous du JavaScript et/ou Node.JS (par passion ou non).
+- Comment avez-vous découvert la communauté.
 
 # Des salons pour chacun de vos besoins  
 
