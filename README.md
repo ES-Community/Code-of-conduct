@@ -118,7 +118,7 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 #### AUTRES
 - `#jeux` - Discussions autour de vos jeux préférés
 - `#gif` - Salon d'échange de gifs funs autour du développement ou autres
-- `#bot` - Salon de tests pour le Bot. Possède aussi un hook des modifications sur le github ES-Community.
+- `#logs` - Salon de log des activités de l'ES-Community.
 - `#vocal` - Salon pour échanger lors d'un vocal
 - `autres` - Salon pour parler de tout et n'importe quoi !
 
