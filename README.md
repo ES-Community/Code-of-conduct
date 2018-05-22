@@ -30,11 +30,11 @@ if(user instanceof ECMAScriptDeveloper) {
 }
 ```
 
-- Etre développeur ECMAScript (Javascript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
+- Être développeur ECMAScript (Javascript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
 
 > **Attention:** Nous serons plus stricts sur le respect du code de conduite pour les plus jeunes.
 
-# Code de conduite (A lire en entier)
+# Code de conduite (À lire en entier)
 
 ```javascript
 fs.createReadStream(path.join( __dirname , 'code_of_conduct.txt')).pipe(process.stdout);
