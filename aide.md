@@ -10,33 +10,45 @@ N'hésitez pas à demander à un modérateur d'ajouter des rôles à votre profi
 
 | Nom |
 | --- | 
-| Linux | 
-| Lua |
-| SQL |
-| Perl |
-| CPP |
-| PHP |
-| CSharp |
-| ECMAScript |
-| Java |
-| Python | 
-| NodeJS |
-| Ruby |
-| GO |
-| TypeScript | 
-| MongoDB |
-| AngularJS |
-| ReactJS |
-| VueJS |
-| Canvas |
+| ECMAScript | 
+| C/CCP |
+| GoLang |
 | HTMLCSS |
+| Lua |
+| NodeJS |
+| Perl5 |
+| PHP |
+| Python | 
+| Ruby |
+| Rust |
+| SQL | 
+| TypeScript |
+| Angular |
+| Aurelia |
+| Ember |
+| jQuery |
+| NextJS |
+| NuxtJS |
+| ReactJS |
+| RxJS |
+| Stimulus |
+| VueJS |
 | WebGL |
-| Shell scripting |
-| VanillaJS |
-| Unit testing |
-| RethinkDB |
-| Redis |
+| LevelDB |
+| MongoDB |
 | MSSQL |
+| MySQL |
+| Neo4j |
+| Redis |
+| RethinkDB |
+| Babel |
+| Gulp |
+| Rollup |
+| Webpack |
+| AdonisJS |
+| ExpressJS |
+| KoaJS |
+| Loopback |
 
 # Highlight de code 
 
