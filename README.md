@@ -1,95 +1,150 @@
+<p align="center"><img src="https://i.imgur.com/6PwmrOg.png" width="250"></p>
+
+```javascript
+setImmediate( async function() {
+    await ESCommunity.init();
+    console.log("Bienvenue sur le code de conduite ES-Community");
+});
+```
+
+ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre désir est de rassembler les développeurs ECMAScript passionnés et ou professionnels en un seul point.
+
 # Objectifs 
 
-L'objectif de la communauté est avant tout de fournir un lieu d'échange et de veille technologique autour de l'écosystème Ecmascript (Javascript) et Web. C'est aussi un espace de discussion et d'interaction pour bâtir le monde de demain, tous ensemble main dans la main. (Par le biais de projets ou d'évènements). 
+L'objectif de la communauté est avant tout de fournir un lieu d'échange, d'entraide et de veille technologique autour de l'écosystème ECMAScript (Javascript).
 
-En parlant de main dans la main, nous aidons les développeurs les moins expérimentés qui requièrent notre aide. Nous attendons d'eux qu'ils travaillent fort pour qu'ils soient de plus en plus autonomes dans la résolution de leurs problèmes.
+C'est aussi l'occasion de rencontrer et parler avec des développeurs qui possèdent des intérêts en commun avec vous. Nous nous entraidons dans les problématiques les plus fréquentes et dans la gestion de notre stack (Administration système, Docker, Base de données, Modules NPM, Frameworks, etc.). 
 
-Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement entre nous de nos chefs d'équipe et tracas quotidien. Et pourquoi pas un jour, tous ensemble autour d'une bière ! (La bière uniquement pour les seniors :) ). 
+Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement entre nous de nos tracas quotidien. Et pourquoi pas un jour, se rassembler tous ensemble autour d'une bonne bière !
+**EDIT** : C'est chose faite pour certains !
 
-# Critères pour entrer : 
+# Critères pour entrer sur le discord : 
 
-- Avoir **plus de 16 ans obligatoirement**.
-- Etre développeur ECMAscript. 
-- UX et UI Designer peuvent entrer dans le groupe. 
-- Les administrateurs de base sont aussi les bienvenus.
+```javascript
+const user = process.connectedUser(); 
 
-Chaque nouveau membre **a le devoir de se présenter lorsqu'il rejoint le Discord**. Les membres qui ne se présentent pas seront retirés du groupe. (Présentation à faire dans le salon #general).
+if(user instanceof ECMAScriptDeveloper) {
+    user.join(ESCommunity);
+    user.setChannel('Presentation');
+    user.write(user.presentation);
+}
+```
 
-> Nous n'acceptons pas les moins de 16 ans pour des questions de maturité et d'expérience de vie. Tous nos essais ont été des échecs...
+- Être développeur ECMAScript (Javascript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
 
-# Lien Discord : 
+> **Attention:** Nous serons plus stricts sur le respect du code de conduite pour les plus jeunes.
 
-Lien d'invitation : [ES-Community](https://discord.gg/MNeuFBy) [**Places limitées**]
+# Code de conduite (À lire en entier)
 
-**Warning** : Il est impératif de faire votre présentation dans le salon #général. Pensez **à attendre qu'un modérateur vous ajoute membre** (dans le cas contraire vous serez expulsé automatiquement lors de la déconnexion).
+```javascript
+fs.createReadStream(path.join( __dirname , 'code_of_conduct.txt')).pipe(process.stdout);
+```
 
-> Si il n'y a plus de place, merci de contacter Fraxkens sur skype (tout en bas du readme).
+En tant que membre de cette communauté, vous devez le respect à chaque développeur présent (humainement comme techniquement). Les insultes et les comportements désobligeants ne sont pas autorisés au sein de la communauté. Les moins expérimentés doivent redoubler d'efforts avant de requêter les autres sur des problématiques qui peuvent être résolues en faisant une simple recherche Google. 
 
-# Code de conduite
+Nous sommes essentiellement constitués de développeurs ECMAScript, vous êtes donc priés de ne pas venir nous faire la guerre sur nos orientations technologiques. Les critiques construites sont bien évidemment les bienvenues (dans la mesure où vous respectez les conditions pour entrer).
 
-En tant que membre de cette communauté, vous devez le respect à chaque développeur présent. Les insultes et les comportements désobligeants ne sont pas autorisés dans le groupe. Les moins expérimentés doivent redoubler d'efforts avant de requêter les autres sur des problématiques (le spam est interdit). 
+Vous vous devez de respecter les choix technologiques de chacun. Nous divergeons tous dans la vision que nous avons de l'écosystème ECMAScript (aussi bien front-end que back-end). Il est donc normal que chacun ait des préférences particulières pour un framework plutôt qu'un autre. Nous encourageons la diversité et l'expression de ses choix dans l'objectif de faire partager votre expérience à la communauté.
 
-N'oubliez jamais que tout projet est une tâche humaine lourde et difficile à gérer (surtout à long terme). Ne jugez donc pas trop vite les membres de la communauté. Respectez les projets de chacun et si cela ne vous plaît pas, gardez-vous de tout commentaire négatif ou ironique.
+Si vous souhaitez discuter d'une problématique qui ne concerne pas ECMAScript, utilisez le salon "**Others**". Attention néanmoins à ne pas en abuser en demandant fréquemment de l'aide. Dans le cas contraire nous vous conseillons de chercher une communauté plus à même de répondre à vos attentes.
 
-Les discussions à caractère **personnel** sont autorisées dans les salons **Général** & **Autres**. Dans les autres salons, les membres de la communauté peuvent vous demander en tout respect d'arrêter votre discussion ou de la déplacer dans le salon approprié.
+Les discussions à caractère **personnel** sont autorisées dans les salons **General**, **Others** et **Games**. 
 
-La communauté est essentiellement constituée de développeurs ECMAscript, vous êtes donc priés de ne pas venir pour faire la guerre du meilleur langage de développement. Ce n'est point l'objectif de notre communauté. 
-Les critiques sont bien évidemment les bienvenues (uniquement dans les salons **Général** et **Autres**). 
+```js
+for await(const line of readLines( ESCommunity.prohibedBehaviors() ) ) {
+    console.log(`- ${line}`);
+}
+```
 
-Tout recrutement abusif sera sanctionné. Ne venez donc pas dans l'unique but de recruter pour votre projet.
+Votre pseudonyme au sein de la communauté se doit d'être en relation avec l'esprit du code de conduite (respectueux, non offensant). Les changements de pseudonyme sont autorisés dès lors que les mentors (à minima) et la communauté sont mis au courant.
 
-Les comportements de trolling sont prohibés si votre interlocuteur ne vous connaît pas ou peu. Il en va de même pour l'ironie ou toutes autres phrases à la limite de l'insulte gratuite. 
+**Comportements et sujets de discussion prohibées** : 
 
-Les discussions autour de sujets politiques ou faisant référence aux religions sont prohibées.
+- Attaque personnelle
+- Contenu pornographique
+- Harcèlement moral
+- La politique
+- Les religions
 
-Les débats doivent être explicitement fondés sur des bases techniques solides. Tout débat "guéguerre" du genre : "**C# VS JAVA**" sont prohibés de la communauté. Nous n'acceptons ce genre de débat que quand il y a des arguments de fond intéressants (comme par exemple : portabilité, gestion HA, etc.). Avoir une vision 360 degrés sur l'ensemble des éléments, c'est ce qui fait l'expertise (et pas seulement cracher sur la "**syntaxe**" qui ne nous convient pas).
+En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Nous serons intransigeants sur le respect et l'application du code de conduite quand il s'agit de jeunes développeurs. 
 
-Une trop longue période d'inactivité peut être la raison d'une expulsion du groupe. (Surtout si l'on ne vous connaît pas du tout).
+# Invitation Discord : 
 
-Autres comportements inadmissibles : 
+```js
+document.getElementById('discordInvitation').addEventListener('click',function(e) {
+    e.preventDefault(); 
+    ESCommunity.invite(user);
+});
+```
 
-- Attaque personnelle. 
-- Publication de contenu pornographique. 
-- Harcèlement moral.
+[![ES-Community](https://discordapp.com/api/guilds/157205145669599233/embed.png?style=banner2)](https://discord.gg/DTRKewP)
 
-En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Et bien évidemment, faites des efforts sur l'orthographe ! 
+Les membres n'ayant pas effectué une présentation dans le salon `#presentation` auront un accès restreint à plusieurs salons.
+
+Chaque présentation doit **être un minimum travaillé** et les mentors sont **en droit de vous demander de l'étoffer** si nécessaire. Voici des exemples d'informations **susceptibles d'intéresser les membres de la communauté** pour mieux vous connaître :
+
+- Vôtre métier.
+- Vos expériences et préférences (langages, technologies etc....).
+- Profile Github/Gitlab/Bitbucket ou autres.
+- Depuis combien de temps faites vous du JavaScript et/ou Node.JS (par passion ou non).
+- Comment avez-vous découvert la communauté.
 
 # Des salons pour chacun de vos besoins  
 
-- annonces (salon des annonces officielles, seuls les modérateurs peuvent écrire).
-- general & autres (salons libre).
-- ecmascript (et tous qui est en liaison avec ECMAscript, par exemple : TypeScript, Babel, CoffeeScript etc..) 
-- nodejs 
-- webgl (Tous qui concerne canvas,webgl ou des moteurs de jeu web comme phaser.io, superpowers, etc.) 
-- html-css
-- front (AngularJS, ReactJS, VueJS, RiotJS, JQuery, VanillaJS, etc.) 
-- unix (Scripts bash, mise en production, etc..).
-- ui-design
-- cpp-rust (C++, notamment pour des packages C++ NodeJS avec le V8 Engine et Rust lang pour des bindings avec neon).
-- database (SQL, MySQL, MariaDB, MongoDB, Redis, RethinkDB, etc.) 
-- gif (Salon d'échange de gif fun autour du développement ou autres).
-- games (Discussion autour de vos jeux préférés).
-- exercices (Salon temporaire pour les exercices NodeJS).
-- links
+```javascript
+const channels = ESCommunity.getChannels(); 
+channels.forEach( channel => console.log(`- ${channel.name} (${channel.description})`) );
+```
 
-Le salon **#liens** vous permet d'envoyer des liens vers des projets/drafts intéressants. Cela doit avoir un lien avec le groupe, bien évidemment. 
+#### GENERAL
+- `#annonces` - Salon des annonces officielles, seuls les modérateurs peuvent écrire
+- `#presentation` - Présentations des membres de la communauté
+- `#blabla` - Salon libre
+- `#liens` - Ce salon vous permet d'envoyer des liens vers des projets/drafts intéressants (Obligatoirement en lien avec le groupe).
+- `#tweets` - Salon privé où le Bot publie fréquemment les tweets les plus intéressants sur Node.JS et ECMAScript.
 
-Exemple avec un screenshot : 
+#### DEVELOPPEMENT
+- `#ecmascript` - Tout ce qui est en liaison avec l'écosystème ECMAscript, par exemple : TypeScript, Babel, etc.
+- `#nodejs` - Pour parler de tout ce qui concerne NodeJS
+- `#front` - HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery, etc.
+- `#node-native` - Tout ce qui concerne l'implémentation de packages natif sur Node.JS (N-API, NaN et Neon).
+- `#autres` - Tout autres sujets qui concernent le développement.
+
+#### BASE DE DONNEES
+- `#systemes-sql` - Tout ce qui concerne les bases de type SQL (MySQL, MariaDB, SQL Server etc..).
+- `#mongodb` - Salon dédié à la base MongoDB.
+- `#rethinkdb` - Salon dédié à la base RethinkDB.
+- `#redis` - Salon dédié à la base/broker Redis.
+- `#autres` - Discussions et aides sur tout autres bases NoSQL.
+
+#### ADMINISTRATION SYSTEME
+- `#linux` - Tout les systèmes Linux (UNIX).
+- `#docker` - Tout ce qui concerne Docker. (Déploiement, configuration etc..).
+- `#windows` - Un problème avec Windows ?
+- `#autres` - Tout autres problèmes en liaison avec le système.
+
+#### AUTRES
+- `#jeux` - Discussions autour de vos jeux préférés
+- `#gif` - Salon d'échange de gifs funs autour du développement ou autres
+- `#logs` - Salon de log des activités de l'ES-Community.
+- `#vocal` - Salon pour échanger lors d'un vocal
+- `autres` - Salon pour parler de tout et n'importe quoi !
 
 ![Salon liens](https://i.imgur.com/Vs09TyU.png)
 
-Et même des salons vocaux pour les plus motivés ! 
+Merci de respecter le format suivant : `[**TITRE ET/OU EMOJI**] Description - Lien`. Les liens doivent obligatoirement être en relation avec le développement. 
 
-# Autres langages 
+# Mentors (Modération)  
 
-Si vous souhaitez discuter d'une problématique autour de PHP, Ruby, Go ou autres, utilisez le salon "**Autres**". Attention ce n'est pas non plus un salon qui est fait pour parler de vos problèmes quotidiens en PHP.
+Tout comportement abusif peut être rapporté aux Mentors de la communauté. Vous pouvez les mentionner sur Discord avec `@Mentor`.
 
-# Modérateurs  
+Les mentors : 
 
-Tous comportements abusifs peuvent être rapportés aux modérateurs de la communauté ! 
-
-- Fraxken (@fraxken), Skype : fraxkens 
-- Purexo (@Purexo_) 
-- Xstoudi (@Xstoudi)
+- Fraxken
+- Xavier
+- Purexo
 - Tiyo
-- Antoine Neff
+- Antoine N.
+- Nolan 🇨🇭
+- Romain Lanz
+
