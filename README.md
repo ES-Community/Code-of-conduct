@@ -134,6 +134,11 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 
 Merci de respecter le format suivant : `[**TITRE ET/OU EMOJI**] Description - Lien`. Les liens doivent obligatoirement être en relation avec le développement. 
 
+# Bots
+Les bots sont des membres spéciaux d'ES Community, en effet ce sont des membres qui ne sont constitués que de JavaScript, un but que tout développeur de cette communauté cherche à atteindre
+
+-  [es_bot](https://github.com/ES-Community/es_bot) Bot officiel et collaboratif d'[@ES-Community](https://github.com/ES-Community)
+
 # Mentors (Modération)  
 
 Tout comportement abusif peut être rapporté aux Mentors de la communauté. Vous pouvez les mentionner sur Discord avec `@Mentor`.
