@@ -6,49 +6,72 @@ Certains membres ont des étiquettes qui permettent de savoir dans quels domaine
 
 N'hésitez pas à demander à un modérateur d'ajouter des rôles à votre profil. Ou à faire la requête d'un rôle qui n'existe pas encore.
 
-## Rôles 
+## Rôles
+
+### BDD
+
+| Nom | Lien |
+| --- | --- |
+| LevelDB | http://leveldb.org/ |
+| MongoDB | https://www.mongodb.com/ |
+| MSSQL |
+| MySQL | https://www.mysql.com/fr/ |
+| Neo4j | https://neo4j.com/ |
+| Redis | https://redis.io/ |
+| RethinkDB | https://www.rethinkdb.com/ |
+
+### Backend Framework
+
+| Nom | Lien |
+| --- | --- |
+| AdonisJS | https://adonisjs.com/ |
+| ExpressJS | http://expressjs.com/fr/ |
+| KoaJS | https://koajs.com/ |
+| Loopback | https://loopback.io/ |
+
+### Frontend Framework/Librairie
+
+| Nom | Lien |
+| --- | --- |
+| AngularJS | https://angularjs.org/ |
+| Angular | https://angular.io/ |
+| Aurelia | https://aurelia.io/ |
+| EmberJS | https://www.emberjs.com/ |
+| NextJS | https://nextjs.org/ |
+| NuxtJS | https://fr.nuxtjs.org/ |
+| ReactJS | https://reactjs.org/ |
+| RxJS | https://rxjs-dev.firebaseapp.com/ |
+| Stimulus | https://stimulusjs.org/handbook/origin |
+| VueJS | https://vuejs.org/ |
+
+### Techno
+
+| Nom | Lien |
+| --- | --- |
+| NodeJS | https://nodejs.org |
+| Babel | https://babeljs.io/ |
+| Gulp | https://gulpjs.com/ |
+| Rollup | https://rollupjs.org/guide/en |
+| Webpack | https://webpack.js.org/ |
+
+### Langage
 
 | Nom |
 | --- | 
+| C/CPP |
 | ECMAScript | 
-| C/CCP |
 | GoLang |
 | HTMLCSS |
+| jQuery |
 | Lua |
-| NodeJS |
 | Perl5 |
 | PHP |
 | Python | 
 | Ruby |
 | Rust |
-| SQL | 
+| SQL |
 | TypeScript |
-| Angular |
-| Aurelia |
-| Ember |
-| jQuery |
-| NextJS |
-| NuxtJS |
-| ReactJS |
-| RxJS |
-| Stimulus |
-| VueJS |
 | WebGL |
-| LevelDB |
-| MongoDB |
-| MSSQL |
-| MySQL |
-| Neo4j |
-| Redis |
-| RethinkDB |
-| Babel |
-| Gulp |
-| Rollup |
-| Webpack |
-| AdonisJS |
-| ExpressJS |
-| KoaJS |
-| Loopback |
 
 # Highlight de code 
 
