@@ -101,6 +101,7 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 - `#presentation` - Présentations des membres de la communauté
 - `#blabla` - Salon libre
 - `#liens` - Ce salon vous permet d'envoyer des liens vers des projets/drafts intéressants (Obligatoirement en lien avec le groupe).
+- `#jobs` - Salon permettant de partager des offres d'emploi au reste de la communauté
 - `#tweets` - Salon privé où le Bot publie fréquemment les tweets les plus intéressants sur Node.JS et ECMAScript.
 
 #### DEVELOPPEMENT
