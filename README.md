@@ -132,9 +132,23 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 - `#vocal` - Salon pour échanger lors d'un vocal
 - `autres` - Salon pour parler de tout et n'importe quoi !
 
+#### FORMATS
+Pour certains salons, merci de bien vouloir respecter les formats suivants.
 ![Salon liens](https://i.imgur.com/Vs09TyU.png)
 
-Merci de respecter le format suivant : `[**TITRE ET/OU EMOJI**] Description - Lien`. Les liens doivent obligatoirement être en relation avec le développement. 
+##### #LIENS
+Les liens doivent obligatoirement être en relation avec le développement.
+ 
+`[**TITRE ET/OU EMOJI**] Description - Lien`
+
+##### #JOBS
+```md
+**[ Orientation du poste ] - [ langage/techno (si possible avec les émoji) ] - Intitulé du poste**
+
+Description rapide (missions proposés, lieu, nom de la boite, rémunération...)
+
+Lien de l'annonce / Contact
+```
 
 # Mentors (Modération)  
 
