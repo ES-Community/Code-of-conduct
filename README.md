@@ -79,7 +79,7 @@ document.getElementById('discordInvitation').addEventListener('click',function(e
 
 [![ES-Community](https://discordapp.com/api/guilds/157205145669599233/embed.png?style=banner2)](https://discord.gg/DTRKewP)
 
-Les membres n'ayant pas effectué une présentation dans le salon `#presentation` auront un accès restreint à plusieurs salons.
+Les membres n'ayant pas effectué une présentation dans le salon `#presentation` peuvent accéders aux salons **annonces** et **blabla** en lecture et au salon **presentation** en écriture. Tous les autres salons leur sont inaccessibles.
 
 Chaque présentation doit **être un minimum travaillé** et les mentors sont **en droit de vous demander de l'étoffer** si nécessaire. Voici des exemples d'informations **susceptibles d'intéresser les membres de la communauté** pour mieux vous connaître :
 
