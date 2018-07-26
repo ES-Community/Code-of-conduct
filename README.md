@@ -83,7 +83,7 @@ Les membres n'ayant pas effectué une présentation dans le salon `#presentation
 
 Chaque présentation doit **être un minimum travaillé** et les mentors sont **en droit de vous demander de l'étoffer** si nécessaire. Voici des exemples d'informations **susceptibles d'intéresser les membres de la communauté** pour mieux vous connaître :
 
-- Vôtre métier.
+- Votre métier.
 - Vos expériences et préférences (langages, technologies etc....).
 - Profile Github/Gitlab/Bitbucket ou autres.
 - Depuis combien de temps faites vous du JavaScript et/ou Node.JS (par passion ou non).
