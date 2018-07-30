@@ -8,7 +8,7 @@ Chaque demande devra impérativement respecter les règles suivantes :
 
 - Être en accord avec l'esprit et le thème de la communauté.
 - Respecter les lignes directrices du code de conduite (Respect, etc.).
-- L'intégralité des mentors de la communauté doit **avoir fournie un vote** positif, neutre ou négatif. (À noter que les votes des mentors **n'ont pas plus de valeur que les autres**).
+- L'intégralité des mentors de la communauté doit **avoir fourni un vote** positif, neutre ou négatif. (À noter que les votes des mentors **n'ont pas plus de valeur que les autres**).
 - Les changements ne pourront pas être accordés et mis en place **dans un délai inférieur à une semaine**. 
 
 > Une demande peut être émise par tout membre de la communauté (**les demandes ne sont pas restreintes aux mentors ou fondateurs**). 
