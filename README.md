@@ -77,7 +77,7 @@ document.getElementById('discordInvitation').addEventListener('click',function(e
 });
 ```
 
-[![ES-Community](https://discordapp.com/api/guilds/157205145669599233/embed.png?style=banner2)](https://discord.gg/DTRKewP)
+[![ES-Community](https://discordapp.com/api/guilds/157205145669599233/embed.png?style=banner2)](https://discord.gg/wrsVYYN)
 
 Les membres n'ayant pas effectué une présentation dans le salon `#presentation` peuvent accéder aux salons **annonces** et **blabla** en lecture et au salon **presentation** en écriture. Tous les autres salons leur sont inaccessibles.
 
