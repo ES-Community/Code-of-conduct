@@ -108,7 +108,7 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 - `#ecmascript` - Tout ce qui est en liaison avec l'écosystème ECMAscript, par exemple : TypeScript, Babel, etc.
 - `#nodejs` - Pour parler de tout ce qui concerne NodeJS
 - `#front` - HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery, etc.
-- `#node-native` - Tout ce qui concerne l'implémentation de packages natif sur Node.JS (N-API, NaN et Neon).
+- `#native` - Tout ce qui concerne l'implémentation de packages natif sur Node.JS (N-API, NaN et Neon).
 - `#autres` - Tout autres sujets qui concernent le développement.
 
 #### BASE DE DONNEES
@@ -131,6 +131,11 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 - `#projets` - Salon pour présenter les projets réalisés par les membres de la communauté
 - `#vocal` - Salon pour échanger lors d'un vocal
 - `#autres` - Salon pour parler de tout et n'importe quoi !
+
+#### EVENEMENTS
+- `#nodeschool` - Discussions autour de la NodeSchool.
+- `#weektalk` - Infos sur les prochains [weektalks](https://github.com/ES-Community/weektalk).
+- `#insomni-hack` - Discussions au sujet d'insomni-hack.
 
 #### FORMATS
 Pour certains salons, merci de bien vouloir respecter les formats suivants.
