@@ -155,17 +155,23 @@ Description rapide (missions proposés, lieu, nom de la boite, rémunération...
 Lien de l'annonce / Contact
 ```
 
-# Mentors (Modération)  
+# Rôles de la communauté
+
+* **Fondateur** : Ils ont fondé l'ES-Community.
+    * Délivré : Néant
+    * Couleur : Néant
+    * Sidebar : Néant
+* **Mentor** : Les mentors sont les oligarques bienveillants de la communauté, ils sont les garants du respect du présent Code de Conduite.
+    * Obtention : Délivré par les fondateurs au besoin
+    * Couleur : #E91E63
+    * Sidebar : Séparés
+* **Honorable** : Le grade des honorables est un titre déliveré pour récompenser un investissement particulier envers la communauté ou envers l'écosystème ECMAScript associé à un comportement irréprochable.
+    * Obtention : Délivré à la discrétion des mentors
+    * Couleur : #F1C40F
+    * Sidebar : Avec `Membre`
+* **Membre** : Le grade de membre est le grade de base de la communauté.
+    * Obtention : Délivré sur présentation à toute personne souhaitant rejoindre la communauté.
+    * Couleur : #2198F5
+    * Sidebar : Néant
 
 Tout comportement abusif peut être rapporté aux Mentors de la communauté. Vous pouvez les mentionner sur Discord avec `@Mentor`.
-
-Les mentors : 
-
-- Fraxken
-- Xavier
-- Purexo
-- Tiyo
-- Antoine N.
-- Nolan 🇨🇭
-- Romain Lanz
-
