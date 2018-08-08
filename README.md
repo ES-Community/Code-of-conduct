@@ -103,6 +103,7 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 - `#liens` - Ce salon vous permet d'envoyer des liens vers des projets/drafts intéressants (Obligatoirement en lien avec le groupe).
 - `#jobs` - Salon permettant de partager des offres d'emploi au reste de la communauté
 - `#tweets` - Salon privé où le Bot publie fréquemment les tweets les plus intéressants sur Node.JS et ECMAScript.
+- `#design` - Salon permettant de partager des créations graphiques concerant le webdesign et ainsi recevoir des conseils.
 
 #### DEVELOPPEMENT
 - `#ecmascript` - Tout ce qui est en liaison avec l'écosystème ECMAscript, par exemple : TypeScript, Babel, etc.
@@ -155,7 +156,12 @@ Description rapide (missions proposés, lieu, nom de la boite, rémunération...
 Lien de l'annonce / Contact
 ```
 
-# Mentors (Modération)  
+##### #DESIGN
+Le contenu présenté dans ce channel doit vous appartenir sauf indication de l'auteur/source. Tout re-post ou vol d'un visuel qui ne vous appartient pas sera considéré comme une infraction grave au Code de Conduite.
+
+La communauté étant basé sur le développement web toutes les créations postés dans le channel doivent rester dans ce thème !
+
+# Mentors (Modération)
 
 Tout comportement abusif peut être rapporté aux Mentors de la communauté. Vous pouvez les mentionner sur Discord avec `@Mentor`.
 
