@@ -54,7 +54,7 @@ N'hésitez pas à demander à un modérateur d'ajouter des rôles à votre profi
 | Rollup | https://rollupjs.org/guide/en |
 | Webpack | https://webpack.js.org/ |
 
-### Langage
+### Language
 
 | Nom |
 | --- | 
