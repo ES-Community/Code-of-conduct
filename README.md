@@ -103,7 +103,7 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 - `#liens` - Ce salon vous permet d'envoyer des liens vers des projets/drafts intéressants (Obligatoirement en lien avec le groupe).
 - `#jobs` - Salon permettant de partager des offres d'emploi au reste de la communauté
 - `#tweets` - Salon privé où le Bot publie fréquemment les tweets les plus intéressants sur Node.JS et ECMAScript.
-- `#design` - Salon permettant de partager des créations graphiques et ainsi recevoir des conseils pour une éventuelle amélioration.
+- `#design` - Salon permettant de partager des créations graphiques.
 
 #### DEVELOPPEMENT
 - `#ecmascript` - Tout ce qui est en liaison avec l'écosystème ECMAscript, par exemple : TypeScript, Babel, etc.
