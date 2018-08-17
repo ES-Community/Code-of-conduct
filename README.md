@@ -46,17 +46,17 @@ Nous sommes essentiellement constitués de développeurs ECMAScript, vous êtes 
 
 Vous vous devez de respecter les choix technologiques de chacun. Nous divergeons tous dans la vision que nous avons de l'écosystème ECMAScript (aussi bien front-end que back-end). Il est donc normal que chacun ait des préférences particulières pour un framework plutôt qu'un autre. Nous encourageons la diversité et l'expression de ses choix dans l'objectif de faire partager votre expérience à la communauté.
 
-Si vous souhaitez discuter d'une problématique qui ne concerne pas ECMAScript, utilisez le salon "**Others**". Attention néanmoins à ne pas en abuser en demandant fréquemment de l'aide. Dans le cas contraire nous vous conseillons de chercher une communauté plus à même de répondre à vos attentes.
+Si vous souhaitez discuter d'une problématique qui ne concerne pas ECMAScript, utilisez le salon **Autres** de la section **Développement**. Attention néanmoins à ne pas en abuser en demandant fréquemment de l'aide. Dans le cas contraire nous vous conseillons de chercher une communauté plus à même de répondre à vos attentes.
 
-Les discussions à caractère **personnel** sont autorisées dans les salons **General**, **Others** et **Games**. 
+Les discussions à caractère **personnel** sont autorisées dans les salons **General**, **Autres** et **Jeux** de la section **Autres**. 
+
+Votre pseudonyme au sein de la communauté se doit d'être en relation avec l'esprit du code de conduite (respectueux, non offensant). Les changements de pseudonyme sont autorisés dès lors que les mentors (à minima) et la communauté sont mis au courant.
 
 ```js
-for await(const line of readLines( ESCommunity.prohibedBehaviors() ) ) {
+for await (const line of ESCommunity.prohibedBehaviors()) {
     console.log(`- ${line}`);
 }
 ```
-
-Votre pseudonyme au sein de la communauté se doit d'être en relation avec l'esprit du code de conduite (respectueux, non offensant). Les changements de pseudonyme sont autorisés dès lors que les mentors (à minima) et la communauté sont mis au courant.
 
 **Comportements et sujets de discussion prohibées** : 
 
@@ -65,6 +65,10 @@ Votre pseudonyme au sein de la communauté se doit d'être en relation avec l'es
 - Harcèlement moral
 - La politique
 - Les religions
+
+**Règles en lien avec des salons** : 
+
+- Il est interdit de réagir textuellement dans les salons `#liens` et `jobs`
 
 En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Nous serons intransigeants sur le respect et l'application du code de conduite quand il s'agit de jeunes développeurs. 
 
@@ -139,12 +143,13 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 
 #### FORMATS
 Pour certains salons, merci de bien vouloir respecter les formats suivants.
-![Salon liens](https://i.imgur.com/Vs09TyU.png)
 
 ##### #LIENS
 Les liens doivent obligatoirement être en relation avec le développement.
  
 `[**TITRE ET/OU EMOJI**] Description - Lien`
+
+![Salon liens](https://i.imgur.com/2ExzYXm.png)
 
 ##### #JOBS
 ```md
@@ -154,6 +159,8 @@ Description rapide (missions proposés, lieu, nom de la boite, rémunération...
 
 Lien de l'annonce / Contact
 ```
+
+![Salon jobs](https://i.imgur.com/Rwk2dH8.png)
 
 # Mentors (Modération)  
 
