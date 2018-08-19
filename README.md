@@ -7,7 +7,7 @@ setImmediate( async function() {
 });
 ```
 
-ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre désir est de rassembler les développeurs ECMAScript passionnés et ou professionnels en un seul point.
+ES-Community est une communauté ECMAScript (JavaScript) francophone créée fin 2015. Notre désir est de rassembler les développeurs ECMAScript passionnés et ou professionnels en un seul point.
 
 # Objectifs 
 
@@ -21,16 +21,17 @@ Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement e
 # Critères pour entrer sur le discord : 
 
 ```javascript
-const user = process.connectedUser(); 
+const me = ESCommunity.currentUser();
 
-if(user instanceof ECMAScriptDeveloper) {
-    user.join(ESCommunity);
-    user.setChannel('Presentation');
-    user.write(user.presentation);
+if (!me.hasReadCodeOfConduct) {
+    throw new Error("Merci de lire le code de conduite !");
 }
+me.setChannel('Presentation');
+me.write("... Hello world !");
 ```
 
 - Être développeur ECMAScript (Javascript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
+- Avoir lu entièrement le code de conduite ci-dessous.
 
 > **Attention:** Nous serons plus stricts sur le respect du code de conduite pour les plus jeunes.
 
@@ -97,8 +98,14 @@ Chaque présentation doit **être un minimum travaillé** et les mentors sont **
 # Des salons pour chacun de vos besoins  
 
 ```javascript
-const channels = ESCommunity.getChannels(); 
-channels.forEach( channel => console.log(`- ${channel.name} (${channel.description})`) );
+const channels = ESCommunity.getChannels();
+for (const [type, name, description] of channels) {
+    if (type === "section") {
+       console.log(`#### ${name}`);
+       continue;
+    }
+    console.log(`- `#${name}` - ${description}`)
+}
 ```
 
 #### GENERAL
