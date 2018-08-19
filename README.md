@@ -69,6 +69,7 @@ for await (const line of ESCommunity.prohibedBehaviors()) {
 **Règles en lien avec des salons** : 
 
 - Il est interdit de réagir textuellement dans les salons `#liens` et `jobs`
+- Les projets présentés dans le salon `#projets` doivent être dans la thématique de la communauté (le développement).
 
 En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Nous serons intransigeants sur le respect et l'application du code de conduite quand il s'agit de jeunes développeurs. 
 
