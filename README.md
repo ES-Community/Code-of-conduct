@@ -115,17 +115,10 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 - `#native` - Tout ce qui concerne l'implémentation de packages natif sur Node.JS (N-API, NaN et Neon).
 - `#autres` - Tout autres sujets qui concernent le développement.
 
-#### BASE DE DONNEES
-- `#systemes-sql` - Tout ce qui concerne les bases de type SQL (MySQL, MariaDB, SQL Server etc..).
-- `#mongodb` - Salon dédié à la base MongoDB.
-- `#rethinkdb` - Salon dédié à la base RethinkDB.
-- `#redis` - Salon dédié à la base/broker Redis.
-- `#autres` - Discussions et aides sur tout autres bases NoSQL.
-
 #### ADMINISTRATION SYSTEME
 - `#linux` - Tout les systèmes Linux (UNIX).
 - `#docker` - Tout ce qui concerne Docker. (Déploiement, configuration etc..).
-- `#windows` - Un problème avec Windows ?
+- `#database` - Tout ce qui concerne des problèmes liés à une SGBD.
 - `#autres` - Tout autres problèmes en liaison avec le système.
 
 #### AUTRES
