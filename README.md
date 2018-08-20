@@ -51,7 +51,7 @@ Si vous souhaitez discuter d'une problématique qui ne concerne pas ECMAScript, 
 
 Les discussions à caractère **personnel** sont autorisées dans les salons **General**, **Autres** et **Jeux** de la section **Autres**. 
 
-Votre pseudonyme au sein de la communauté se doit d'être en relation avec l'esprit du code de conduite (respectueux, non offensant). Les changements de pseudonyme sont autorisés dès lors que les mentors (à minima) et la communauté sont mis au courant. Les caractères spéciaux et/ou Emoji ne sont pas autorisés au début du pseudonyme (cela nous rendant la tâche compliquée pour vous notifier en cas de problème).
+Votre pseudonyme au sein de la communauté se doit d'être en relation avec l'esprit du code de conduite (respectueux, non offensant). Les changements de pseudonyme sont autorisés dès lors que les mentors (à minima) et la communauté sont mis au courant. Les caractères spéciaux et/ou Emoji ne sont pas autorisés au début du pseudonyme (cela nous rendant la tâche compliquée pour vous notifier).
 
 ```js
 for await (const line of ESCommunity.prohibedBehaviors()) {
