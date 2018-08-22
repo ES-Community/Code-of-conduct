@@ -121,7 +121,7 @@ for (const [name, description] of channels) {
 - `#native` - Tout ce qui concerne l'implémentation de packages natif sur Node.JS (N-API, NaN et Neon).
 - `#autres` - Tout autres sujets qui concernent le développement.
 
-#### ADMINISTRATION SYSTEME
+#### SYSTEME ET DATABASES
 - `#linux` - Tout les systèmes Linux (UNIX).
 - `#docker` - Tout ce qui concerne Docker. (Déploiement, configuration etc..).
 - `#database` - Tout ce qui concerne des problèmes liés à une SGBD.
