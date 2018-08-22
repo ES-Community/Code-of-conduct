@@ -70,7 +70,8 @@ for await (const line of ESCommunity.prohibedBehaviors()) {
 **Règles en lien avec des salons** : 
 
 - Il est interdit de réagir textuellement dans les salons `#liens` et `jobs`
-- Les projets présentés dans le salon `#projets` doivent être dans la thématique de la communauté (le développement).
+- Les contenus présentés dans les salons `#projets` et `design` doivent être dans la thématique de la communauté (le développement).
+- Le contenu présenté dans le salon `#design` doit vous appartenir sauf indication de l'auteur/source.
 
 En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Nous serons intransigeants sur le respect et l'application du code de conduite quand il s'agit de jeunes développeurs. 
 
@@ -115,6 +116,7 @@ for (const [name, description] of channels) {
 #### DEVELOPPEMENT
 - `#ecmascript` - Tout ce qui est en liaison avec l'écosystème ECMAscript, par exemple : TypeScript, Babel, etc.
 - `#nodejs` - Pour parler de tout ce qui concerne NodeJS
+- `#design` - Salon permettant de partager des créations graphiques.
 - `#front` - HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery, etc.
 - `#native` - Tout ce qui concerne l'implémentation de packages natif sur Node.JS (N-API, NaN et Neon).
 - `#autres` - Tout autres sujets qui concernent le développement.
