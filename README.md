@@ -21,13 +21,13 @@ Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement e
 # Critères pour entrer sur le discord : 
 
 ```javascript
-const me = ESCommunity.currentUser();
+const you = ESCommunity.currentUser();
 
-if (!me.hasReadCodeOfConduct) {
+if (!you.hasReadCodeOfConduct) {
     throw new Error("Merci de lire le code de conduite !");
 }
-me.setChannel('Presentation');
-me.write("... Hello world !");
+you.setChannel('Presentation');
+you.write("... Hello world !");
 ```
 
 - Être développeur ECMAScript (Javascript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
