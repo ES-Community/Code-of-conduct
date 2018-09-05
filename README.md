@@ -148,7 +148,7 @@ Les liens doivent obligatoirement être en relation avec le développement.
  
 `[**TITRE ET/OU EMOJI**] Description - Lien`
 
-![Salon liens](https://i.imgur.com/2ExzYXm.png)
+![Salon liens](https://user-images.githubusercontent.com/2799010/45076365-4322f380-b0ea-11e8-9d98-3fb9913b0f20.png)
 
 ##### #JOBS
 ```md
@@ -159,7 +159,7 @@ Description rapide (missions proposés, lieu, nom de la boite, rémunération...
 Lien de l'annonce / Contact
 ```
 
-![Salon jobs](https://i.imgur.com/Rwk2dH8.png)
+![Salon jobs](https://user-images.githubusercontent.com/2799010/45076330-25ee2500-b0ea-11e8-8a0f-ff97d2fd7dd8.png)
 
 ##### #PROJETS
 
