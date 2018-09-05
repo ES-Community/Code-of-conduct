@@ -69,7 +69,7 @@ for await (const line of ESCommunity.prohibedBehaviors()) {
 
 **Règles en lien avec des salons** : 
 
-- Il est interdit de réagir textuellement dans les salons `#liens` et `jobs`
+- Il est interdit de réagir textuellement dans les salons `#liens`, `#jobs` et `#projets`
 - Les contenus présentés dans les salons `#projets` et `design` doivent être dans la thématique de la communauté (le développement).
 - Le contenu présenté dans le salon `#design` doit vous appartenir sauf indication de l'auteur/source.
 
@@ -161,7 +161,19 @@ Lien de l'annonce / Contact
 
 ![Salon jobs](https://i.imgur.com/Rwk2dH8.png)
 
-# Mentors (Modération)  
+##### #PROJETS
+
+```md
+**Nom du projet**
+
+Description du projet
+
+<Lien du projet> (ex: site web, repo git)
+```
+
+![Salon projets](https://user-images.githubusercontent.com/2799010/45077282-05739a00-b0ed-11e8-9574-43152eb60e22.png)
+
+# Mentors (Modération)
 
 Tout comportement abusif peut être rapporté aux Mentors de la communauté. Vous pouvez les mentionner sur Discord avec `@Mentor`.
 
