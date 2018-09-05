@@ -7,7 +7,7 @@ setImmediate( async function() {
 });
 ```
 
-ES-Community est une communauté ECMAScript (JavaScript) francophone créée fin 2015. Notre désir est de rassembler les développeurs ECMAScript passionnés et ou professionnels en un seul point.
+ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre désir est de rassembler les développeurs ECMAScript passionnés et ou professionnels en un seul point.
 
 # Objectifs 
 
