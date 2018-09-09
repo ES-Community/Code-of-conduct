@@ -21,16 +21,17 @@ Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement e
 # Critères pour entrer sur le discord : 
 
 ```javascript
-const user = process.connectedUser(); 
+const you = ESCommunity.currentUser();
 
-if(user instanceof ECMAScriptDeveloper) {
-    user.join(ESCommunity);
-    user.setChannel('Presentation');
-    user.write(user.presentation);
+if (!you.hasReadCodeOfConduct) {
+    throw new Error("Merci de lire le code de conduite !");
 }
+you.setChannel('Presentation');
+you.write("... Hello world !");
 ```
 
 - Être développeur ECMAScript (Javascript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
+- Avoir lu entièrement le code de conduite ci-dessous.
 
 > **Attention:** Nous serons plus stricts sur le respect du code de conduite pour les plus jeunes.
 
@@ -46,17 +47,17 @@ Nous sommes essentiellement constitués de développeurs ECMAScript, vous êtes 
 
 Vous vous devez de respecter les choix technologiques de chacun. Nous divergeons tous dans la vision que nous avons de l'écosystème ECMAScript (aussi bien front-end que back-end). Il est donc normal que chacun ait des préférences particulières pour un framework plutôt qu'un autre. Nous encourageons la diversité et l'expression de ses choix dans l'objectif de faire partager votre expérience à la communauté.
 
-Si vous souhaitez discuter d'une problématique qui ne concerne pas ECMAScript, utilisez le salon "**Others**". Attention néanmoins à ne pas en abuser en demandant fréquemment de l'aide. Dans le cas contraire nous vous conseillons de chercher une communauté plus à même de répondre à vos attentes.
+Si vous souhaitez discuter d'une problématique qui ne concerne pas ECMAScript, utilisez le salon **Autres** de la section **Développement**. Attention néanmoins à ne pas en abuser en demandant fréquemment de l'aide. Dans le cas contraire nous vous conseillons de chercher une communauté plus à même de répondre à vos attentes.
 
-Les discussions à caractère **personnel** sont autorisées dans les salons **General**, **Others** et **Games**. 
+Les discussions à caractère **personnel** sont autorisées dans les salons **General**, **Autres** et **Jeux** de la section **Autres**. 
+
+Votre pseudonyme au sein de la communauté se doit d'être en relation avec l'esprit du code de conduite (respectueux, non offensant). Les changements de pseudonyme sont autorisés dès lors que les mentors (à minima) et la communauté sont mis au courant. Les caractères spéciaux et/ou Emoji ne sont pas autorisés au début du pseudonyme (cela nous rendant la tâche compliquée pour vous notifier).
 
 ```js
-for await(const line of readLines( ESCommunity.prohibedBehaviors() ) ) {
+for await (const line of ESCommunity.prohibedBehaviors()) {
     console.log(`- ${line}`);
 }
 ```
-
-Votre pseudonyme au sein de la communauté se doit d'être en relation avec l'esprit du code de conduite (respectueux, non offensant). Les changements de pseudonyme sont autorisés dès lors que les mentors (à minima) et la communauté sont mis au courant.
 
 **Comportements et sujets de discussion prohibées** : 
 
@@ -65,6 +66,12 @@ Votre pseudonyme au sein de la communauté se doit d'être en relation avec l'es
 - Harcèlement moral
 - La politique
 - Les religions
+
+**Règles en lien avec des salons** : 
+
+- Il est interdit de réagir textuellement dans les salons `#liens`, `#jobs` et `#projets`
+- Les contenus présentés dans les salons `#projets` et `design` doivent être dans la thématique de la communauté (le développement).
+- Le contenu présenté dans le salon `#design` doit vous appartenir sauf indication de l'auteur/source.
 
 En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Nous serons intransigeants sur le respect et l'application du code de conduite quand il s'agit de jeunes développeurs. 
 
@@ -92,8 +99,10 @@ Chaque présentation doit **être un minimum travaillé** et les mentors sont **
 # Des salons pour chacun de vos besoins  
 
 ```javascript
-const channels = ESCommunity.getChannels(); 
-channels.forEach( channel => console.log(`- ${channel.name} (${channel.description})`) );
+const channels = ESCommunity.getChannels();
+for (const [name, description] of channels) {
+    console.log(`- `#${name}` - ${description}`)
+}
 ```
 
 #### GENERAL
@@ -107,21 +116,15 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 #### DEVELOPPEMENT
 - `#ecmascript` - Tout ce qui est en liaison avec l'écosystème ECMAscript, par exemple : TypeScript, Babel, etc.
 - `#nodejs` - Pour parler de tout ce qui concerne NodeJS
+- `#design` - Salon permettant de partager des créations graphiques.
 - `#front` - HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery, etc.
 - `#native` - Tout ce qui concerne l'implémentation de packages natif sur Node.JS (N-API, NaN et Neon).
 - `#autres` - Tout autres sujets qui concernent le développement.
 
-#### BASE DE DONNEES
-- `#systemes-sql` - Tout ce qui concerne les bases de type SQL (MySQL, MariaDB, SQL Server etc..).
-- `#mongodb` - Salon dédié à la base MongoDB.
-- `#rethinkdb` - Salon dédié à la base RethinkDB.
-- `#redis` - Salon dédié à la base/broker Redis.
-- `#autres` - Discussions et aides sur tout autres bases NoSQL.
-
-#### ADMINISTRATION SYSTEME
+#### SYSTEME ET DATABASES
 - `#linux` - Tout les systèmes Linux (UNIX).
 - `#docker` - Tout ce qui concerne Docker. (Déploiement, configuration etc..).
-- `#windows` - Un problème avec Windows ?
+- `#database` - Tout ce qui concerne des problèmes liés à une SGBD.
 - `#autres` - Tout autres problèmes en liaison avec le système.
 
 #### AUTRES
@@ -139,12 +142,13 @@ channels.forEach( channel => console.log(`- ${channel.name} (${channel.descripti
 
 #### FORMATS
 Pour certains salons, merci de bien vouloir respecter les formats suivants.
-![Salon liens](https://i.imgur.com/Vs09TyU.png)
 
 ##### #LIENS
 Les liens doivent obligatoirement être en relation avec le développement.
  
 `[**TITRE ET/OU EMOJI**] Description - Lien`
+
+![Salon liens](https://user-images.githubusercontent.com/2799010/45076365-4322f380-b0ea-11e8-9d98-3fb9913b0f20.png)
 
 ##### #JOBS
 ```md
@@ -155,7 +159,21 @@ Description rapide (missions proposés, lieu, nom de la boite, rémunération...
 Lien de l'annonce / Contact
 ```
 
-# Mentors (Modération)  
+![Salon jobs](https://user-images.githubusercontent.com/2799010/45076330-25ee2500-b0ea-11e8-8a0f-ff97d2fd7dd8.png)
+
+##### #PROJETS
+
+```md
+**Nom du projet**
+
+Description du projet
+
+<Lien du projet> (ex: site web, repo git)
+```
+
+![Salon projets](https://user-images.githubusercontent.com/2799010/45077282-05739a00-b0ed-11e8-9574-43152eb60e22.png)
+
+# Mentors (Modération)
 
 Tout comportement abusif peut être rapporté aux Mentors de la communauté. Vous pouvez les mentionner sur Discord avec `@Mentor`.
 
