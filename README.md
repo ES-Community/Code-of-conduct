@@ -186,4 +186,4 @@ Les mentors :
 - Antoine N.
 - Nolan 🇨🇭
 - Romain Lanz
-
+- Targos
