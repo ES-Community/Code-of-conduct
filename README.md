@@ -11,7 +11,7 @@ ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre 
 
 # Objectifs 
 
-L'objectif de la communauté est avant tout de fournir un lieu d'échange, d'entraide et de veille technologique autour de l'écosystème ECMAScript (Javascript).
+L'objectif de la communauté est avant tout de fournir un lieu d'échange, d'entraide et de veille technologique autour de l'écosystème ECMAScript (JavaScript).
 
 C'est aussi l'occasion de rencontrer et parler avec des développeurs qui possèdent des intérêts en commun avec vous. Nous nous entraidons dans les problématiques les plus fréquentes et dans la gestion de notre stack (Administration système, Docker, Base de données, Modules NPM, Frameworks, etc.). 
 
@@ -30,7 +30,7 @@ you.setChannel('Presentation');
 you.write("... Hello world !");
 ```
 
-- Être développeur ECMAScript (Javascript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
+- Être développeur ECMAScript (JavaScript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
 - Avoir lu entièrement le code de conduite ci-dessous.
 
 > **Attention:** Nous serons plus stricts sur le respect du code de conduite pour les plus jeunes.
@@ -93,7 +93,7 @@ Chaque présentation doit **être un minimum travaillé** et les mentors sont **
 - Votre métier.
 - Vos expériences et préférences (langages, technologies etc....).
 - Profile Github/Gitlab/Bitbucket ou autres.
-- Depuis combien de temps faites vous du JavaScript et/ou Node.JS (par passion ou non).
+- Depuis combien de temps faites vous du JavaScript et/ou Node.js (par passion ou non).
 - Comment avez-vous découvert la communauté.
 
 # Des salons pour chacun de vos besoins  
@@ -111,14 +111,14 @@ for (const [name, description] of channels) {
 - `#blabla` - Salon libre
 - `#liens` - Ce salon vous permet d'envoyer des liens vers des projets/drafts intéressants (Obligatoirement en lien avec le groupe).
 - `#jobs` - Salon permettant de partager des offres d'emploi au reste de la communauté
-- `#tweets` - Salon privé où le Bot publie fréquemment les tweets les plus intéressants sur Node.JS et ECMAScript.
+- `#tweets` - Salon privé où le Bot publie fréquemment les tweets les plus intéressants sur Node.js et ECMAScript.
 
 #### DEVELOPPEMENT
-- `#ecmascript` - Tout ce qui est en liaison avec l'écosystème ECMAscript, par exemple : TypeScript, Babel, etc.
-- `#nodejs` - Pour parler de tout ce qui concerne NodeJS
+- `#ecmascript` - Tout ce qui est en liaison avec l'écosystème ECMAScript, par exemple : TypeScript, Babel, etc.
+- `#nodejs` - Pour parler de tout ce qui concerne Node.js
 - `#design` - Salon permettant de partager des créations graphiques.
 - `#front` - HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery, etc.
-- `#native` - Tout ce qui concerne l'implémentation de packages natif sur Node.JS (N-API, NaN et Neon).
+- `#native` - Tout ce qui concerne l'implémentation de packages natif sur Node.js (N-API, NaN et Neon).
 - `#autres` - Tout autres sujets qui concernent le développement.
 
 #### SYSTEME ET DATABASES
