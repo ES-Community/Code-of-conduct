@@ -120,6 +120,7 @@ for (const [name, description] of channels) {
 - `#front` - HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery, etc.
 - `#native` - Tout ce qui concerne l'implémentation de packages natif sur Node.JS (N-API, NaN et Neon).
 - `#autres` - Tout autres sujets qui concernent le développement.
+- `#codeReview` - Concerne toute les interactions lié au code Review
 
 #### SYSTEME ET DATABASES
 - `#linux` - Tout les systèmes Linux (UNIX).
