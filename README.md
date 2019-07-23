@@ -119,6 +119,7 @@ for (const [name, description] of channels) {
 - `#design` - Salon permettant de partager des créations graphiques.
 - `#front` - HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery, etc.
 - `#native` - Tout ce qui concerne l'implémentation de packages natif sur Node.js (N-API, NaN et Neon).
+- `#security` - Tout ce qui est lien avec la sécurité d'applications web, les bonnes pratiques d'authentification, etc.
 - `#autres` - Tout autres sujets qui concernent le développement.
 
 #### SYSTEME ET DATABASES
