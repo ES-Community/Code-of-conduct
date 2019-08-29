@@ -140,6 +140,7 @@ for (const [name, description] of channels) {
 - `#nodeschool` - Discussions autour de la NodeSchool.
 - `#weektalk` - Infos sur les prochains [weektalks](https://github.com/ES-Community/weektalk).
 - `#insomni-hack` - Discussions au sujet d'insomni-hack.
+- `#ludum-dare` - Discussions au sujet de [Ludum Dare](https://ldjam.com/events/ludum-dare/rules).
 
 #### FORMATS
 Pour certains salons, merci de bien vouloir respecter les formats suivants.
