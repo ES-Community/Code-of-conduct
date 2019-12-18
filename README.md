@@ -66,6 +66,7 @@ for await (const line of ESCommunity.prohibedBehaviors()) {
 - Harcèlement moral
 - La politique
 - Les religions
+- Les spoilers moins d'une semaine avant la sortie du film
 
 **Règles en lien avec des salons** : 
 
