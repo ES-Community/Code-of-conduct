@@ -115,11 +115,10 @@ for (const [name, description] of channels) {
 
 #### DEVELOPPEMENT
 - `#debutant` - Salon dédié à toutes questions de débutant
-- `#ecmascript` - Tout ce qui est en liaison avec l'écosystème ECMAScript, par exemple : Babel, etc.
+- `#ecmascript` - Tout ce qui est en liaison avec l'écosystème ECMAScript, par exemple : TypeScript, Babel, etc.
 - `#front` - HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery, etc.
 - `#nodejs` - Pour parler de tout ce qui concerne Node.js
 - `#design` - Salon permettant de partager des créations graphiques.
-- `#typescript` - Pour parler du langage TypeScript.
 - `#native` - Tout ce qui concerne l'implémentation de packages natif sur Node.js (N-API, NaN et Neon).
 - `#security` - Tout ce qui est lien avec la sécurité d'applications web, les bonnes pratiques d'authentification, etc.
 - `#autres` - Tout autres sujets qui concernent le développement.
