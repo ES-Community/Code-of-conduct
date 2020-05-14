@@ -122,6 +122,7 @@ for (const [name, description] of channels) {
 - `#typescript` - Pour parler du langage TypeScript.
 - `#native` - Tout ce qui concerne l'implémentation de packages natif sur Node.js (N-API, NaN et Neon).
 - `#security` - Tout ce qui est lien avec la sécurité d'applications web, les bonnes pratiques d'authentification, etc.
+- `#deno` - Pour parler de Deno (<https://deno.land/>).
 - `#autres` - Tout autres sujets qui concernent le développement.
 
 #### SYSTEME ET DATABASES
