@@ -112,6 +112,7 @@ for (const [name, description] of channels) {
 - `#liens` - Ce salon vous permet d'envoyer des liens vers des projets/drafts intéressants (Obligatoirement en lien avec le groupe).
 - `#jobs` - Salon permettant de partager des offres d'emploi au reste de la communauté
 - `#tweets` - Salon privé où le Bot publie fréquemment les tweets les plus intéressants sur Node.js et ECMAScript.
+- `#démocratie` - Salon en lecture seule alimenté par webhooks github, affiche les nouvelles issues et pull-request du code of conduct
 
 #### DEVELOPPEMENT
 - `#debutant` - Salon dédié à toutes questions de débutant
