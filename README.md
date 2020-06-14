@@ -73,7 +73,17 @@ for await (const line of ESCommunity.prohibedBehaviors()) {
 - Les contenus présentés dans les salons `#projets` et `design` doivent être dans la thématique de la communauté (le développement).
 - Le contenu présenté dans le salon `#design` doit vous appartenir sauf indication de l'auteur/source.
 
-En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Nous serons intransigeants sur le respect et l'application du code de conduite quand il s'agit de jeunes développeurs. 
+En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Nous serons intransigeants sur le respect et l'application du code de conduite quand il s'agit de jeunes développeurs.
+
+# Sanctions en cas de non-respect du code de conduite :
+
+Dans le cadre où vous n'auriez pas respecté le code de conduite, vous serez sanctionné en accord avec [le règlement suivant](https://github.com/ES-Community/Code-of-conduct/blob/master/sanctions.md). Notez que les sanctions sont bien souvent discutées et validées par l'intégralité des mentors et ne sont pas le fruit de décision individuelle.
+
+# Participation au cycle de vie de la communauté :
+
+Tout membres de la communauté à un droit de participation et de votes sur les différentes contributions et évolutions proposées au sein de l'organisation github ou bien même du Discord lui-même. Les mentors sont à cet égard égaux en tout point aux membres.
+
+Merci de lire le [code de contribution](https://github.com/ES-Community/Code-of-conduct/blob/master/CONTRIBUTING.md) pour plus d'informations.
 
 # Invitation Discord : 
 
