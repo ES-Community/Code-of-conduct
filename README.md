@@ -81,7 +81,7 @@ Dans le cadre où vous n'auriez pas respecté le code de conduite, vous serez sa
 
 # Participation au cycle de vie de la communauté :
 
-Tout membres de la communauté à un droit de participation et de votes sur les différentes contributions et évolutions proposées au sein de l'organisation github ou bien même du Discord lui-même. Les mentors sont à cet égard égaux en tout point aux membres.
+Tout membre de la communauté a un droit de participation et de vote sur les différentes contributions et évolutions proposées au sein de l'organisation Github ou bien du Discord lui-même. Les mentors sont à cet égard égaux en tout point aux membres.
 
 Merci de lire le [code de contribution](https://github.com/ES-Community/Code-of-conduct/blob/master/CONTRIBUTING.md) pour plus d'informations.
 
