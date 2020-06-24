@@ -146,6 +146,7 @@ for (const [name, description] of channels) {
 - `#logs` - Salon de log des activités de l'ES-Community.
 - `#projets` - Salon pour présenter les projets réalisés par les membres de la communauté
 - `#vocal` - Salon pour échanger lors d'un vocal
+- `#musiques` - Salon pour partager et échanger des titres et playlistes musicales
 - `#autres` - Salon pour parler de tout et n'importe quoi !
 
 #### EVENEMENTS
@@ -186,6 +187,12 @@ Description du projet
 ```
 
 ![Salon projets](https://user-images.githubusercontent.com/2799010/45077282-05739a00-b0ed-11e8-9574-43152eb60e22.png)
+
+##### #MUSIQUES
+
+`[**PLATEFORME ET/OU EMOJI**] Nom du titre/playlist - Lien du titre/playlist`
+
+![Salon musiques](https://user-images.githubusercontent.com/29425008/85558073-b2076e80-b628-11ea-92dc-7e4dac36bec7.png)
 
 # Mentors (Modération)
 
