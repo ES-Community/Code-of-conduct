@@ -126,6 +126,7 @@ Chaque présentation doit **être un minimum travaillé** et les mentors sont **
 - `#weektalk` - Infos sur les prochains [weektalks](https://github.com/ES-Community/weektalk).
 - `#insomni-hack` - Discussions au sujet de [l'insomni-hack](https://insomnihack.ch).
 - `#ludum-dare` - Discussions au sujet de [Ludum Dare](https://ldjam.com/events/ludum-dare/rules).
+- `#battledev` - Discussion au sujet de la [BattleDev](https://battledev.blogdumoderateur.com).
 
 ## Formats
 Pour certains salons, merci de bien vouloir respecter les formats suivants.
