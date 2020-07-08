@@ -6,7 +6,7 @@ Tout manquement au code de conduite des utilisateurs non-membres sera considér�
 ## Violations
 ### Mineure
 Les cas de non-respect mineurs sont :
-* Erreur sur le formatage du texte dans les salons possédants des [règles spécifiques](#règles-spécifiques-à-certain-salons).
+* Erreur sur le formatage du texte dans les salons possédants des [règles spécifiques](./README.md#règles-spécifiques-à-certain-salons).
 * Être impliqué dans une discussion dérivant du sujet du salon et/ou de la communauté.
 * Inviter un membre sans préalablement lui fournir le lien du code de conduite.
 
