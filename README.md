@@ -87,13 +87,6 @@ Chaque présentation doit **être un minimum travaillé** et les mentors sont **
 - Comment avez-vous découvert la communauté.
 
 # Salons
-
-```javascript
-const channels = ESCommunity.getChannels();
-for (const [name, description] of channels) {
-    console.log(`- `#${name}` - ${description}`)
-}
-```
 ## Liste
 ### Général
 - `#annonces` - Salon des annonces officielles, seuls les modérateurs peuvent écrire
