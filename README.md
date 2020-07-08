@@ -27,6 +27,7 @@ ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre 
     - [#liens](#liens)
     - [#jobs](#jobs)
     - [#projets](#projets)
+- [Mentors](#mentors)
 
 # Objectifs
 L'objectif de la communauté est avant tout de fournir un lieu d'échange, d'entraide et de veille technologique autour de l'écosystème ECMAScript (JavaScript).
@@ -165,3 +166,16 @@ Description du projet
 ```
 
 ![Salon projets](https://user-images.githubusercontent.com/2799010/45077282-05739a00-b0ed-11e8-9574-43152eb60e22.png)
+
+# Mentors
+Tout comportement abusif peut être rapporté aux Mentors de la communauté. Vous pouvez les mentionner sur Discord avec `#Mentor`.
+
+Les mentors :
+- Fraxken
+- Xavier
+- Purexo
+- Tiyo
+- Antoine N.
+- Nolan
+- Romain Lanz
+- Targos
