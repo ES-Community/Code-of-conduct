@@ -168,7 +168,7 @@ Description du projet
 ![Salon projets](https://user-images.githubusercontent.com/2799010/45077282-05739a00-b0ed-11e8-9574-43152eb60e22.png)
 
 # Mentors
-Tout comportement abusif peut être rapporté aux Mentors de la communauté. Vous pouvez les mentionner sur Discord avec `#Mentor`.
+Tout comportement abusif peut être rapporté aux Mentors de la communauté. Vous pouvez les mentionner sur Discord avec `@Mentor`.
 
 Les mentors :
 - Fraxken
