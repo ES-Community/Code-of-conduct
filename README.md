@@ -168,7 +168,7 @@ Les mentors :
 - Xavier
 - Purexo
 - Tiyo
-- Antoine N.
+- Antoine
 - Nolan
 - Romain Lanz
 - Targos
