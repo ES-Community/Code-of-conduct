@@ -19,7 +19,7 @@ Les cas de non-respect neutres sont :
 
 Un mentor sera donc en droit de lever un avertissement envers le membre concerné par l'infraction. **(par message privé, si possible)**
 
-Le membre averti est prisé de s'excuser auprès de la ou les personne-s impactée-s par son comportement. À noter que nous considérons l'infraction comme **mineure** si vous **avez reconnu de vous-même votre erreur** avant notre intervention.
+Le membre averti est prié de s'excuser auprès de la ou les personne-s impactée-s par son comportement. À noter que nous considérons l'infraction comme **mineure** si vous **avez reconnu de vous-même votre erreur** avant notre intervention.
 
 ### Grave
 Les cas de non-respect graves sont :

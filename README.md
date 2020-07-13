@@ -37,11 +37,22 @@ C'est aussi l'occasion de rencontrer et parler avec des développeurs qui possè
 Mais finalement, c'est aussi plusieurs salons où l'on peut discuter librement entre nous de nos tracas quotidien. Et pourquoi pas un jour, se rassembler tous ensemble autour d'une bonne bière ! **EDIT** : C'est chose faite pour certains !
 
 # Critères d'entrée
+```js
+const you = ESCommunity.currentUser();
+
+if (!you.hasReadCodeOfConduct) {
+    throw new Error("Merci de lire le code de conduite !");
+}
+you.setChannel('Presentation');
+you.write("... Hello world !");
+```
 * Être développeur ECMAScript (JavaScript) par passion ou par métier. Cela comprend aussi les débutants qui ont la volonté d'apprendre sérieusement.
 * Avoir lu et accepter entièrement le code de conduite ci-dessous.
-> **Attention** : nous serons plus stricts sur le respect du code de conduite pour les plus jeunes.
 
 # Code de conduite
+```js
+fs.createReadStream(path.join( __dirname , 'code_of_conduct.txt')).pipe(process.stdout);
+```
 En tant que membre de cette communauté, vous devez le respect à chaque développeur présent (humainement comme techniquement). Les insultes et les comportements désobligeants ne sont pas autorisés au sein de la communauté. Les moins expérimentés doivent redoubler d'efforts avant de requêter les autres sur des problématiques qui peuvent être résolues en faisant une simple recherche Google.
 
 Nous sommes essentiellement constitués de développeurs ECMAScript, vous êtes donc priés de ne pas venir nous faire la guerre sur nos orientations technologiques. Les critiques construites sont bien évidemment les bienvenues (dans la mesure où vous respectez les conditions pour entrer).
@@ -54,11 +65,16 @@ Les discussions à caractère personnel sont autorisées dans les salons  `#autr
 
 Votre pseudonyme au sein de la communauté se doit d'être en relation avec l'esprit du code de conduite (respectueux, non offensant, etc.). Les changements de pseudonyme sont autorisés dès lors que les mentors (à minima) et la communauté sont informés. Les caractères spéciaux et/ou emoji ne sont pas autorisés au début du pseudonyme (cela nous rendant la tâche compliquée pour vous notifier).
 
+```js
+for await (const line of ESCommunity.prohibedBehaviors()) {
+    console.log(`- ${line}`);
+}
+```
 ## Comportements et sujets de discussion prohibés
-* attaque personnelle;
-* contenu pornographiques;
-* harcèlement moral;
-* politique;
+* attaque personnelle ;
+* contenu pornographiques ;
+* harcèlement moral ;
+* politique ;
 * religions.
 
 ## Règles spécifiques à certain salons
@@ -68,12 +84,18 @@ Votre pseudonyme au sein de la communauté se doit d'être en relation avec l'es
 En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Nous serons intransigeants sur le respect et l'application du code de conduite.
 
 # Modération
-Les sanctions concernant les manquements au code de conduite sont définies dans le document [code de modération](./MODS.md).
+Les sanctions et modalités d'application concernant les manquements au code de conduite sont définies dans le document [code de modération](./MODS.md).
 
 # Contribution
 Tout membre de la communauté a un droit de participation et de vote sur les différentes contributions et évolutions proposées au sein de l'organisation GitHub ou du serveur Discord lui-même. A cet égard, les mentors sont en tout point égaux aux membres. Pour plus d'informations, merci de lire le [guide de contribution](./CONTRIBUTING.md).
 
 # Invitation Discord
+```js
+document.getElementById('discordInvitation').addEventListener('click',function(e) {
+    e.preventDefault(); 
+    ESCommunity.invite(user);
+});
+```
 [![ES-Community](https://discordapp.com/api/guilds/157205145669599233/embed.png?style=banner2)](https://discord.gg/V2g89Ve)
 
 Les membres n'ayant pas effectué une présentation dans le salon `#presentation` peuvent accéder aux salons `#annonces` et `#blabla` en lecture et au salon `#presentation` en écriture. Tous les autres salons leur sont inaccessibles.
@@ -82,11 +104,17 @@ Chaque présentation doit **être un minimum travaillé** et les mentors sont **
 
 - Votre métier.
 - Vos expériences et préférences (langages, technologies etc....).
-- Profile Github/Gitlab/Bitbucket ou autres.
+- Profil Github / Gitlab / Bitbucket ou autres.
 - Depuis combien de temps faites vous du JavaScript et/ou Node.js (par passion ou non).
 - Comment avez-vous découvert la communauté.
 
 # Salons
+```js
+const channels = ESCommunity.getChannels();
+for (const [name, description] of channels) {
+    console.log(`- `#${name}` - ${description}`)
+}
+```
 ## Liste
 ### Général
 - `#annonces` - Salon des annonces officielles, seuls les modérateurs peuvent écrire
