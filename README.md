@@ -1,12 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/6PwmrOg.png" width="250"></p>
 
-```javascript
-setImmediate( async function() {
-    await ESCommunity.init();
-    console.log("Bienvenue sur le code de conduite ES-Community");
-});
-```
-
 ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre désir est de rassembler les développeurs ECMAScript passionnés et ou professionnels en un seul point.
 - [Objectifs](#objectifs)
 - [Critères d'entrée](#critères-dentrée)
