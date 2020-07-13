@@ -73,6 +73,7 @@ for await (const line of ESCommunity.prohibedBehaviors()) {
 ## Règles spécifiques à certain salons
 * Il est interdit de réagir textuellement dans les salons `#liens`, `#jobs` et `#projets`.
 * Les contenus présentés dans les salons `#projets` et `#design` doivent être dans la thématique de la communauté, à savoir le développement.
+* Le contenu présenté dans le salon `#design` doit vous appartenir sauf indication de l'auteur / source.
 
 En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre chacune des règles ci-dessus**. Nous serons intransigeants sur le respect et l'application du code de conduite.
 
