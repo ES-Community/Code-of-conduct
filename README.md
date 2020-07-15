@@ -65,7 +65,7 @@ for await (const line of ESCommunity.prohibedBehaviors()) {
 ```
 ## Comportements et sujets de discussion prohibés
 * attaque personnelle ;
-* contenu pornographiques ;
+* contenu pornographique ;
 * harcèlement moral ;
 * politique ;
 * religions.
