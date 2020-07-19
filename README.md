@@ -183,7 +183,17 @@ Description du projet
 
 ![Salon projets](https://user-images.githubusercontent.com/2799010/45077282-05739a00-b0ed-11e8-9574-43152eb60e22.png)
 
+# Administrateurs
+Les administrateurs mettent en application les décisions prisent par la communauté ainsi que les sanctions décidées par les mentors.
+Ils sont nommés à la discrétion des fondateurs, triés parmis les mentors.
+
+Les administrateurs :
+- TBD
+
 # Mentors
+Les mentors sont des membres brillants par leur investissement dans la communauté en étant particulièrement actifs avec une communication adéquate.
+Ils sont responsables de la bonne ambiance sur le Discord, en désamorçant les conflits naissants ou en prenant des sanctions proportionnées. Ils animent aussi la communauté en incitant les membres à proposer des changements et en les guidant dans le processus.
+Ils sont nommés selon les modalités du ![Code de contribution](CONTRIBUTING.md).
 Tout comportement abusif peut être rapporté aux Mentors de la communauté. Vous pouvez les mentionner sur Discord avec `@Mentor`.
 
 Les mentors :
