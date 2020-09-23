@@ -22,6 +22,6 @@ Une fois le délai réglementaire dépassé, un administrateur pourra valider la
 
 Il existe néanmoins **des exceptions** : 
 
-- Les fondateurs et mentors de la communauté ont le droit de création et modification des salons publiques dans les catégories `Autres` et `Évènements`.
+- Les administrateurs et mentors de la communauté ont le droit de création et modification des salons publiques dans les catégories `Autres` et `Évènements`.
 - La création de salons privés pour les mentors ou le Bot.
 - Les changements apportant des corrections orthographiques.
