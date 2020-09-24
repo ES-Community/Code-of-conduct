@@ -31,6 +31,6 @@ Les administrateur établissent une sanction qui leur semble justifiée.
 ## Sanctions
 Il existe trois types de sanctions : **avertissement**, **mise à pied** et **exclusion**..
 
-La **mise à pied** correspond à la rétrogradation du rôle du membre visé pendant une période fixe définie par le mentor ou l'administrateur.
+La **mise à pied** correspond à la rétrogradation du rôle du membre visé pendant une période fixe définie par l'administrateur.
 
 L'**exclusion** est par définition définitive. L'exclusion est prononcée par un administrateur.
