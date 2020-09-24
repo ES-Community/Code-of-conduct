@@ -204,4 +204,10 @@ Ils sont nommés selon les modalités du ![Code de contribution](CONTRIBUTING.md
 
 Les mentors :
 - Tiyo
+- Fraxken
+- Xavier
+- Purexo
+- Tiyo
 - Antoine
+- Romain Lanz
+- Targos
