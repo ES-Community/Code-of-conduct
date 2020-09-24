@@ -10,7 +10,7 @@ Les cas de non-respect mineurs sont :
 * Être impliqué dans une discussion dérivant du sujet du salon et/ou de la communauté.
 * Inviter un membre sans préalablement lui fournir le lien du code de conduite.
 
-Un mentor ou un administrateur sera donc en droit de lever un avertissement **amical** envers le membre concerné par l'infraction.
+Un administrateur sera donc en droit de lever un avertissement **amical** envers le membre concerné par l'infraction.
 
 ### Neutre
 Les cas de non-respect neutres sont :
