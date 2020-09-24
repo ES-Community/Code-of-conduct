@@ -17,7 +17,7 @@ Les cas de non-respect neutres sont :
 * Comportements et discussions prohibés par le code de conduite.
 * Non-respect de l'orientation technologique d'autrui. (n'inclut pas la critique)
 
-Un mentor ou un administrateur sera donc en droit de lever un avertissement envers le membre concerné par l'infraction. **(par message privé, si possible)**
+Un administrateur sera donc en droit de lever un avertissement envers le membre concerné par l'infraction. **(par message privé, si possible)**
 
 Le membre averti est prié de s'excuser auprès de la ou les personne-s impactée-s par son comportement. À noter que nous considérons l'infraction comme **mineure** si vous **avez reconnu de vous-même votre erreur** avant notre intervention.
 
