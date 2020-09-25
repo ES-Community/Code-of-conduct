@@ -195,7 +195,7 @@ Les administrateurs :
 - Romain Lanz
 - Targos
 
-Tout comportement abusif peut être rapporté aux Mentors de la communauté. Vous pouvez les mentionner sur Discord avec `@Administrateurs`.
+Tout comportement abusif peut être rapporté aux Administrateurs de la communauté. Vous pouvez les mentionner sur Discord avec `@Administrateurs`.
 
 # Mentors
 Les mentors sont des membres brillants par leur investissement dans la communauté en étant particulièrement actifs avec une communication adéquate, pédagogique et bienveillante.
