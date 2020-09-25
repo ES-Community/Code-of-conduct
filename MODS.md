@@ -26,7 +26,7 @@ Les cas de non-respect graves sont :
 * Manque de respect envers le rôle de mentor ou d'administrateur.
 * Réitérer à plusieurs reprises un comportement précédemment sanctionné par un avertissement.
 
-Les administrateur établissent une sanction qui leur semble justifiée.
+Les administrateurs établissent une sanction qui leur semble justifiée.
 
 ## Sanctions
 Il existe trois types de sanctions : **avertissement**, **mise à pied** et **exclusion**..
