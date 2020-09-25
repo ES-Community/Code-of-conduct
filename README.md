@@ -186,7 +186,7 @@ Description du projet
 
 # Administrateurs
 Les administrateurs mettent en application les décisions prises par la communauté et avertissent ou sanctionnent en cas de manquement au code de conduite de la part d'un membre.
-Ils sont nommés à la discrétion des fondateurs, triés parmis les mentors.
+Ils sont nommés à la discrétion des fondateurs, triés parmi les mentors.
 
 Les administrateurs :
 - Fraxken
