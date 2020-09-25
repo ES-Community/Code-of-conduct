@@ -203,7 +203,6 @@ Ils participent à faire vivre le Discord en animant les discussions sur les év
 Ils sont nommés selon les modalités du [Code de contribution](CONTRIBUTING.md).
 
 Les mentors :
-- Tiyo
 - Fraxken
 - Xavier
 - Purexo
