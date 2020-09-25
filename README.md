@@ -200,7 +200,7 @@ Tout comportement abusif peut être rapporté aux Administrateurs de la communau
 # Mentors
 Les mentors sont des membres brillant par leur investissement dans la communauté en étant particulièrement actifs avec une communication adéquate, pédagogique et bienveillante.
 Ils participent à faire vivre le Discord en animant les discussions sur les évolutions du code de conduite, encouragent les membres à proposer des changements en les guidant au besoin et mettent en place les weektalks.
-Ils sont nommés selon les modalités du ![Code de contribution](CONTRIBUTING.md).
+Ils sont nommés selon les modalités du [Code de contribution](CONTRIBUTING.md).
 
 Les mentors :
 - Tiyo
