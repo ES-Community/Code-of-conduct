@@ -185,7 +185,7 @@ Description du projet
 ![Salon projets](https://user-images.githubusercontent.com/2799010/45077282-05739a00-b0ed-11e8-9574-43152eb60e22.png)
 
 # Administrateurs
-Les administrateurs mettent en application les décisions prisent par la communauté et avertissent ou sanctionnent en cas de manquement au code de conduite de la part d'un membre.
+Les administrateurs mettent en application les décisions prises par la communauté et avertissent ou sanctionnent en cas de manquement au code de conduite de la part d'un membre.
 Ils sont nommés à la discrétion des fondateurs, triés parmis les mentors.
 
 Les administrateurs :
