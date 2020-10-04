@@ -20,6 +20,7 @@ ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre 
     - [#liens](#liens)
     - [#jobs](#jobs)
     - [#projets](#projets)
+- [Administrateurs](#administrateurs)
 - [Mentors](#mentors)
 
 # Objectifs
@@ -81,7 +82,7 @@ En adoptant ce code de conduite, **vous vous engagez à respecter à la lettre c
 Les sanctions et modalités d'application concernant les manquements au code de conduite sont définies dans le document [code de modération](./MODS.md).
 
 # Contribution
-Tout membre de la communauté a un droit de participation et de vote sur les différentes contributions et évolutions proposées au sein de l'organisation GitHub ou du serveur Discord lui-même. A cet égard, les mentors sont en tout point égaux aux membres. Pour plus d'informations, merci de lire le [guide de contribution](./CONTRIBUTING.md).
+Tout membre de la communauté a un droit de participation et de vote sur les différentes contributions et évolutions proposées au sein de l'organisation GitHub ou du serveur Discord lui-même. A cet égard, les mentors et les administrateurs sont en tout point égaux aux membres. Pour plus d'informations, merci de lire le [guide de contribution](./CONTRIBUTING.md).
 
 # Invitation Discord
 ```js
@@ -183,15 +184,28 @@ Description du projet
 
 ![Salon projets](https://user-images.githubusercontent.com/2799010/45077282-05739a00-b0ed-11e8-9574-43152eb60e22.png)
 
+# Administrateurs
+Les administrateurs mettent en application les décisions prises par la communauté et avertissent ou sanctionnent en cas de manquement au code de conduite de la part d'un membre.
+Ils sont nommés à la discrétion des fondateurs, triés parmi les mentors.
+
+Les administrateurs :
+- Fraxken
+- Purexo
+- Xavier
+- Romain Lanz
+- Targos
+
+Tout comportement abusif peut être rapporté aux Administrateurs de la communauté. Vous pouvez les mentionner sur Discord avec `@Administrateurs`.
+
 # Mentors
-Tout comportement abusif peut être rapporté aux Mentors de la communauté. Vous pouvez les mentionner sur Discord avec `@Mentor`.
+Les mentors sont des membres brillant par leur investissement dans la communauté en étant particulièrement actifs avec une communication adéquate, pédagogique et bienveillante.
+Ils participent à faire vivre le Discord en animant les discussions sur les évolutions du code de conduite, encouragent les membres à proposer des changements en les guidant au besoin et mettent en place les weektalks.
+Ils sont nommés selon les modalités du [Code de contribution](CONTRIBUTING.md).
 
 Les mentors :
 - Fraxken
 - Xavier
 - Purexo
 - Tiyo
-- Antoine
-- Nolan
 - Romain Lanz
 - Targos
