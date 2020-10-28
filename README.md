@@ -128,13 +128,13 @@ for (const [name, description] of channels) {
 - `#typescript` - Pour parler du langage TypeScript.
 - `#native` - Tout ce qui concerne l'implémentation de packages natif sur Node.js (N-API, NaN et Neon).
 - `#security` - Tout ce qui est lien avec la sécurité d'applications web, les bonnes pratiques d'authentification, etc.
-- `#autres` - Tout autres sujets qui concernent le développement.
+- `#autres-dev` - Tout autres sujets qui concernent le développement.
 
 ### Systèmes et databases
 - `#database` - Tout ce qui concerne des problèmes liés à une SGBD.
 - `#linux` - Tout les systèmes Linux (UNIX).
 - `#docker` - Tout ce qui concerne Docker. (Déploiement, configuration etc..).
-- `#autres` - Tout autres problèmes en liaison avec le système.
+- `#autres-sys` - Tout autres problèmes en liaison avec le système.
 
 ### Autres
 - `#jeux` - Discussions autour de vos jeux préférés
