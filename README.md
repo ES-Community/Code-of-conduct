@@ -145,7 +145,7 @@ for (const [name, description] of channels) {
 - `#autres` - Salon pour parler de tout et n'importe quoi !
 
 ### Evenements
-- `#nodeschool` - Discussions autour de la NodeSchool.
+- `#meetup` - Discussions autour de la NodeSchool.
 - `#weektalk` - Infos sur les prochains [weektalks](https://github.com/ES-Community/weektalk).
 - `#insomni-hack` - Discussions au sujet de [l'insomni-hack](https://insomnihack.ch).
 - `#ludum-dare` - Discussions au sujet de [Ludum Dare](https://ldjam.com/events/ludum-dare/rules).
