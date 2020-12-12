@@ -163,7 +163,7 @@ Les liens doivent obligatoirement être en relation avec le développement.
 
 ### #jobs
 ```md
-**[ Orientation du poste ] - [ Langage/Techno (si possible avec des émojis) ] - Intitulé du poste**
+**[ Orientation du poste ] - [ Langage(s) et/ou technologie(s) (si possible avec des émojis) ] - Intitulé du poste**
 
 Description courte (missions proposés, lieu, nom de la boite, rémunération, ...)
 
