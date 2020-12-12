@@ -165,9 +165,9 @@ Les liens doivent obligatoirement être en relation avec le développement.
 ```md
 **[ Orientation du poste ] - [ Langage(s) et/ou technologie(s) (si possible avec des émojis) ] - Intitulé du poste**
 
-Description courte (missions proposés, lieu, nom de la boite, rémunération, ...)
+Description courte (missions proposés, lieu, nom de la boite, rémunération, etc.)
 
-Lien de l'annonce / contact
+Lien de l'annonce et/ou contact
 ```
 
 ![Salon jobs](https://user-images.githubusercontent.com/2799010/45076330-25ee2500-b0ea-11e8-8a0f-ff97d2fd7dd8.png)
