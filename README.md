@@ -107,7 +107,7 @@ Chaque présentation doit **être un minimum travaillé** et les mentors sont **
 ```js
 const channels = ESCommunity.getChannels();
 for (const [name, description] of channels) {
-    console.log(`- `#${name}` - ${description}`)
+    console.log(`- \`#${name}\` - ${description}`)
 }
 ```
 ## Liste
