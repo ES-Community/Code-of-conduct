@@ -116,9 +116,9 @@ for (const [name, description] of channels) {
 - `#presentation` - Présentations des membres de la communauté
 - `#blabla` - Salon libre
 - `#liens` - Ce salon vous permet d'envoyer des liens vers des projets/drafts intéressants (Obligatoirement en lien avec le groupe).
+- `#live` - Salon d'annonce de stream de nos membres.
 - `#jobs` - Salon permettant de partager des offres d'emploi au reste de la communauté
 - `#tweets` - Salon privé où le Bot publie fréquemment les tweets les plus intéressants sur Node.js et ECMAScript.
-- `#live` - Salon d'annonce de stream de nos membres (en rapport avec la programmation, ou pas !)
 
 ### Développement
 - `#debutant` - Salon dédié à toutes questions de débutant
