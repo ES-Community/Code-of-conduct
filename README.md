@@ -18,6 +18,7 @@ ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre 
     - [Evenements](#evenements)
   - [Formats](#formats)
     - [#liens](#liens)
+    - [#lives](#lives)
     - [#jobs](#jobs)
     - [#projets](#projets)
 - [Administrateurs](#administrateurs)
@@ -116,6 +117,7 @@ for (const [name, description] of channels) {
 - `#presentation` - Présentations des membres de la communauté
 - `#blabla` - Salon libre
 - `#liens` - Ce salon vous permet d'envoyer des liens vers des projets/drafts intéressants (Obligatoirement en lien avec le groupe).
+- `#lives` - Salon d'annonce de stream de nos membres.
 - `#jobs` - Salon permettant de partager des offres d'emploi au reste de la communauté
 - `#tweets` - Salon privé où le Bot publie fréquemment les tweets les plus intéressants sur Node.js et ECMAScript.
 
@@ -160,6 +162,17 @@ Les liens doivent obligatoirement être en relation avec le développement.
 `[**TITRE et/ou ÉMOJI**] Description - Lien`
 
 ![Salon liens](https://user-images.githubusercontent.com/2799010/45076365-4322f380-b0ea-11e8-9d98-3fb9913b0f20.png)
+
+### #lives
+Les lives doivent obligatoirement être en relation avec le développement. 
+
+```md
+Description courte (ce que vous allez faire, stack utilisée, etc.)
+
+Date (et heure) du live
+
+Lien vers votre chaine
+```
 
 ### #jobs
 ```md
