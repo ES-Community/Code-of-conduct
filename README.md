@@ -143,7 +143,6 @@ for (const [name, description] of channels) {
 - `#gif` - Salon d'échange de gifs funs autour du développement ou autres
 - `#logs` - Salon de log des activités de l'ES-Community.
 - `#projets` - Salon pour présenter les projets réalisés par les membres de la communauté
-- `#vocal` - Salon pour échanger lors d'un vocal
 - `#autres` - Salon pour parler de tout et n'importe quoi !
 
 ### Evenements
