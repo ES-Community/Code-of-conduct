@@ -201,7 +201,7 @@ Description du projet
 
 Maintenant que Discord autorise la création de fil de discussion, vous êtes libre de les utiliser.
 
-- Si vous souhaitez commenter un message dans un des [salons ci-dessus](#threads), il est requis de passer par un fil de discussion dorénavant.
+- Si vous souhaitez commenter un message dans un des [salons ci-dessus](#formats), il est requis de passer par un fil de discussion dorénavant.
 - Si vous sentez qu'une discussion prend le pas sur le canal, basculez sur un thread pour libérer le canal à d'autres sujets.
 
 # Administrateurs
