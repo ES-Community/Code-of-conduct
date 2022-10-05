@@ -203,8 +203,8 @@ Description du projet
 ![Salon projets](https://user-images.githubusercontent.com/2799010/45077282-05739a00-b0ed-11e8-9574-43152eb60e22.png)
 
 # Politique d'archivage
-Plutot que de supprimer un canal car il n'est pas utilisé par la communauté, il est possible de les déplacer dans la catégorie Archives et passera en lecture seule.
-Ce type de décision ce prends via les PR : proposition d'une PR avec le canal à archivé déplacé dans la section Archives. Une fois la PR validé les administrateurs appliqueront la décision.
+Plutôt que de supprimer un canal car il n'est pas utilisé par la communauté, il est possible de le déplacer dans la catégorie Archives et il passera en lecture seule.
+Ce type de décision se prend via les PR : proposition d'une PR avec le canal à archiver déplacé dans la section Archives. Une fois la PR validée les administrateurs appliqueront la décision.
 
 # Administrateurs
 Les administrateurs mettent en application les décisions prises par la communauté et avertissent ou sanctionnent en cas de manquement au code de conduite de la part d'un membre.
