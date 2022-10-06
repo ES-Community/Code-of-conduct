@@ -22,6 +22,7 @@ ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre 
     - [#lives](#lives)
     - [#jobs](#jobs)
     - [#projets](#projets)
+  - [Threads](#threads)
 - [Politique d'archivage](#politique-d-archivage)
 - [Administrateurs](#administrateurs)
 - [Mentors](#mentors)
@@ -201,6 +202,13 @@ Description du projet
 ```
 
 ![Salon projets](https://user-images.githubusercontent.com/2799010/45077282-05739a00-b0ed-11e8-9574-43152eb60e22.png)
+
+## Threads
+
+Maintenant que Discord autorise la création de fils de discussion (threads), vous êtes libre de les utiliser.
+
+- Si vous souhaitez commenter un message dans un des [salons ci-dessus](#formats), il est requis de passer par un fil de discussion dorénavant.
+- Si vous sentez qu'une discussion prend le pas sur le canal, basculez sur un thread pour libérer le canal à d'autres sujets.
 
 # Politique d'archivage
 Plutôt que de supprimer un canal car il n'est pas utilisé par la communauté, il est possible de le déplacer dans la catégorie Archives et il passera en lecture seule.
