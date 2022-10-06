@@ -16,12 +16,14 @@ ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre 
     - [Systèmes et databases](#systèmes-et-databases)
     - [Autres](#autres)
     - [Evenements](#evenements)
+    - [Archives](#archives)
   - [Formats](#formats)
     - [#liens](#liens)
     - [#lives](#lives)
     - [#jobs](#jobs)
     - [#projets](#projets)
   - [Threads](#threads)
+- [Politique d'archivage](#politique-d-archivage)
 - [Administrateurs](#administrateurs)
 - [Mentors](#mentors)
 
@@ -120,14 +122,12 @@ for (const [name, description] of channels) {
 - `#liens` - Ce salon vous permet d'envoyer des liens vers des projets/drafts intéressants (Obligatoirement en lien avec le groupe).
 - `#lives` - Salon d'annonce de stream de nos membres.
 - `#jobs` - Salon permettant de partager des offres d'emploi au reste de la communauté
-- `#tweets` - Salon privé où le Bot publie fréquemment les tweets les plus intéressants sur Node.js et ECMAScript.
 
 ### Développement
 - `#debutant` - Salon dédié à toutes questions de débutant
 - `#ecmascript` - Tout ce qui est en liaison avec l'écosystème ECMAScript, par exemple : Babel, etc.
 - `#front` - HTML & CSS, UI/UX Designer, WEBGL, Framework front, VanillaJS, JQuery, etc.
 - `#nodejs` - Pour parler de tout ce qui concerne Node.js
-- `#design` - Salon permettant de partager des créations graphiques.
 - `#typescript` - Pour parler du langage TypeScript.
 - `#native` - Tout ce qui concerne l'implémentation de packages natif sur Node.js (N-API, NaN et Neon).
 - `#security` - Tout ce qui est lien avec la sécurité d'applications web, les bonnes pratiques d'authentification, etc.
@@ -151,6 +151,12 @@ for (const [name, description] of channels) {
 - `#weektalk` - Infos sur les prochains [weektalks](https://github.com/ES-Community/weektalk).
 - `#insomni-hack` - Discussions au sujet de [l'insomni-hack](https://insomnihack.ch).
 - `#ludum-dare` - Discussions au sujet de [Ludum Dare](https://ldjam.com/events/ludum-dare/rules).
+
+### Archives
+- `#giveaway`
+- `#covid`
+- `#tweets` - Salon privé où le Bot publie fréquemment les tweets les plus intéressants sur Node.js et ECMAScript.
+- `#design` - Salon permettant de partager des créations graphiques.
 - `#battledev` - Discussion au sujet de la [BattleDev](https://battledev.blogdumoderateur.com).
 
 ## Formats
@@ -203,6 +209,10 @@ Maintenant que Discord autorise la création de fils de discussion (threads), vo
 
 - Si vous souhaitez commenter un message dans un des [salons ci-dessus](#formats), il est requis de passer par un fil de discussion dorénavant.
 - Si vous sentez qu'une discussion prend le pas sur le canal, basculez sur un thread pour libérer le canal à d'autres sujets.
+
+# Politique d'archivage
+Plutôt que de supprimer un canal car il n'est pas utilisé par la communauté, il est possible de le déplacer dans la catégorie Archives et il passera en lecture seule.
+Ce type de décision se prend via les PR : proposition d'une PR avec le canal à archiver déplacé dans la section Archives. Une fois la PR validée les administrateurs appliqueront la décision.
 
 # Administrateurs
 Les administrateurs mettent en application les décisions prises par la communauté et avertissent ou sanctionnent en cas de manquement au code de conduite de la part d'un membre.
