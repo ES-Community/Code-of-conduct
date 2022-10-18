@@ -240,3 +240,4 @@ Les mentors :
 - Romain Lanz
 - Targos
 - Koko
+- TnTakara
