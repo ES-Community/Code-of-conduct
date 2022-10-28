@@ -236,7 +236,6 @@ Les mentors :
 - Fraxken
 - Xavier
 - Purexo
-- Tiyo
 - Romain Lanz
 - Targos
 - Koko
