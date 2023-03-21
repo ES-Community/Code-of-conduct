@@ -191,7 +191,7 @@ Lien de l'annonce et/ou contact
 
 ![Salon jobs](https://user-images.githubusercontent.com/2799010/45076330-25ee2500-b0ea-11e8-8a0f-ff97d2fd7dd8.png)
 
-L'indication d'une fourchette de rémunération est obligatoire. La modération s'engage à retirer les annonces ne correpondant pas aux attentes et à en notifier l'auteurice (accompagné de l'annonce originale)
+L'indication d'une fourchette de rémunération est obligatoire. La modération s'engage à retirer les annonces ne correpondant pas aux attentes et à en notifier l'auteurice (accompagné de l'annonce originale).
 
 ### #projets
 
