@@ -90,7 +90,7 @@ Tout membre de la communauté a un droit de participation et de vote sur les dif
 # Invitation Discord
 ```js
 document.getElementById('discordInvitation').addEventListener('click',function(e) {
-    e.preventDefault(); 
+    e.preventDefault();
     ESCommunity.invite(user);
 });
 ```
@@ -150,6 +150,7 @@ for (const [name, description] of channels) {
 - `#weektalk` - Infos sur les prochains [weektalks](https://github.com/ES-Community/weektalk).
 - `#insomni-hack` - Discussions au sujet de [l'insomni-hack](https://insomnihack.ch).
 - `#ludum-dare` - Discussions au sujet de [Ludum Dare](https://ldjam.com/events/ludum-dare/rules).
+- `#advent-of-code` - Discussions au sujet de [l'advent of code](https://adventofcode.com/)
 
 ### Archives
 - `#giveaway`
@@ -163,13 +164,13 @@ Pour certains salons, merci de bien vouloir respecter les formats suivants.
 
 ### #liens
 Les liens doivent obligatoirement être en relation avec le développement.
- 
+
 `[**TITRE et/ou ÉMOJI**] Description - Lien`
 
 ![Salon liens](https://user-images.githubusercontent.com/2799010/45076365-4322f380-b0ea-11e8-9d98-3fb9913b0f20.png)
 
 ### #lives
-Les lives doivent obligatoirement être en relation avec le développement. 
+Les lives doivent obligatoirement être en relation avec le développement.
 
 ```md
 Description courte (ce que vous allez faire, stack utilisée, etc.)
