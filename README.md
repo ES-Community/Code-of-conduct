@@ -23,6 +23,7 @@ ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre 
     - [#jobs](#jobs)
     - [#projets](#projets)
   - [Threads](#threads)
+- [Bot](#bot)
 - [Politique d'archivage](#politique-d-archivage)
 - [Administrateurs](#administrateurs)
 - [Mentors](#mentors)
@@ -206,11 +207,19 @@ Description du projet
 ![Salon projets](https://user-images.githubusercontent.com/2799010/45077282-05739a00-b0ed-11e8-9574-43152eb60e22.png)
 
 ## Threads
-
 Maintenant que Discord autorise la création de fils de discussion (threads), vous êtes libre de les utiliser.
 
 - Si vous souhaitez commenter un message dans un des [salons ci-dessus](#formats), il est requis de passer par un fil de discussion dorénavant.
 - Si vous sentez qu'une discussion prend le pas sur le canal, basculez sur un thread pour libérer le canal à d'autres sujets.
+
+# Bot
+La communauté développe et utilise son propre bot Discord, il est actuellement utilisé pour les fonctionnalités suivantes :
+- Valider les messages postés dans les channels `#liens`, `#jobs` et `#projets`
+- Poster des messages de manière automatique comme :
+  - Des jeux en promotion provenant de [Epic Games](https://store.epicgames.com) et [GOG](https://www.gog.com) dans le channel `#jeux`
+  - Les publications du site [XKCD](https://xkcd.com) dans le channel `#gif`
+
+Si vous souhaitez l'améliorer ou proposer d'autres fonctionnalités, vous pouvez y contribuer sur [son repos Github](https://github.com/ES-Community/bot).
 
 # Politique d'archivage
 Plutôt que de supprimer un canal car il n'est pas utilisé par la communauté, il est possible de le déplacer dans la catégorie Archives et il passera en lecture seule.
