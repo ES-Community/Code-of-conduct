@@ -103,7 +103,7 @@ Chaque présentation doit **être un minimum travaillé** et les mentors sont **
 
 - Votre métier.
 - Vos expériences et préférences (langages, technologies etc....).
-- Profil Github / Gitlab / Bitbucket ou autres.
+- Profil GitHub / Gitlab / Bitbucket ou autres.
 - Depuis combien de temps faites vous du JavaScript et/ou Node.js (par passion ou non).
 - Comment avez-vous découvert la communauté.
 
@@ -219,7 +219,7 @@ La communauté développe et utilise son propre bot Discord, il est actuellement
   - Des jeux en promotion provenant de [Epic Games](https://store.epicgames.com) et [GOG](https://www.gog.com) dans le channel `#jeux`
   - Les publications du site [XKCD](https://xkcd.com) dans le channel `#gif`
 
-Si vous souhaitez l'améliorer ou proposer d'autres fonctionnalités, vous pouvez y contribuer sur [son repos Github](https://github.com/ES-Community/bot).
+Si vous souhaitez l'améliorer ou proposer d'autres fonctionnalités, vous pouvez y contribuer sur [son dépôt GitHub](https://github.com/ES-Community/bot).
 
 # Politique d'archivage
 Plutôt que de supprimer un canal car il n'est pas utilisé par la communauté, il est possible de le déplacer dans la catégorie Archives et il passera en lecture seule.
