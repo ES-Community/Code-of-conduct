@@ -23,6 +23,7 @@ ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre 
     - [#jobs](#jobs)
     - [#projets](#projets)
   - [Threads](#threads)
+- [Bot](#bot)
 - [Politique d'archivage](#politique-d-archivage)
 - [Administrateurs](#administrateurs)
 - [Mentors](#mentors)
@@ -90,7 +91,7 @@ Tout membre de la communauté a un droit de participation et de vote sur les dif
 # Invitation Discord
 ```js
 document.getElementById('discordInvitation').addEventListener('click',function(e) {
-    e.preventDefault(); 
+    e.preventDefault();
     ESCommunity.invite(user);
 });
 ```
@@ -102,7 +103,7 @@ Chaque présentation doit **être un minimum travaillé** et les mentors sont **
 
 - Votre métier.
 - Vos expériences et préférences (langages, technologies etc....).
-- Profil Github / Gitlab / Bitbucket ou autres.
+- Profil GitHub / Gitlab / Bitbucket ou autres.
 - Depuis combien de temps faites vous du JavaScript et/ou Node.js (par passion ou non).
 - Comment avez-vous découvert la communauté.
 
@@ -150,6 +151,7 @@ for (const [name, description] of channels) {
 - `#weektalk` - Infos sur les prochains [weektalks](https://github.com/ES-Community/weektalk).
 - `#insomni-hack` - Discussions au sujet de [l'insomni-hack](https://insomnihack.ch).
 - `#ludum-dare` - Discussions au sujet de [Ludum Dare](https://ldjam.com/events/ludum-dare/rules).
+- `#advent-of-code` - Discussions au sujet de [l'advent of code](https://adventofcode.com/)
 
 ### Archives
 - `#giveaway`
@@ -163,13 +165,13 @@ Pour certains salons, merci de bien vouloir respecter les formats suivants.
 
 ### #liens
 Les liens doivent obligatoirement être en relation avec le développement.
- 
+
 `[**TITRE et/ou ÉMOJI**] Description - Lien`
 
 ![Salon liens](https://user-images.githubusercontent.com/2799010/45076365-4322f380-b0ea-11e8-9d98-3fb9913b0f20.png)
 
 ### #lives
-Les lives doivent obligatoirement être en relation avec le développement. 
+Les lives doivent obligatoirement être en relation avec le développement.
 
 ```md
 Description courte (ce que vous allez faire, stack utilisée, etc.)
@@ -190,7 +192,7 @@ Lien de l'annonce et/ou contact
 
 ![Salon jobs](https://user-images.githubusercontent.com/2799010/45076330-25ee2500-b0ea-11e8-8a0f-ff97d2fd7dd8.png)
 
-L'indication d'une fourchette de rémunération est obligatoire. La modération s'engage à retirer les annonces ne correpondant pas aux attentes et à en notifier l'auteurice (accompagné de l'annonce originale).
+L'indication d'une fourchette de rémunération est obligatoire. La modération s'engage à retirer les annonces ne correspondant pas aux attentes et à en notifier l'auteurice (accompagné de l'annonce originale).
 
 ### #projets
 
@@ -205,11 +207,19 @@ Description du projet
 ![Salon projets](https://user-images.githubusercontent.com/2799010/45077282-05739a00-b0ed-11e8-9574-43152eb60e22.png)
 
 ## Threads
-
 Maintenant que Discord autorise la création de fils de discussion (threads), vous êtes libre de les utiliser.
 
 - Si vous souhaitez commenter un message dans un des [salons ci-dessus](#formats), il est requis de passer par un fil de discussion dorénavant.
 - Si vous sentez qu'une discussion prend le pas sur le canal, basculez sur un thread pour libérer le canal à d'autres sujets.
+
+# Bot
+La communauté développe et utilise son propre bot Discord, il est actuellement utilisé pour les fonctionnalités suivantes :
+- Valider les messages postés dans les channels `#liens`, `#jobs` et `#projets`
+- Poster des messages de manière automatique comme :
+  - Des jeux en promotion provenant de [Epic Games](https://store.epicgames.com) et [GOG](https://www.gog.com) dans le channel `#jeux`
+  - Les publications du site [XKCD](https://xkcd.com) dans le channel `#gif`
+
+Si vous souhaitez l'améliorer ou proposer d'autres fonctionnalités, vous pouvez y contribuer sur [son dépôt GitHub](https://github.com/ES-Community/bot).
 
 # Politique d'archivage
 Plutôt que de supprimer un canal car il n'est pas utilisé par la communauté, il est possible de le déplacer dans la catégorie Archives et il passera en lecture seule.
