@@ -213,12 +213,12 @@ Description du projet
 Ce canal est en lecture seule, y seront retransmis les nouvelles de
 
 - Typescript, TypeScript Community #updates (Discord), annonces des MaJs de Typescript
-- Node.js, Websocket github sur les releases
+- Node.js, Webhook github sur les releases
 
 La communauté peut proposer la mise à jours de cette liste via une PR. Peuvent être envisagé comme source de communication simple :
 
 - un canal d'annonce d'un serveur Discord
-- un websocket
+- un webhook
 
 En l'absence de ces moyens, Feed RSS et scrapping peuvent être ajouté via le [Bot](#Bot)
 
