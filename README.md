@@ -122,7 +122,7 @@ for (const [name, description] of channels) {
 - `#blabla` - Salon libre
 - `#liens` - Ce salon vous permet d'envoyer des liens vers des projets/drafts intéressants (Obligatoirement en lien avec le groupe).
 - `#lives` - Salon d'annonce de stream de nos membres.
-- `#news` - Salon de suivis des nouvelles tech.
+- `#news` - Salon de suivi des nouvelles tech.
 - `#jobs` - Salon permettant de partager des offres d'emploi au reste de la communauté
 
 ### Développement
@@ -210,17 +210,17 @@ Description du projet
 
 ## #news
 
-Ce canal est en lecture seule, y seront retransmis les nouvelles de
+Ce canal est en lecture seule, y seront retransmises les nouvelles de
 
 - Typescript, TypeScript Community #updates (Discord), annonces des MaJs de Typescript
 - Node.js, Webhook github sur les releases
 
-La communauté peut proposer la mise à jours de cette liste via une PR. Peuvent être envisagé comme source de communication simple :
+La communauté peut proposer la mise à jour de cette liste via une PR. Peuvent être envisagées comme source de communication simple :
 
 - un canal d'annonce d'un serveur Discord
 - un webhook
 
-En l'absence de ces moyens, Feed RSS et scrapping peuvent être ajouté via le [Bot](#Bot)
+En l'absence de ces moyens, Feed RSS et scrapping peuvent être ajoutés via le [Bot](#Bot)
 
 ## Threads
 Maintenant que Discord autorise la création de fils de discussion (threads), vous êtes libre de les utiliser.
