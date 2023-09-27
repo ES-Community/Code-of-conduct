@@ -215,6 +215,7 @@ Ce canal est en lecture seule, y seront retransmises les nouvelles de
 - Typescript, TypeScript Community #updates (Discord), annonces des MaJs de Typescript
 - Node.js, via feed atom (bot), annonces des releases de Node.js
 - AdonisJS, AdonisJS Framework #📢-announces (Discord), annonces des MaJs de Adonis
+- Tailwind CSS, Tailwind CSS #announcements (Discord), annonces des MaJs de Tailwind CSS
 
 La communauté peut proposer la mise à jour de cette liste via une PR. Peuvent être envisagées comme source de communication simple :
 
