@@ -22,6 +22,7 @@ ES-Community est une communauté ECMAScript francophone créée fin 2015. Notre 
     - [#lives](#lives)
     - [#jobs](#jobs)
     - [#projets](#projets)
+  - [#news](#news)
   - [Threads](#threads)
 - [Bot](#bot)
 - [Politique d'archivage](#politique-d-archivage)
@@ -121,6 +122,7 @@ for (const [name, description] of channels) {
 - `#blabla` - Salon libre
 - `#liens` - Ce salon vous permet d'envoyer des liens vers des projets/drafts intéressants (Obligatoirement en lien avec le groupe).
 - `#lives` - Salon d'annonce de stream de nos membres.
+- `#news` - Salon de suivi des nouvelles tech.
 - `#jobs` - Salon permettant de partager des offres d'emploi au reste de la communauté
 
 ### Développement
@@ -205,6 +207,22 @@ Description du projet
 ```
 
 ![Salon projets](https://user-images.githubusercontent.com/2799010/45077282-05739a00-b0ed-11e8-9574-43152eb60e22.png)
+
+## #news
+
+Ce canal est en lecture seule, y seront retransmises les nouvelles de
+
+- Typescript, TypeScript Community #updates (Discord), annonces des MaJs de Typescript
+- Node.js, via feed atom (bot), annonces des releases de Node.js
+- AdonisJS, AdonisJS Framework #📢-announces (Discord), annonces des MaJs de Adonis
+- Tailwind CSS, Tailwind CSS #announcements (Discord), annonces des MaJs de Tailwind CSS
+
+La communauté peut proposer la mise à jour de cette liste via une PR. Peuvent être envisagées comme source de communication simple :
+
+- un canal d'annonce d'un serveur Discord
+- un webhook
+
+En l'absence de ces moyens, Feed RSS et scrapping peuvent être ajoutés via le [Bot](#Bot)
 
 ## Threads
 Maintenant que Discord autorise la création de fils de discussion (threads), vous êtes libre de les utiliser.
